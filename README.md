@@ -1,5 +1,3 @@
-# Star Fox Zero PT-BR
-
 > **Status do Projeto:**  **Em Tradução (5%)** ⚠ **Sem previsão de lançamento.** ⚠
 
 ## 📥 Downloads
