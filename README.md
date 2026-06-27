@@ -7,7 +7,7 @@
 ### ...
 
 <p align="center">
-  <img src="Metroid_Prime_Remastered.png" alt="Star Fox Zero PT-BR">
+  <img src="Star_Fox_Zero.png" alt="Star Fox Zero PT-BR">
 </p>
 
 ## 🔹 Sobre a Tradução
