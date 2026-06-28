@@ -1,0 +1,345 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;62C74F81;PAU_MENU_BASE_001;0;0;0;0;0;Continuar;Continuar
+1;7BCE1E3B;PAU_MENU_BASE_002;1;0;0;0;0;Reiniciar la misión;Reiniciar a missão
+2;75DD4F83;PAU_MENU_BASE_802;2;0;0;0;0;Reiniciar el entrenamiento;Reiniciar o treinamento
+3;0CC92EAD;PAU_MENU_BASE_003;3;0;0;0;0;Salir;Sair
+4;0F4DFAC3;PAU_MENU_BASE_203;4;0;0;0;0;Salir;Sair
+5;03181522;PAU_MENU_BASE_903;5;0;0;0;0;Salir;Sair
+6;02DA7F15;PAU_MENU_BASE_803;6;0;0;0;0;Salir;Sair
+7;09863828;PAU_MENU_BASE_703;7;0;0;0;0;Salir;Sair
+8;4947F90D;PAU_MENU_INFO_002;8;0;0;0;0;Quieres volver a empezar;Deseja reiniciar
+9;4947F90D;PAU_MENU_INFO_002;8;0;0;1;1;la misión?;a missão?
+10;4754A8B5;PAU_MENU_INFO_802;9;0;0;0;0;Quieres volver a empezar;Deseja reiniciar
+11;4754A8B5;PAU_MENU_INFO_802;9;0;0;1;1;la simulación?;a simulacão?
+12;3E40C99B;PAU_MENU_INFO_003;10;0;0;0;0;Quieres abandonar la misión?;Deseja abandonar a missão?
+13;3E40C99B;PAU_MENU_INFO_003;10;0;0;1;1;Se perderán los datos no guardados.;Dados não salvos serão perdidos.
+14;3DC41DF5;PAU_MENU_INFO_203;11;0;0;0;0;Quieres regresar a;Deseja voltar para
+15;3DC41DF5;PAU_MENU_INFO_203;11;0;0;1;1;la pantalla de récords?;a tela de salvamento?
+16;3DC41DF5;PAU_MENU_INFO_203;11;0;0;2;2;Se perderán los datos no guardados.;Dados não salvos serão perdidos.
+17;30539823;PAU_MENU_INFO_803;12;0;0;0;0;Quieres salir del modo Entrenamiento?;Deseja sair do modo Treinamento?
+18;3B0FDF1E;PAU_MENU_INFO_703;13;0;0;0;0;Quieres regresar a la pantalla;Deseja retornar a tela
+19;3B0FDF1E;PAU_MENU_INFO_703;13;0;0;1;1;de selección de misión?;de selecão de missão?
+20;3B0FDF1E;PAU_MENU_INFO_703;13;0;0;2;2;Se perderán los datos no guardados.;Dados não salvos serão perdidos.
+21;3191F214;PAU_MENU_INFO_903;14;0;0;0;0;Quieres regresar a la pantalla;Deseja retornar a tela
+22;3191F214;PAU_MENU_INFO_903;14;0;0;1;1;de selección de misión?;de selecão de missão?
+23;3191F214;PAU_MENU_INFO_903;14;0;0;2;2;Se perderán los datos no guardados.;Dadosnão salvos serão perdidos.
+24;0E8F90F4;PAU_MENU_BASE_303;15;0;0;0;0;Salir;Sair
+25;4B014754;PAU_MENU_INFO_302;16;0;0;0;0;Quieres utilizar los tres;Deseja usar os 3 anéis de
+26;4B014754;PAU_MENU_INFO_302;16;0;0;1;1;aros dorados y volver;de ouro e comecar a
+27;4B014754;PAU_MENU_INFO_302;16;0;0;2;2;a empezar la misión?;missão novamente?
+28;3C0677C2;PAU_MENU_INFO_303;17;0;0;0;0;Quieres abandonar la partida?;Deseja abandonar o jogo?
+29;3C0677C2;PAU_MENU_INFO_303;17;0;0;1;1;No se guardará la puntuación actual.;A pontuacão atual não será salva.
+30;21825ACA;PAU_MENU_INFO_500;18;0;0;0;0;Quieres repetir la misión?;Deseja repetir a missão?
+31;56856A5C;PAU_MENU_INFO_501;19;0;0;0;0;Sí;Sim
+32;4F8C3BE6;PAU_MENU_INFO_502;20;0;0;0;0;No;Não
+33;388B0B70;PAU_MENU_INFO_503;21;0;0;0;0;Se te va a enviar una caja de suministros;Receberá uma caixa de suprimentos contendo 
+34;388B0B70;PAU_MENU_INFO_503;21;0;0;1;1;que contiene un emblema dorado. Al recogerlo,;um emblema dourado. Coletá-lo lhe dará
+35;388B0B70;PAU_MENU_INFO_503;21;0;0;2;2;serás invencible durante la misión,;invencibilidade durante a missão, mas
+36;388B0B70;PAU_MENU_INFO_503;21;0;0;3;3;pero no se guardará la puntuación.;sua pontuacão não será salva.
+37;26EF9ED3;PAU_MENU_INFO_504;22;0;0;0;0;No;Não
+38;54C3D405;PAU_MENU_INFO_601;23;0;0;0;0;El mando del jugador 2 se ha desconectado.;Controle do jogador 2 foi desconectado.
+39;54C3D405;PAU_MENU_INFO_601;23;0;0;1;1;Puede que la batería se haya agotado.;A bateria pode estar descarregada.
+40;54C3D405;PAU_MENU_INFO_601;23;0;0;2;2;Compruébalo, conecta de nuevo el mando;Verifique, reconecte o controle
+41;54C3D405;PAU_MENU_INFO_601;23;0;0;3;3;"y selecciona ""Aceptar"" para continuar.";"e selecione ""Aceitar"" para continuar."
+42;4DCA85BF;PAU_MENU_INFO_602;24;0;0;0;0;Continuar;Continuar
+43;3ACDB529;PAU_MENU_INFO_603;25;0;0;0;0;El jugador 2 necesita un mando Pro de;Jogador 2 precisa de um Pro Controller
+44;3ACDB529;PAU_MENU_INFO_603;25;0;0;1;1;Wii U o un mando de Wii y un Nunchuk.;Wii U ou um Wii Remote e um Nunchuk.
+45;3ACDB529;PAU_MENU_INFO_603;25;0;0;2;2;Pulsa {button:A} en el que quieras utilizar.;Aperte {button:A} naquele que deseja usar.
+46;53AE101C;PAU_MENU_INFO_605;26;0;0;0;0;Voltar;Voltar
+47;3DA07130;PAU_MENU_INFO_607;27;0;0;0;0;Sair;Sair
+48;4AA741A6;PAU_MENU_INFO_606;28;0;0;0;0;Quieres abandonar la misión?;Deseja abandonar a missão? Seu progresso e pontuacão não serão salvos.
+49;4AA741A6;PAU_MENU_INFO_606;28;0;0;1;1;No se guardarán el progreso;Seu progresso e pontuacão
+50;4AA741A6;PAU_MENU_INFO_606;28;0;0;2;2;ni la puntuación.;não serão salvos.
+51;4DD8E544;PAU_MENU_INFO_611;29;0;0;0;0;Mando del jugador 2 detectado.;Controle do jogador 2 detectado.
+52;063897D4;PAU_BUTTON_001;30;0;0;0;0;Controles;Controles
+53;1F31C66E;PAU_BUTTON_002;31;0;0;0;0;Subir;Subir
+54;6836F6F8;PAU_BUTTON_003;32;0;0;0;0;Bajar;Abaixar
+55;7652635B;PAU_BUTTON_004;33;0;0;0;0;Miiverse;Miiverso
+56;015553CD;PAU_BUTTON_005;34;0;0;0;0;Voces 3D;Vozes 3D
+57;185C0277;PAU_BUTTON_006;35;0;0;0;0;Sí;Sim
+58;6F5B32E1;PAU_BUTTON_007;36;0;0;0;0;No;Não
+59;7FE42F70;PAU_BUTTON_008;37;0;0;0;0;Controles;Controles
+60;08E31FE6;PAU_BUTTON_009;38;0;0;0;0;Tipo A;Tipo A
+61;68249603;PAU_BUTTON_010;39;0;0;0;0;Tipo B;Tipo B
+62;1F23A695;PAU_BUTTON_011;40;0;0;0;0;Control por movimiento;Controle de movimento
+63;062AF72F;PAU_BUTTON_012;41;0;0;0;0;Siempre;Sempre
+64;712DC7B9;PAU_BUTTON_013;42;0;0;0;0;Al usar {button:9};Ao usar {button:9}
+65;1DFD1045;PAU_CONTROLS_001;43;0;0;0;0;Controles del Arwing;Controles da Arwing
+66;1DFD1045;PAU_CONTROLS_001;43;1;1;0;0;Controles del Arwing;Controles da Arwing
+67;04F441FF;PAU_CONTROLS_002;44;0;0;0;0;Láser;lazer
+68;73F37169;PAU_CONTROLS_003;45;0;0;0;0;Fijar objetivo;Visualizar objetivo
+69;6D97E4CA;PAU_CONTROLS_004;46;0;0;0;0;Rizo;Loop
+70;1A90D45C;PAU_CONTROLS_005;47;0;0;0;0;Cambio de sentido;Retorno
+71;039985E6;PAU_CONTROLS_006;48;0;0;0;0;Turbo;Turbo
+72;749EB570;PAU_CONTROLS_007;49;0;0;0;0;Frenar;Freio
+73;6421A8E1;PAU_CONTROLS_008;50;0;0;0;0;Tonel;Barril
+74;13269877;PAU_CONTROLS_009;51;0;0;0;0;Transformarse;Transformar
+75;73E11192;PAU_CONTROLS_010;52;0;0;0;0;Cambiar vista;Alterar visualizacão
+76;04E62104;PAU_CONTROLS_011;53;0;0;0;0;Moverse;Mover
+77;1DEF70BE;PAU_CONTROLS_012;54;0;0;0;0;Mantener pulsado y soltar:;Segure e solte:
+78;1DEF70BE;PAU_CONTROLS_012;54;0;0;1;1;disparo cargado;disparo carregado
+79;6AE84028;PAU_CONTROLS_013;55;0;0;0;0;Inclinar;Inclinar
+80;748CD58B;PAU_CONTROLS_014;56;0;0;0;0;Tonel;Barril
+81;038BE51D;PAU_CONTROLS_015;57;0;0;0;0;o {button:Y} Recalibrar mirilla;o {button:Y} Recalibrar o visor
+82;1A82B4A7;PAU_CONTROLS_016;58;0;0;0;0;Controles por movimiento:;Controles de movimento:
+83;1A82B4A7;PAU_CONTROLS_016;58;0;0;1;1;mover la mirilla;mova a mira
+84;6D858431;PAU_CONTROLS_017;59;0;0;0;0;(solo en modo abierto);(apenas no modo livre)
+85;7D3A99A0;PAU_CONTROLS_018;60;0;0;0;0;Láser simple;Laser único
+86;0A3DA936;PAU_CONTROLS_019;61;0;0;0;0;o {button:29} Bomba;ou {button:29} Bomba
+87;58CC4251;PAU_CONTROLS_020;62;0;0;0;0;Recalibrar mirilla;Recalibrar o visor
+88;0E96E5D7;PAU_CONTROLS_040;63;0;0;0;0;Rizo;Loop
+89;7991D541;PAU_CONTROLS_041;64;0;0;0;0;Cambio de sentido;Retorno
+90;609884FB;PAU_CONTROLS_042;65;0;0;0;0;Tonel;Barril
+91;178DD496;PAU_CONTROLS_050;66;0;0;0;0;(Rápidamente);(Rapidamente)
+92;608AE400;PAU_CONTROLS_051;67;0;0;0;0;(Rápidamente);(Rapidamente)
+93;3CA08755;PAU_CONTROLS_060;68;0;0;0;0;{button:40}{button:100} + {button:200}{button:43};{button:40}{button:100} + {button:200}{button:43}
+94;4BA7B7C3;PAU_CONTROLS_061;69;0;0;0;0;{button:40}{button:100} + {button:200}{button:40};{button:40}{button:100} + {button:200}{button:40}
+95;52AEE679;PAU_CONTROLS_062;70;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
+96;25A9D6EF;PAU_CONTROLS_063;71;0;0;0;0;{button:39}{button:100} + {button:200}{button:43};{button:39}{button:100} + {button:200}{button:43}
+97;3BCD434C;PAU_CONTROLS_064;72;0;0;0;0;{button:39}{button:100} + {button:200}{button:40};{button:39}{button:100} + {button:200}{button:40}
+98;25BBB614;PAU_CONTROLS_070;73;0;0;0;0;Sorprende a tus;Surpreenda seus
+99;25BBB614;PAU_CONTROLS_070;73;0;0;1;1;perseguidores;perseguidores
+100;25BBB614;PAU_CONTROLS_070;73;0;0;2;2;haciendo un rizo.;fazendo um loop.
+101;52BC8682;PAU_CONTROLS_071;74;0;0;0;0;Usa esta maniobra para;Use esta manobra para
+102;52BC8682;PAU_CONTROLS_071;74;0;0;1;1;cambiar de sentido;mudar de direcão
+103;52BC8682;PAU_CONTROLS_071;74;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
+104;4BB5D738;PAU_CONTROLS_072;75;0;0;0;0;Haz girar la nave para;Gire a nave para
+105;4BB5D738;PAU_CONTROLS_072;75;0;0;1;1;repeler el fuego enemigo.;repelir o fogo inimigo.
+106;2223AADB;PAU_CONTROLS_080;76;0;0;0;0;Funciones del Arwing;Recursos da Arwing
+107;2223AADB;PAU_CONTROLS_080;76;1;1;0;0;Funciones del Arwing;Recursos da Arwing
+108;025BEFD1;PAU_CONTROLS_106;77;0;0;0;0;Correr;Correr
+109;755CDF47;PAU_CONTROLS_107;78;0;0;0;0;Volar;Voar
+110;6B2A2A1F;PAU_CONTROLS_113;79;0;0;0;0;Paso lateral;Desviar
+111;754EBFBC;PAU_CONTROLS_114;80;0;0;0;0;Girar;Girar
+112;02498F2A;PAU_CONTROLS_115;81;0;0;0;0;Moverse;Mover
+113;1B40DE90;PAU_CONTROLS_116;82;0;0;0;0;Voltereta;Loop
+114;0F548FE0;PAU_CONTROLS_140;83;0;0;0;0;Paso lateral;Desviar
+115;7853BF76;PAU_CONTROLS_141;84;0;0;0;0;Voltereta;Loop
+116;615AEECC;PAU_CONTROLS_142;85;0;0;0;0;Tonel;Barril
+117;164FBEA1;PAU_CONTROLS_150;86;0;0;0;0;;
+118;3D62ED62;PAU_CONTROLS_160;87;0;0;0;0;{button:L} + {button:41}{button:100}{button:42};{button:L} + {button:41}{button:100}{button:42}
+119;4A65DDF4;PAU_CONTROLS_161;88;0;0;0;0;{button:40}{button:100} + {button:200}{button:43};{button:40}{button:100} + {button:200}{button:43}
+120;536C8C4E;PAU_CONTROLS_162;89;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
+121;4D0819ED;PAU_CONTROLS_165;90;0;0;0;0;{button:300} {button:41}{button:200}{button:42};{button:300} {button:41}{button:200}{button:42}
+122;3A0F297B;PAU_CONTROLS_164;91;0;0;0;0;{button:39}{button:100} + {button:200}{button:43};{button:39}{button:100} + {button:200}{button:43}
+123;2479DC23;PAU_CONTROLS_170;92;0;0;0;0;Movimiento útil para;Movimento útil para  
+124;2479DC23;PAU_CONTROLS_170;92;0;0;1;1;esquivar ataques y;esquivar-se de ataques e
+125;2479DC23;PAU_CONTROLS_170;92;0;0;2;2;cambiar de posición.;mudar de posicão.
+126;537EECB5;PAU_CONTROLS_171;93;0;0;0;0;Usa esta maniobra para;Use esta manobra para
+127;537EECB5;PAU_CONTROLS_171;93;0;0;1;1;cambiar de sentido;mudar de direcão
+128;537EECB5;PAU_CONTROLS_171;93;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
+129;4A77BD0F;PAU_CONTROLS_172;94;0;0;0;0;Haz girar el vehículo para;Gire a nave para
+130;4A77BD0F;PAU_CONTROLS_172;94;0;0;1;1;repeler el fuego enemigo.;repelir o fogo inimigo.
+131;23E1C0EC;PAU_CONTROLS_180;95;0;0;0;0;Funciones del Walker;Recursos da Walker
+132;23E1C0EC;PAU_CONTROLS_180;95;1;1;0;0;Funciones del Walker;Recursos da Walker
+133;7077A507;PAU_CONTROLS_203;96;0;0;0;0;Vista cenital;Visão de cima
+134;001D5188;PAU_CONTROLS_206;97;0;0;0;0;Ascender;Subir
+135;771A611E;PAU_CONTROLS_207;98;0;0;0;0;Descender;Descer
+136;10A24C19;PAU_CONTROLS_209;99;0;0;0;0;Sacar el Direct-i;Dispensar o Direct-i
+137;696C9446;PAU_CONTROLS_213;100;0;0;0;0;Moverse;Mover
+138;696C9446;PAU_CONTROLS_213;100;0;0;1;1;de lado;Desviar
+139;770801E5;PAU_CONTROLS_214;101;0;0;0;0;Girar;Girar
+140;000F3173;PAU_CONTROLS_215;102;0;0;0;0;Moverse;Mover
+141;0D1231B9;PAU_CONTROLS_240;103;0;0;0;0;Disparar misil;Disparar míssil
+142;7A15012F;PAU_CONTROLS_241;104;0;0;0;0;Vista cenital;Visão de cima
+143;631C5095;PAU_CONTROLS_242;105;0;0;0;0;Direct-i;Direto-i
+144;140900F8;PAU_CONTROLS_250;106;0;0;0;0;;
+145;3F24533B;PAU_CONTROLS_260;107;0;0;0;0;{button:9} (Mantener/soltar);{button:9}  (segure/solte)
+146;482363AD;PAU_CONTROLS_261;108;0;0;0;0;{button:L} (Mantener);{button:L} (segure)
+147;512A3217;PAU_CONTROLS_262;109;0;0;0;0;{button:A};{button:A}
+148;263F627A;PAU_CONTROLS_270;110;0;0;0;0;Los misiles causan;Os mísseis causam
+149;263F627A;PAU_CONTROLS_270;110;0;0;1;1;mayor dano a los;mais danos aos
+150;263F627A;PAU_CONTROLS_270;110;0;0;2;2;enemigos que son;inimigos resistente
+151;263F627A;PAU_CONTROLS_270;110;0;0;3;3;resistentes al láser.;ao laser.
+152;513852EC;PAU_CONTROLS_271;111;0;0;0;0;Esta vista resulta útil;Essa visão é útil
+153;513852EC;PAU_CONTROLS_271;111;0;0;1;1;cuando necesitas;quando precisar
+154;513852EC;PAU_CONTROLS_271;111;0;0;2;2;maniobrar con precisión.;manobrar com precisão.
+155;48310356;PAU_CONTROLS_272;112;0;0;0;0;Baja el Direct-i para;Abaixe o Direct-i para
+156;48310356;PAU_CONTROLS_272;112;0;0;1;1;que se conecte a;conectar-se aos
+157;48310356;PAU_CONTROLS_272;112;0;0;2;2;paneles, recoja objetos;painéis, coletar objetos
+158;48310356;PAU_CONTROLS_272;112;0;0;3;3;y agarre bombas.;e pegar bombas.
+159;21A77EB5;PAU_CONTROLS_280;113;0;0;0;0;Funciones del Gyrowing;Recursos da Gyrowing
+160;21A77EB5;PAU_CONTROLS_280;113;1;1;0;0;Funciones del Gyrowing;Recursos da Gyrowing
+161;1160262E;PAU_CONTROLS_309;114;0;0;0;0;Recuperar;Recuperar
+162;1160262E;PAU_CONTROLS_309;114;0;0;1;1;el Direct-i;o Direct-i
+163;06A09F5D;PAU_CONTROLS_311;115;0;0;0;0;Moverse;Mover
+164;1FA9CEE7;PAU_CONTROLS_312;116;0;0;0;0;Girar;Girar
+165;0CD05B8E;PAU_CONTROLS_340;117;0;0;0;0;Acceso a sistemas;Acesso aos sistemas
+166;7BD76B18;PAU_CONTROLS_341;118;0;0;0;0;Coger una bomba;Pegar uma bomba
+167;62DE3AA2;PAU_CONTROLS_342;119;0;0;0;0;Entrar en pasadizos;Entre nos corredores
+168;49E1099A;PAU_CONTROLS_361;120;0;0;0;0;{button:A} (Sobre bombas);{button:A} (Sobre bombas)
+169;27FD084D;PAU_CONTROLS_370;121;0;0;0;0;Toca un panel con;Toque em um painel com
+170;27FD084D;PAU_CONTROLS_370;121;0;0;1;1;el Direct-i para acceder;o Direct-i para acessar
+171;27FD084D;PAU_CONTROLS_370;121;0;0;2;2;al sistema informático.;ao sistema do computador
+172;50FA38DB;PAU_CONTROLS_371;122;0;0;0;0;Sitúate sobre una bomba;Suba em uma bomba
+173;50FA38DB;PAU_CONTROLS_371;122;0;0;1;1;y baja el Direct-i para;e abaixe o Direct-i para
+174;50FA38DB;PAU_CONTROLS_371;122;0;0;2;2;cogerla y llevártela.;pegá-la e levá-la.
+175;49F36961;PAU_CONTROLS_372;123;0;0;0;0;Direct-i puede recorrer;O Direct-i consegue  descobrir
+176;49F36961;PAU_CONTROLS_372;123;0;0;1;1;pasadizos estrechos y;navegar por passagens estreitas e
+177;49F36961;PAU_CONTROLS_372;123;0;0;2;2;descubrir zonas ocultas.;áreas escondidas.
+178;20651482;PAU_CONTROLS_380;124;0;0;0;0;Funciones del Direct-i;Recursos do Direct-i
+179;20651482;PAU_CONTROLS_380;124;1;1;0;0;Funciones del Direct-i;Recursos do Direct-i
+180;1AE6D862;PAU_CONTROLS_412;125;0;0;0;0;Mantener pulsado y soltar:;Segure e solte:
+181;1AE6D862;PAU_CONTROLS_412;125;0;0;1;1;misil;míssil
+182;6DE1E8F4;PAU_CONTROLS_413;126;0;0;0;0;Moverse;Mover
+183;6DE1E8F4;PAU_CONTROLS_413;126;0;0;1;1;de lado;Desviar
+184;099F4D0B;PAU_CONTROLS_440;127;0;0;0;0;Tonel;Barril
+185;7E987D9D;PAU_CONTROLS_441;128;0;0;0;0;Multiobjetivo;Multi-alvo
+186;67912C27;PAU_CONTROLS_442;129;0;0;0;0;Transformarse;Transformar
+187;10847C4A;PAU_CONTROLS_450;130;0;0;0;0;;
+188;3BA92F89;PAU_CONTROLS_460;131;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
+189;4CAE1F1F;PAU_CONTROLS_461;132;0;0;0;0;{button:9} (Mantener) + E{button:250}{button:253}{button:254}{button:250}{button:251}{button:252}G;{button:9} (Mantener) + E{button:250}{button:253}{button:254}{button:250}{button:251}{button:252}G
+190;55A74EA5;PAU_CONTROLS_462;133;0;0;0;0;{button:A};{button:A}
+191;22B21EC8;PAU_CONTROLS_470;134;0;0;0;0;Rota el vehículo para;Gire o veículo para
+192;22B21EC8;PAU_CONTROLS_470;134;0;0;1;1;moverte rápidamente;mova-se rapidamente
+193;22B21EC8;PAU_CONTROLS_470;134;0;0;2;2;hacia un lado.;para um dos lados
+194;55B52E5E;PAU_CONTROLS_471;135;0;0;0;0;Con el láser cargado,;Com o laser carregado, 
+195;55B52E5E;PAU_CONTROLS_471;135;0;0;1;1;pasa la mirilla por;passe a mira
+196;55B52E5E;PAU_CONTROLS_471;135;0;0;2;2;hasta tres objetivos;sobre até 3 alvos
+197;55B52E5E;PAU_CONTROLS_471;135;0;0;3;3;para fijarla en ellos.;para travá-los.
+198;4CBC7FE4;PAU_CONTROLS_472;136;0;0;0;0;Transforma el vehículo;Transforme o veículo
+199;4CBC7FE4;PAU_CONTROLS_472;136;0;0;1;1;en el Gravmaster.;no Gravamaster.
+200;252A0207;PAU_CONTROLS_480;137;0;0;0;0;Funciones del Landmaster;Recursos do Landmaster
+201;252A0207;PAU_CONTROLS_480;137;1;1;0;0;Funciones del Landmaster;Recursos do Landmaster
+202;1C3F7A72;PAU_CONTROLS_101;138;0;0;0;0;Controles del Walker;Controles do Walker
+203;1C3F7A72;PAU_CONTROLS_101;138;1;1;0;0;Controles del Walker;Controles do Walker
+204;1E79C42B;PAU_CONTROLS_201;139;0;0;0;0;Controles del Gyrowing;Controles do Gyrowing
+205;1E79C42B;PAU_CONTROLS_201;139;1;1;0;0;Controles del Gyrowing;Controles do Gyrowing
+206;1FBBAE1C;PAU_CONTROLS_301;140;0;0;0;0;Controles del Direct-i;Controles do  Direct-i
+207;1FBBAE1C;PAU_CONTROLS_301;140;1;1;0;0;Controles del Direct-i;Controles do  Direct-i
+208;1AF4B899;PAU_CONTROLS_401;141;0;0;0;0;Controles del Landmaster;Controles do Landmaster
+209;1AF4B899;PAU_CONTROLS_401;141;1;1;0;0;Controles del Landmaster;Controles do Landmaster
+210;1B36D2AE;PAU_CONTROLS_501;142;0;0;0;0;Controles del Gravmaster;Controles do Gravamaster
+211;1B36D2AE;PAU_CONTROLS_501;142;1;1;0;0;Controles del Gravmaster;Controles do Gravamaster
+212;085D273C;PAU_CONTROLS_540;143;0;0;0;0;Volar;Voar
+213;7F5A17AA;PAU_CONTROLS_541;144;0;0;0;0;Multiobjetivo;Multi-alvo
+214;4D6C7528;PAU_CONTROLS_561;145;0;0;0;0;{button:9} (Mantener) + E{button:250}{button:253}{button:254}{button:250}{button:251}{button:252}G;{button:9} (Mantener) + E{button:250}{button:253}{button:254}{button:250}{button:251}{button:252}G
+215;237074FF;PAU_CONTROLS_570;146;0;0;0;0;Hace uso de la barra;Usar a barra
+216;237074FF;PAU_CONTROLS_570;146;0;0;1;1;de turbo.;de turbo.
+217;54774469;PAU_CONTROLS_571;147;0;0;0;0;Con el láser cargado,;Com o laser carregado, 
+218;54774469;PAU_CONTROLS_571;147;0;0;1;1;pasa la mirilla por;passe a mira
+219;54774469;PAU_CONTROLS_571;147;0;0;2;2;hasta tres objetivos;sobre até 3 alvos
+220;54774469;PAU_CONTROLS_571;147;0;0;3;3;para fijarla en ellos.;para travá-los.
+221;24E86830;PAU_CONTROLS_580;148;0;0;0;0;Funciones del Gravmaster;Recursos do Gravamaster
+222;24E86830;PAU_CONTROLS_580;148;1;1;0;0;Funciones del Gravmaster;Recursos do Gravamaster
+223;19706CF7;PAU_CONTROLS_601;149;0;0;0;0;Controles del Roadmaster;Controles do Roadmaster
+224;19706CF7;PAU_CONTROLS_601;149;1;1;0;0;Controles del Roadmaster;Controles do Roadmaster
+225;00793D4D;PAU_CONTROLS_602;150;0;0;0;0;Controles (eje izdo.);Controles (eixo esquerdo)
+226;777E0DDB;PAU_CONTROLS_603;151;0;0;0;0;Controles (eje dcho.);Controles (eixo direito)
+227;0A1B9965;PAU_CONTROLS_640;152;0;0;0;0;Disparar misil;Disparar míssil
+228;7D1CA9F3;PAU_CONTROLS_641;153;0;0;0;0;Aro de turbo;Anel turbo
+229;6415F849;PAU_CONTROLS_642;154;0;0;0;0;Girar;Girar
+230;1312C8DF;PAU_CONTROLS_643;155;0;0;0;0;Marcha atrás;Dar ré
+231;382DFBE7;PAU_CONTROLS_660;156;0;0;0;0;{button:9} (Mantener);{button:9} (Aperte e Segure)
+232;2136CAA6;PAU_CONTROLS_670;157;0;0;0;0;Dispara un misil;Dispara um míssil
+233;2136CAA6;PAU_CONTROLS_670;157;0;0;1;1;teledirigido.;guiado.
+234;5631FA30;PAU_CONTROLS_671;158;0;0;0;0;Atraviesa uno de;Supere um desses
+235;5631FA30;PAU_CONTROLS_671;158;0;0;1;1;estos aros para;obstáculos para
+236;5631FA30;PAU_CONTROLS_671;158;0;0;2;2;recibir un impulso.;obter um impulso.
+237;26AED669;PAU_CONTROLS_680;159;0;0;0;0;Funciones del Roadmaster;Recursos do Roadmaster
+238;26AED669;PAU_CONTROLS_680;159;1;1;0;0;Funciones del Roadmaster;Recursos do Roadmaster
+239;18B206C0;PAU_CONTROLS_701;160;0;0;0;0;Controles del Arwing negro;Controles da Arwing preto
+240;18B206C0;PAU_CONTROLS_701;160;1;1;0;0;Controles del Arwing negro;Controles da Arwing preto
+241;276CBC5E;PAU_CONTROLS_780;161;0;0;0;0;Funciones del Arwing negro;Recursos do Arwing preto
+242;276CBC5E;PAU_CONTROLS_780;161;1;1;0;0;Funciones del Arwing negro;Recursos do Arwing preto
+243;0BD9F352;PAU_CONTROLS_740;162;0;0;0;0;Rizo;Loop
+244;39EF91D0;PAU_CONTROLS_760;163;0;0;0;0;{button:40}{button:100} + {button:200}{button:43};{button:40}{button:100} + {button:200}{button:43}
+245;20E6C06A;PAU_CONTROLS_763;164;0;0;0;0;{button:39}{button:100} + {button:200}{button:43};{button:39}{button:100} + {button:200}{button:43}
+246;20F4A091;PAU_CONTROLS_770;165;0;0;0;0;Sorprende a tus;Surpreenda seus
+247;20F4A091;PAU_CONTROLS_770;165;0;0;1;1;perseguidores;inimigos fazendo
+248;20F4A091;PAU_CONTROLS_770;165;0;0;2;2;haciendo un rizo.;um loop.
+249;7CDEC3C4;PAU_CONTROLS_741;166;0;0;0;0;Cambio de sentido;Retorno
+250;4EE8A146;PAU_CONTROLS_761;167;0;0;0;0;{button:40}{button:100} + {button:200}{button:40};{button:40}{button:100} + {button:200}{button:40}
+251;3E8255C9;PAU_CONTROLS_764;168;0;0;0;0;{button:39}{button:100} + {button:200}{button:40};{button:39}{button:100} + {button:200}{button:40}
+252;57F39007;PAU_CONTROLS_771;169;0;0;0;0;Usa esta maniobra para;Utilize esta manobra
+253;57F39007;PAU_CONTROLS_771;169;0;0;1;1;cambiar de sentido;para mudar de direcão
+254;57F39007;PAU_CONTROLS_771;169;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
+255;65D7927E;PAU_CONTROLS_742;170;0;0;0;0;Tonel;Barril
+256;57E1F0FC;PAU_CONTROLS_762;171;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
+257;4EFAC1BD;PAU_CONTROLS_772;172;0;0;0;0;Haz girar la nave para;Gire anave para
+258;4EFAC1BD;PAU_CONTROLS_772;172;0;0;1;1;repeler el fuego enemigo.;repelir o fogo inimigo.
+259;13EE41FD;PAU_CONTROLS_801;173;0;0;0;0;Controles del Arwing retro;Controles da Arwing clássica
+260;13EE41FD;PAU_CONTROLS_801;173;1;1;0;0;Controles del Arwing retro;Controles da Arwing clássica
+261;2C30FB63;PAU_CONTROLS_880;174;0;0;0;0;Funciones del Arwing retro;Recursos da Arwing clássica
+262;2C30FB63;PAU_CONTROLS_880;174;1;1;0;0;Funciones del Arwing retro;Recursos da Arwing clássica
+263;0085B46F;PAU_CONTROLS_840;175;0;0;0;0;Rizo;Loop
+264;32B3D6ED;PAU_CONTROLS_860;176;0;0;0;0;{button:40}{button:100} + {button:200}{button:43};{button:40}{button:100} + {button:200}{button:43}
+265;2BBA8757;PAU_CONTROLS_863;177;0;0;0;0;{button:39}{button:100} + {button:200}{button:43};{button:39}{button:100} + {button:200}{button:43}
+266;2BA8E7AC;PAU_CONTROLS_870;178;0;0;0;0;Sorprende a tus;Surpreenda seus
+267;2BA8E7AC;PAU_CONTROLS_870;178;0;0;1;1;perseguidores;inimigos fazendo
+268;2BA8E7AC;PAU_CONTROLS_870;178;0;0;2;2;haciendo un rizo.;um loop.
+269;778284F9;PAU_CONTROLS_841;179;0;0;0;0;Cambio de sentido;Retorno
+270;45B4E67B;PAU_CONTROLS_861;180;0;0;0;0;{button:40}{button:100} + {button:200}{button:40};{button:40}{button:100} + {button:200}{button:40}
+271;35DE12F4;PAU_CONTROLS_864;181;0;0;0;0;{button:39}{button:100} + {button:200}{button:40};{button:39}{button:100} + {button:200}{button:40}
+272;5CAFD73A;PAU_CONTROLS_871;182;0;0;0;0;Usa esta maniobra para;Utilize esta manobra
+273;5CAFD73A;PAU_CONTROLS_871;182;0;0;1;1;cambiar de sentido;para mudar de direcão
+274;5CAFD73A;PAU_CONTROLS_871;182;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
+275;6E8BD543;PAU_CONTROLS_842;183;0;0;0;0;Tonel;Barril
+276;5CBDB7C1;PAU_CONTROLS_862;184;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
+277;45A68680;PAU_CONTROLS_872;185;0;0;0;0;Haz girar la nave para;Gire a nave para
+278;45A68680;PAU_CONTROLS_872;185;0;0;1;1;repeler el fuego enemigo.;repelir o fogo inimigo.
+279;122C2BCA;PAU_CONTROLS_901;186;0;0;0;0;Controles del Walker negro;Controles da Walker Preta
+280;122C2BCA;PAU_CONTROLS_901;186;1;1;0;0;Controles del Walker negro;Controles da Walker Preta
+281;2DF29154;PAU_CONTROLS_980;187;0;0;0;0;Funciones del Walker negro;Recusos da Walker preto
+282;2DF29154;PAU_CONTROLS_980;187;1;1;0;0;Funciones del Walker negro;Recusos da Walker preto
+283;0147DE58;PAU_CONTROLS_940;188;0;0;0;0;Paso lateral;Desviar
+284;3371BCDA;PAU_CONTROLS_960;189;0;0;0;0;{button:L} + {button:41}{button:100}{button:42};{button:L} + {button:41}{button:100}{button:42}
+285;431B4855;PAU_CONTROLS_965;190;0;0;0;0;{button:300} {button:41}{button:200}{button:42};{button:300} {button:41}{button:200}{button:42}
+286;2A6A8D9B;PAU_CONTROLS_970;191;0;0;0;0;Movimiento útil para;Movimento útil para  
+287;2A6A8D9B;PAU_CONTROLS_970;191;0;0;1;1;esquivar ataques y;esquivar-se de ataques
+288;2A6A8D9B;PAU_CONTROLS_970;191;0;0;2;2;cambiar de posición.;e mudar de posicão.
+289;7640EECE;PAU_CONTROLS_941;192;0;0;0;0;Voltereta;Retorno Rápido
+290;44768C4C;PAU_CONTROLS_961;193;0;0;0;0;{button:40}{button:100} + {button:200}{button:43};{button:40}{button:100} + {button:200}{button:43}
+291;341C78C3;PAU_CONTROLS_964;194;0;0;0;0;{button:39}{button:100} + {button:200}{button:43};{button:39}{button:100} + {button:200}{button:43}
+292;5D6DBD0D;PAU_CONTROLS_971;195;0;0;0;0;Usa esta maniobra para;Utilize esta manobra
+293;5D6DBD0D;PAU_CONTROLS_971;195;0;0;1;1;cambiar de sentido;para mudar de direcão
+294;5D6DBD0D;PAU_CONTROLS_971;195;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
+295;6F49BF74;PAU_CONTROLS_942;196;0;0;0;0;Tonel;Barril
+296;5D7FDDF6;PAU_CONTROLS_962;197;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
+297;4464ECB7;PAU_CONTROLS_972;198;0;0;0;0;Haz girar la nave para;Gire a nave para
+298;4464ECB7;PAU_CONTROLS_972;198;0;0;1;1;repeler el fuego enemigo.;repelir o fogo inimigo.
+299;24D0F19C;PAU_CONTROLS_1001;199;0;0;0;0;Controles del Walker retro;Controles da  Walker Clássica
+300;24D0F19C;PAU_CONTROLS_1001;199;1;1;0;0;Controles del Walker retro;Controles da  Walker Clássica
+301;1B0E4B02;PAU_CONTROLS_1080;200;0;0;0;0;Funciones del Walker retro;Recuros da  Walker Clássica
+302;1B0E4B02;PAU_CONTROLS_1080;200;1;1;0;0;Funciones del Walker retro;Recuros da  Walker Clássica
+303;37BB040E;PAU_CONTROLS_1040;201;0;0;0;0;Paso lateral;Desviar
+304;058D668C;PAU_CONTROLS_1060;202;0;0;0;0;{button:L} + {button:41}{button:100}{button:42};{button:L} + {button:41}{button:100}{button:42}
+305;75E79203;PAU_CONTROLS_1065;203;0;0;0;0;{button:300} {button:41}{button:200}{button:42};{button:300} {button:41}{button:200}{button:42}
+306;1C9657CD;PAU_CONTROLS_1070;204;0;0;0;0;Movimiento útil para;Movimento útil para  
+307;1C9657CD;PAU_CONTROLS_1070;204;0;0;1;1;esquivar ataques y;esquivar-se de ataques
+308;1C9657CD;PAU_CONTROLS_1070;204;0;0;2;2;cambiar de posición.;e mudar de posicão.
+309;40BC3498;PAU_CONTROLS_1041;205;0;0;0;0;Voltereta;Retorno Rápido
+310;728A561A;PAU_CONTROLS_1061;206;0;0;0;0;{button:40}{button:100} + {button:200}{button:43};{button:40}{button:100} + {button:200}{button:43}
+311;02E0A295;PAU_CONTROLS_1064;207;0;0;0;0;{button:39}{button:100} + {button:200}{button:43};{button:39}{button:100} + {button:200}{button:43}
+312;6B91675B;PAU_CONTROLS_1071;208;0;0;0;0;Usa esta maniobra para;Utilize esta manobra
+313;6B91675B;PAU_CONTROLS_1071;208;0;0;1;1;cambiar de sentido;para mudar de direcão
+314;6B91675B;PAU_CONTROLS_1071;208;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
+315;59B56522;PAU_CONTROLS_1042;209;0;0;0;0;Tonel;Barril
+316;6B8307A0;PAU_CONTROLS_1062;210;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
+317;729836E1;PAU_CONTROLS_1072;211;0;0;0;0;Haz girar la nave para;Gire a nave para
+318;729836E1;PAU_CONTROLS_1072;211;0;0;1;1;repeler el fuego enemigo.;repelir o fogo inimigo.
+319;25129BAB;PAU_CONTROLS_1101;212;0;0;0;0;Controles del Roadmaster;Controles do Roadmaster
+320;25129BAB;PAU_CONTROLS_1101;212;1;1;0;0;Controles del Roadmaster;Controles do Roadmaster
+321;36796E39;PAU_CONTROLS_1140;213;0;0;0;0;Avanzar;Avancar
+322;044F0CBB;PAU_CONTROLS_1160;214;0;0;0;0;{button:200}{button:39};{button:200}{button:39}
+323;1D543DFA;PAU_CONTROLS_1170;215;0;0;0;0;A cierta velocidad,;Em alta velocidade,
+324;1D543DFA;PAU_CONTROLS_1170;215;0;0;1;1;podrás arrollar a;poderá atacar
+325;1D543DFA;PAU_CONTROLS_1170;215;0;0;2;2;los enemigos.;os inimigos.
+326;417E5EAF;PAU_CONTROLS_1141;216;0;0;0;0;Marcha atrás;Dar ré
+327;73483C2D;PAU_CONTROLS_1161;217;0;0;0;0;{button:200}{button:40};{button:200}{button:40}
+328;6A530D6C;PAU_CONTROLS_1171;218;0;0;0;0;Si te ves en aprietos,;Se estiver em apuros, 
+329;6A530D6C;PAU_CONTROLS_1171;218;0;0;1;1;da marcha atrás y;retorne de ré e
+330;6A530D6C;PAU_CONTROLS_1171;218;0;0;2;2;escapa del peligro.;escape do perigo.
+331;58770F15;PAU_CONTROLS_1142;219;0;0;0;0;Girar;Girar
+332;6A416D97;PAU_CONTROLS_1162;220;0;0;0;0;{button:41}{button:100}{button:42} + {button:200}{button:39};{button:41}{button:100}{button:42} + {button:200}{button:39}
+333;735A5CD6;PAU_CONTROLS_1172;221;0;0;0;0;Gira rápidamente;Gire rapidamente
+334;735A5CD6;PAU_CONTROLS_1172;221;0;0;1;1;hacia los lados;para os lados
+335;735A5CD6;PAU_CONTROLS_1172;221;0;0;2;2;mientras conduces.;enquanto conduz.
+336;1ACC2135;PAU_CONTROLS_1180;222;0;0;0;0;Funciones del Roadmaster;Recursos do Roadmaster
+337;1ACC2135;PAU_CONTROLS_1180;222;1;1;0;0;Funciones del Roadmaster;Recursos do Roadmaster
+338;0C4FBC4F;PAU_DEAD_INFO_001;223;0;0;0;0;Puedes practicar con diferentes;Pratique com diferentes
+339;0C4FBC4F;PAU_DEAD_INFO_001;223;0;0;1;1;vehículos en el modo Entrenamiento;veículos no modo Treinamento, 
+340;0C4FBC4F;PAU_DEAD_INFO_001;223;0;0;2;2;del menú principal.;acessível pelo menu principal.
+341;0C4FBC4F;PAU_DEAD_INFO_001;223;0;0;3;3;Quieres hacerlo ahora?;Deseja comecar agora?
+342;1546EDF5;PAU_DEAD_INFO_002;224;0;0;0;0;Sim;Sim
+343;6241DD63;PAU_DEAD_INFO_003;225;0;0;0;0;Nao;Não
