@@ -32,7 +32,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 30;21825ACA;PAU_MENU_INFO_500;18;0;0;0;0;Quieres repetir la misión?;Deseja repetir a missão?
 31;56856A5C;PAU_MENU_INFO_501;19;0;0;0;0;Sí;Sim
 32;4F8C3BE6;PAU_MENU_INFO_502;20;0;0;0;0;No;Não
-33;388B0B70;PAU_MENU_INFO_503;21;0;0;0;0;Se te va a enviar una caja de suministros;Receberá uma caixa de suprimentos contendo 
+33;388B0B70;PAU_MENU_INFO_503;21;0;0;0;0;Se te va a enviar una caja de suministros;Receberá um pacote de suprimentos contendo 
 34;388B0B70;PAU_MENU_INFO_503;21;0;0;1;1;que contiene un emblema dorado. Al recogerlo,;um emblema dourado. Coletá-lo lhe dará
 35;388B0B70;PAU_MENU_INFO_503;21;0;0;2;2;serás invencible durante la misión,;invencibilidade durante a missão, mas
 36;388B0B70;PAU_MENU_INFO_503;21;0;0;3;3;pero no se guardará la puntuación.;sua pontuacão não será salva.
@@ -53,7 +53,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 51;4DD8E544;PAU_MENU_INFO_611;29;0;0;0;0;Mando del jugador 2 detectado.;Controle do jogador 2 detectado.
 52;063897D4;PAU_BUTTON_001;30;0;0;0;0;Controles;Controles
 53;1F31C66E;PAU_BUTTON_002;31;0;0;0;0;Subir;Subir
-54;6836F6F8;PAU_BUTTON_003;32;0;0;0;0;Bajar;Abaixar
+54;6836F6F8;PAU_BUTTON_003;32;0;0;0;0;Bajar;Descer
 55;7652635B;PAU_BUTTON_004;33;0;0;0;0;Miiverse;Miiverso
 56;015553CD;PAU_BUTTON_005;34;0;0;0;0;Voces 3D;Vozes 3D
 57;185C0277;PAU_BUTTON_006;35;0;0;0;0;Sí;Sim
@@ -154,7 +154,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 152;513852EC;PAU_CONTROLS_271;111;0;0;0;0;Esta vista resulta útil;Essa visão é útil
 153;513852EC;PAU_CONTROLS_271;111;0;0;1;1;cuando necesitas;quando precisar
 154;513852EC;PAU_CONTROLS_271;111;0;0;2;2;maniobrar con precisión.;manobrar com precisão.
-155;48310356;PAU_CONTROLS_272;112;0;0;0;0;Baja el Direct-i para;Abaixe o Direct-i para
+155;48310356;PAU_CONTROLS_272;112;0;0;0;0;Baja el Direct-i para;Desca o Direct-i para
 156;48310356;PAU_CONTROLS_272;112;0;0;1;1;que se conecte a;conectar-se aos
 157;48310356;PAU_CONTROLS_272;112;0;0;2;2;paneles, recoja objetos;painéis, coletar objetos
 158;48310356;PAU_CONTROLS_272;112;0;0;3;3;y agarre bombas.;e pegar bombas.
@@ -172,7 +172,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 170;27FD084D;PAU_CONTROLS_370;121;0;0;1;1;el Direct-i para acceder;o Direct-i para acessar
 171;27FD084D;PAU_CONTROLS_370;121;0;0;2;2;al sistema informático.;ao sistema do computador
 172;50FA38DB;PAU_CONTROLS_371;122;0;0;0;0;Sitúate sobre una bomba;Suba em uma bomba
-173;50FA38DB;PAU_CONTROLS_371;122;0;0;1;1;y baja el Direct-i para;e abaixe o Direct-i para
+173;50FA38DB;PAU_CONTROLS_371;122;0;0;1;1;y baja el Direct-i para;e desca o Direct-i para
 174;50FA38DB;PAU_CONTROLS_371;122;0;0;2;2;cogerla y llevártela.;pegá-la e levá-la.
 175;49F36961;PAU_CONTROLS_372;123;0;0;0;0;Direct-i puede recorrer;O Direct-i consegue  descobrir
 176;49F36961;PAU_CONTROLS_372;123;0;0;1;1;pasadizos estrechos y;navegar por passagens estreitas e
@@ -224,8 +224,8 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 222;24E86830;PAU_CONTROLS_580;148;1;1;0;0;Funciones del Gravmaster;Recursos do Gravamaster
 223;19706CF7;PAU_CONTROLS_601;149;0;0;0;0;Controles del Roadmaster;Controles do Roadmaster
 224;19706CF7;PAU_CONTROLS_601;149;1;1;0;0;Controles del Roadmaster;Controles do Roadmaster
-225;00793D4D;PAU_CONTROLS_602;150;0;0;0;0;Controles (eje izdo.);Controles (eixo esquerdo)
-226;777E0DDB;PAU_CONTROLS_603;151;0;0;0;0;Controles (eje dcho.);Controles (eixo direito)
+225;00793D4D;PAU_CONTROLS_602;150;0;0;0;0;Controles (eje izdo.);Controles (esquerdo)
+226;777E0DDB;PAU_CONTROLS_603;151;0;0;0;0;Controles (eje dcho.);Controles (direito)
 227;0A1B9965;PAU_CONTROLS_640;152;0;0;0;0;Disparar misil;Disparar míssil
 228;7D1CA9F3;PAU_CONTROLS_641;153;0;0;0;0;Aro de turbo;Anel turbo
 229;6415F849;PAU_CONTROLS_642;154;0;0;0;0;Girar;Girar
