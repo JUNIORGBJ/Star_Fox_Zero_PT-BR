@@ -1,0 +1,134 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;4C2416F5;FOX_CORNERIA_001;0;0;0;0;0;Comprobad el difusor G.;Verifique o difusor G.
+1;552D474F;FOX_CORNERIA_002;1;0;0;0;0;Muy bien, chicos.;Muito bem, pessoal.
+2;552D474F;FOX_CORNERIA_002;1;0;0;1;1;¡Que empiece la acción!;Que a ação comece!
+3;222A77D9;FOX_CORNERIA_003;2;0;0;0;0;Objetivo fijado.;Alvo definido. Vamos
+4;222A77D9;FOX_CORNERIA_003;2;0;0;1;1;¡Derribemos la nave enemiga!;abater a nave inimiga!
+5;3C4EE27A;FOX_CORNERIA_004;3;0;0;0;0;¡Cambiando a modo abierto!;Mudando para o modo livre!
+6;4B49D2EC;FOX_CORNERIA_005;4;0;0;0;0;¡Mensaje del general Pepper!;Mensagem do General Pepper!
+7;35F8AE51;FOX_CORNERIA_008;5;0;0;0;0;¡Nos marchamos!;Estamos saindo!
+8;35F8AE51;FOX_CORNERIA_008;5;0;0;1;1;¡Informad de vuestro estado!;Informe sua situação!
+9;22381722;FOX_CORNERIA_010;6;0;0;0;0;¡Nos adentramos en la ciudad;Estamos indo para a cidade
+10;22381722;FOX_CORNERIA_010;6;0;0;1;1;de Corneria!;de Corneria!
+11;553F27B4;FOX_CORNERIA_011;7;0;0;0;0;Desplegad las alas.;Abra suas asas.
+12;4C36760E;FOX_CORNERIA_012;8;0;0;0;0;Entramos en la órbita de Corneria.;Estamos entrando na órbita de Corneria.
+13;2555D33B;FOX_CORNERIA_014;9;0;0;0;0;¡¿De dónde ha salido eso?!;De onde veio isso?!
+14;5252E3AD;FOX_CORNERIA_015;10;0;0;0;0;Igual que en la colonia espacial, ¿eh?;Igualzinho na colônia espacial, né?
+15;5252E3AD;FOX_CORNERIA_015;10;0;0;1;1;¡Será mejor que vaya a investigar!;É melhor eu ir investigar!
+16;7140AEAB;FALCO_CORNERIA_002;11;0;0;0;0;Falco al habla. Sin problemas.;Falco falando. Sem problemas.
+17;18230B9E;FALCO_CORNERIA_004;12;0;0;0;0;¡Vaya, Andross nos ha enviado;Nossa, Andross nos enviou um comitê
+18;18230B9E;FALCO_CORNERIA_004;12;0;0;1;1;un comité de bienvenida. ¡Qué detalle!;de boas-vindas. Que gentileza!
+19;6F243B08;FALCO_CORNERIA_005;13;0;0;0;0;¡Sígueme, Fox! ¡Los pillaremos;Siga-me, Fox! Vamos pegá-los
+20;6F243B08;FALCO_CORNERIA_005;13;0;0;1;1;por sorpresa!;de surpresa!
+21;762D6AB2;FALCO_CORNERIA_006;14;0;0;0;0;¡Librémonos de estos moscones!;Vamos nos livrar dessas moscas!
+22;012A5A24;FALCO_CORNERIA_007;15;0;0;0;0;¿Crees que puedes cargarte;Você acha que consegue cuidar de si mesmo?
+23;012A5A24;FALCO_CORNERIA_007;15;0;0;1;1;a diez enemigos, Fox?;Dez inimigos, Fox?
+24;119547B5;FALCO_CORNERIA_008;16;0;0;0;0;¡Los contenedores se están abriendo!;Os contêineres estão sendo abertos!
+25;66927723;FALCO_CORNERIA_009;17;0;0;0;0;¡No dejes que ninguna araña;Não deixe nenhuma aranha entrar!
+26;66927723;FALCO_CORNERIA_009;17;0;0;1;1;llegue hasta el general!;Cheguei ao general!
+27;0655FEC6;FALCO_CORNERIA_010;18;0;0;0;0;Habrá que dejar la visita turística;Teremos que deixar os passeios turísticos
+28;0655FEC6;FALCO_CORNERIA_010;18;0;0;1;1;para otro día...;para outro dia...
+29;7152CE50;FALCO_CORNERIA_011;19;0;0;0;0;¡Eh, algo se nos echa encima!;Ei, algo está prestes a acontecer conosco!
+30;685B9FEA;FALCO_CORNERIA_012;20;0;0;0;0;Sigo vivito y coleando.;Ainda estou vivo e bem.
+31;685B9FEA;FALCO_CORNERIA_012;20;0;0;1;1;¿Lo dudabas?;Ainda estou vivo e bem. Duvidava disso?
+32;2D78AD05;FALCO_CORNERIA_020;21;0;0;0;0;Mantén la mirilla calibrada, Fox.;Mantenha a mira calibrada, Fox.
+33;5A7F9D93;FALCO_CORNERIA_021;22;0;0;0;0;Parece que tampoco se te da tan mal.;Parece que você também não é tão ruim nisso.
+34;4376CC29;FALCO_CORNERIA_022;23;0;0;0;0;¡Eh, Fox! ¡Deja algo para los demás!;Ei, Fox! Deixe um pouco para nós!
+35;3471FCBF;FALCO_CORNERIA_023;24;0;0;0;0;¡Céntrate en los que avanzan por el suelo!;Preste atenção naqueles que se movem rente ao chão!
+36;31F457F9;PEPPY_CORNERIA_001;25;0;0;0;0;¡Cuidado, se acercan más enemigos;Cuidado, mais inimigos estão 
+37;31F457F9;PEPPY_CORNERIA_001;25;0;0;1;1;por la costa!;se aproximando pela costa!
+38;5FFA36D5;PEPPY_CORNERIA_003;26;0;0;0;0;¡Fox, hay que proteger la torre!;Fox, temos que proteger a torre!
+39;419EA376;PEPPY_CORNERIA_004;27;0;0;0;0;Aquí Peppy. Todo en orden.;Peppy aqui. Está tudo bem.
+40;369993E0;PEPPY_CORNERIA_005;28;0;0;0;0;¡Jamás he visto nada parecido!;Nunca vi nada igual!
+41;369993E0;PEPPY_CORNERIA_005;28;0;0;1;1;¡Manteneos alerta!;Fiquem alertas!
+42;3F2FDFCB;PEPPY_CORNERIA_009;29;0;0;0;0;¡Hay que evitar que esas cosas;Precisamos impedir que essas
+43;3F2FDFCB;PEPPY_CORNERIA_009;29;0;0;1;1;alcancen la torre!;coisas cheguem à torre!
+44;28EF66B8;PEPPY_CORNERIA_011;30;0;0;0;0;¡Date prisa, Fox! ¡El general Pepper;Depressa, Fox! O General Pepper 
+45;28EF66B8;PEPPY_CORNERIA_011;30;0;0;1;1;está en peligro!;está em perigo!
+46;31E63702;PEPPY_CORNERIA_012;31;0;0;0;0;Cada día te pareces más a tu padre.;Você está cada vez mais parecido com seu pai.
+47;2634EE8A;PEPPY_CORNERIA_019;32;0;0;0;0;¡Slippy, vuelve aquí!;Slippy, volte aqui!
+48;03C2357B;PEPPY_CORNERIA_021;33;0;0;0;0;¡Frena si te pisan los talones!;Pare se eles estiverem bem atrás de você!
+49;6DCC5457;PEPPY_CORNERIA_023;34;0;0;0;0;¡Usa el control por movimiento;Use o controle de movimento para um
+50;6DCC5457;PEPPY_CORNERIA_023;34;0;0;1;1;para apuntar mejor!;a mira mais precisa!
+51;73A8C1F4;PEPPY_CORNERIA_024;35;0;0;0;0;Deja que se vayan, Slippy.;Deixe-os ir, Slippy.
+52;73A8C1F4;PEPPY_CORNERIA_024;35;0;0;1;1;Nuestro objetivo es otro.;Nosso alvo é outro.
+53;04AFF162;PEPPY_CORNERIA_025;36;0;0;0;0;¡En marcha!;Em frente!
+54;1DA6A0D8;PEPPY_CORNERIA_026;37;0;0;0;0;¿Estáis todos bien?;Vocês estão todos bem?
+55;6AA1904E;PEPPY_CORNERIA_027;38;0;0;0;0;¡Bien hecho, Fox!;Muito bem, Fox!
+56;7A1E8DDF;PEPPY_CORNERIA_028;39;0;0;0;0;¡Te los has ventilado rápido, Fox!;Você acabou com eles rapidinho, Fox!
+57;0D19BD49;PEPPY_CORNERIA_029;40;0;0;0;0;Ha faltado poco.;Essa foi por pouco.
+58;0D19BD49;PEPPY_CORNERIA_029;40;0;0;1;1;¡Estate alerta, Fox!;Fique atento, Fox!
+59;6DDE34AC;PEPPY_CORNERIA_030;41;0;0;0;0;¡La torre corre peligro!;A torre está em perigo!
+60;6DDE34AC;PEPPY_CORNERIA_030;41;0;0;1;1;¡Fija el objetivo!;Trave a mira no alvo!
+61;1AD9043A;PEPPY_CORNERIA_031;42;0;0;0;0;La torre no resistirá mucho más.;A torre não resistirá por muito mais tempo.
+62;1AD9043A;PEPPY_CORNERIA_031;42;0;0;1;1;¡Fija el objetivo para localizar al enemigo!;Mire no alvo para localizar o inimigo!
+63;03D05580;PEPPY_CORNERIA_032;43;0;0;0;0;Ahh... Añoraba este planeta.;Ah... que saudades deste planeta.
+64;6AB3F0B5;PEPPY_CORNERIA_034;44;0;0;0;0;Su blindaje parece impenetrable.;Sua armadura parece impenetrável. 
+65;6AB3F0B5;PEPPY_CORNERIA_034;44;0;0;1;1;¡Tiene que haber algún punto débil!;Deve haver algum ponto fraco!
+66;1DB4C023;PEPPY_CORNERIA_035;45;0;0;0;0;¡Eso es! ¡Sigue así!;É isso aí! Continue assim!
+67;0057CF88;SLIPPY_CORNERIA_004;46;0;0;0;0;Al habla Slippy. Todo bien.;Aqui está escorregadio. Está tudo bem.
+68;195E9E32;SLIPPY_CORNERIA_007;47;0;0;0;0;¡Cuidado, Fox!;Cuidado, Fox!
+69;195E9E32;SLIPPY_CORNERIA_007;47;0;0;1;1;¡Usa el turbo para acelerar!;Use o turbo para acelerar!
+70;09E183A3;SLIPPY_CORNERIA_008;48;0;0;0;0;¡Anda, un aro! ¿Sabíais que sirven;Ei, um anel! Sabia que eles servem
+71;09E183A3;SLIPPY_CORNERIA_008;48;0;0;1;1;para rellenar el medidor de escudo?;para encher a barra de escudo?
+72;1E213AD0;SLIPPY_CORNERIA_010;49;0;0;0;0;¡Ostras! ¡Están haciendo añicos la torre!;Uau! Estão destruindo a torre!
+73;702F5BFC;SLIPPY_CORNERIA_012;50;0;0;0;0;¡Vaya paliza les hemos dado!;Nós realmente os derrotamos!
+74;07286B6A;SLIPPY_CORNERIA_013;51;0;0;0;0;Tengo al enemigo encima.;O inimigo está em cima de mim. 
+75;07286B6A;SLIPPY_CORNERIA_013;51;0;0;1;1;¡Ayúdame, Fox!;Socorro, Fox!
+76;194CFEC9;SLIPPY_CORNERIA_014;52;0;0;0;0;Oh, oh. Parece que hay jaleo ahí abajo...;Parece ter confusão lá embaixo...
+77;6E4BCE5F;SLIPPY_CORNERIA_015;53;0;0;0;0;¡El enemigo está en la torre!;O inimigo está na torre!
+78;77429FE5;SLIPPY_CORNERIA_016;54;0;0;0;0;¡Se escapan! ¡Vamos tras ellos!;Eles estão fugindo! Vamos atrás deles!
+79;0045AF73;SLIPPY_CORNERIA_017;55;0;0;0;0;¡Lo conseguiste, Fox!;Você conseguiu, Fox!
+80;0045AF73;SLIPPY_CORNERIA_017;55;0;0;1;1;Ha faltado poco, ¿eh?;Essa foi por pouco, não foi?
+81;3261AD0A;SLIPPY_CORNERIA_024;56;0;0;0;0;¡Carga el láser para deshacerte;Carregue o laser para eliminar
+82;3261AD0A;SLIPPY_CORNERIA_024;56;0;0;1;1;de los enemigos más fuertes!;os inimigos mais poderosos!
+83;45669D9C;SLIPPY_CORNERIA_025;57;0;0;0;0;¡Hala!;Uau!
+84;5C6FCC26;SLIPPY_CORNERIA_026;58;0;0;0;0;¡Usa el control por movimiento;Use os controles de movimento
+85;5C6FCC26;SLIPPY_CORNERIA_026;58;0;0;1;1;para apuntar a los puntos débiles!;para atingir os pontos fracos!
+86;2B68FCB0;SLIPPY_CORNERIA_027;59;0;0;0;0;¡El último en llegar a Corneria;O mais recente a chegar em Corneria
+87;2B68FCB0;SLIPPY_CORNERIA_027;59;0;0;1;1;es primo de Andross!;é o primo de Andross!
+88;3BD7E121;SLIPPY_CORNERIA_028;60;0;0;0;0;¡Bravo, Fox!;Bravo, Fox!
+89;4CD0D1B7;SLIPPY_CORNERIA_029;61;0;0;0;0;¡Sí! ¡No hemos dejado ni uno!;Sim! Não sobrou nenhum!
+90;2C175852;SLIPPY_CORNERIA_030;62;0;0;0;0;¡Uf, por los pelos, Fox!;Ufa, essa foi por pouco, Fox!
+91;2C175852;SLIPPY_CORNERIA_030;62;0;0;1;1;¡Ve con cuidado!;Tome cuidado!
+92;5B1068C4;SLIPPY_CORNERIA_031;63;0;0;0;0;¡Gracias, Fox!;Obrigado, Fox!
+93;5B1068C4;SLIPPY_CORNERIA_031;63;0;0;1;1;Por poco no lo cuento...;Quase não consegui...
+94;4219397E;SLIPPY_CORNERIA_032;64;0;0;0;0;¡Seguidme si podéis!;Siga-me se puder!
+95;6552A2CA;PEPPER_CORNERIA_001;65;0;0;0;0;¡Me alegro de veros, Fox! Estoy atrapado;Que bom te ver, Fox! Estou preso
+96;6552A2CA;PEPPER_CORNERIA_001;65;0;0;1;1;en lo alto de la torre. ¡Ayudadme!;no topo da torre. Me ajude!
+97;7C5BF370;PEPPER_CORNERIA_002;66;0;0;0;0;Star Fox, ¿me recibís?;Star Fox, você está me ouvindo?
+98;15385645;PEPPER_CORNERIA_004;67;0;0;0;0;¡Necesitamos vuestra ayuda;Precisamos da sua ajuda
+99;15385645;PEPPER_CORNERIA_004;67;0;0;1;1;de inmediato!;imediatamente!
+100;7B363769;PEPPER_CORNERIA_006;68;0;0;0;0;De nuevo estamos en deuda;Mais uma vez, devemos-lhe
+101;7B363769;PEPPER_CORNERIA_006;68;0;0;1;1;con vosotros, Star Fox.;a nossa gratidão, Star Fox.
+102;0C3107FF;PEPPER_CORNERIA_007;69;0;0;0;0;¡El ejército de Andross nos está atacando!;O exército de Andross está nos atacando!
+103;273FDD01;SOLDIER_CORNERIA_001;70;0;0;0;0;¡Os aplastaré como a moscas!;Vou esmagar vocês como moscas!
+104;3E368CBB;SOLDIER_CORNERIA_002;71;0;0;0;0;¡Malditos Star Fox!;Maldito seja, Star Fox! 
+105;3E368CBB;SOLDIER_CORNERIA_002;71;0;0;1;1;¡Me las pagaréis!;Você vai pagar por isso!
+106;4931BC2D;SOLDIER_CORNERIA_003;72;0;0;0;0;Emperador... ¡Le he fallado!;Imperador... Eu falhei com você!
+107;5755298E;SOLDIER_CORNERIA_004;73;0;0;0;0;Pero ¿con cuántos ha acabado ya?;Mas quantos ele já eliminou?
+108;5755298E;SOLDIER_CORNERIA_004;73;0;0;1;1;¡No me lo creo!;Não consigo acreditar!
+109;20521918;SOLDIER_CORNERIA_005;74;0;0;0;0;¡Retirada! ¡Que las arañas;Recuem! Deixem que as
+110;20521918;SOLDIER_CORNERIA_005;74;0;0;1;1;se ocupen del resto!;aranhas cuidem do resto!
+111;395B48A2;SOLDIER_CORNERIA_006;75;0;0;0;0;¡Abrid fuego, rápido!;Abram fogo, rápido!
+112;4E5C7834;SOLDIER_CORNERIA_007;76;0;0;0;0;¡Han destruido parte del casco!;Eles destruíram parte do casco!
+113;4E5C7834;SOLDIER_CORNERIA_007;76;0;0;1;1;¡Que no se cuelen dentro!;Não deixem que entrem!
+114;5EE365A5;SOLDIER_CORNERIA_008;77;0;0;0;0;Maldito gusano...;Verme maldito...
+115;29E45533;SOLDIER_CORNERIA_009;78;0;0;0;0;Ahora me toca a mí.;Agora é a minha vez. 
+116;29E45533;SOLDIER_CORNERIA_009;78;0;0;1;1;¡Acabaré contigo!;Vou acabar com você!
+117;4923DCD6;SOLDIER_CORNERIA_010;79;0;0;0;0;¡Me estáis buscando las cosquillas!;Você está me fazendo cócegas!
+118;3E24EC40;SOLDIER_CORNERIA_011;80;0;0;0;0;¡Aún no he dicho mi última palabra!;Eu ainda não disse minha última palavra!
+119;272DBDFA;SOLDIER_CORNERIA_012;81;0;0;0;0;¡Inútiles! ¿De qué sirve un misil;Seus idiotas! Vocês redirecionaram 
+120;272DBDFA;SOLDIER_CORNERIA_012;81;0;0;1;1;teledirigido si nos da a nosotros?;o míssil para cima de nós!
+121;087A3B1B;C_SOLDIER_CORNERIA_001;82;0;0;0;0;Me dirijo a la costa.;Estou indo para o litoral.
+122;087A3B1B;C_SOLDIER_CORNERIA_001;82;0;0;1;1;¡Sígueme si puedes!;Me siga se puder!
+123;11736AA1;C_SOLDIER_CORNERIA_002;83;0;0;0;0;¡Eh, cuidado adónde apuntas!;Ei! Cuidado onde você está atirando!
+124;0F17FF02;C_SOLDIER_CORNERIA_005;84;0;0;0;0;¡Mi nave no aguantará mucho más!;Minha nave não vai durar muito mais tempo!
+125;161EAEB8;C_SOLDIER_CORNERIA_006;85;0;0;0;0;¡Auxilio! ¡Me voy a estrellar!;Socorro! Vou bater!
+126;61199E2E;C_SOLDIER_CORNERIA_007;86;0;0;0;0;¡Tengo enemigos por todas partes!;Tem inimigos por toda parte!
+127;71A683BF;C_SOLDIER_CORNERIA_008;87;0;0;0;0;Uf, me has salvado.;Ufa, você me salvou.
+128;71A683BF;C_SOLDIER_CORNERIA_008;87;0;0;1;1;¡Gracias, Fox!;Valeu, Fox!
+129;06A1B329;C_SOLDIER_CORNERIA_009;88;0;0;0;0;¡Uaaaah!;Uau!
+130;4A1D2244;NAUS_CORNERIA_001;89;0;0;0;0;Parece ser un teleportador.;Parece ser um teletransportador.
+131;531473FE;NAUS_CORNERIA_002;90;0;0;0;0;Mis sensores detectan actividad enemiga;Meus sensores detectaram atividade inimiga
+132;531473FE;NAUS_CORNERIA_002;90;0;0;1;1;al otro lado.;do outro lado.
