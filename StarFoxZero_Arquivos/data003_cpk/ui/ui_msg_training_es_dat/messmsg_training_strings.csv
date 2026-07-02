@@ -1,0 +1,110 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;5E726891;PEPPY_TRAINING_004;0;0;0;0;0;Inclina {button:21} hacia arriba para acelerar.;Incline {button:21} para cima para acelerar.
+1;29755807;PEPPY_TRAINING_005;1;0;0;0;0;Inclina {button:21} hacia abajo para frenar.;Incline {button:21} para baixo para frear.
+2;307C09BD;PEPPY_TRAINING_006;2;0;0;0;0;Vuela hacia arriba a la vez;Voe para cima enquanto acelera 
+3;307C09BD;PEPPY_TRAINING_006;2;0;0;1;1;que aceleras para hacer un rizo.;para realizar um looping.
+4;477B392B;PEPPY_TRAINING_007;3;0;0;0;0;Las marcas sobre los Arwing indican;As marcações nos Arwings indicam nossa
+5;477B392B;PEPPY_TRAINING_007;3;0;0;1;1;nuestra posición. ¡A ver si nos alcanzas!;posição. Vamos ver se você consegue nos pegar!
+6;57C424BA;PEPPY_TRAINING_008;4;0;0;0;0;Aprovecha la vista de cabina del;Aproveite a visão do cockpit do 
+7;57C424BA;PEPPY_TRAINING_008;4;0;0;1;1;GamePad para apuntar con precisión.;GamePad para mirar com precisão.
+8;20C3142C;PEPPY_TRAINING_009;5;0;0;0;0;Usa el control por movimiento;Use os controles de movimento do
+9;20C3142C;PEPPY_TRAINING_009;5;0;0;1;1;del GamePad para apuntar.;GamePad para mirar.
+10;40049DC9;PEPPY_TRAINING_010;6;0;0;0;0;Pulsa {button:9} para disparar el láser principal.;Aperte {button:9} para disparar o laser principal.
+11;3703AD5F;PEPPY_TRAINING_011;7;0;0;0;0;Pulsa {button:LeftStickPress} o {button:Y} para recalibrar la mirilla.;Aperte {button:LeftStickPress} ou {button:Y} para recalibrar a mira.
+12;2E0AFCE5;PEPPY_TRAINING_012;8;0;0;0;0;Vamos a practicar en modo abierto.;Vamos praticar no modo livre
+13;590DCC73;PEPPY_TRAINING_013;9;0;0;0;0;En este modo puedes moverte;Nesse modo você pode se mover
+14;590DCC73;PEPPY_TRAINING_013;9;0;0;1;1;con total libertad.;com total liberdade.
+15;476959D0;PEPPY_TRAINING_014;10;0;0;0;0;Mantén pulsado {button:L} para fijar el objetivo.;Segure {button:L} para travar a mira no alvo.
+16;306E6946;PEPPY_TRAINING_015;11;0;0;0;0;Con la vista de cabina podrás ver;Com a visão da cabine de comando, você
+17;306E6946;PEPPY_TRAINING_015;11;0;0;1;1;siempre lo que hay delante de ti.;sempre pode ver o que está à sua frente.
+18;296738FC;PEPPY_TRAINING_016;12;0;0;0;0;Si quieres invertir los controles de vuelo,;Se você quiser inverter os comandos de voo,
+19;296738FC;PEPPY_TRAINING_016;12;0;0;1;1;puedes hacerlo desde el menú de pausa.;pode fazê-lo através do menu de pausa.
+20;5E60086A;PEPPY_TRAINING_017;13;0;0;0;0;Antes de entrar en combate,;Antes de entrarmos em combate,
+21;5E60086A;PEPPY_TRAINING_017;13;0;0;1;1;repasemos los controles.;vamos revisar os controles.
+22;39D8256D;PEPPY_TRAINING_019;14;0;0;0;0;Inclina {button:DPadLeftRight} hacia abajo para ascender;Incline o {button:DPadLeftRight} para baixo para subir 
+23;39D8256D;PEPPY_TRAINING_019;14;0;0;1;1;y hacia arriba para descender.;e para cima para descer.
+24;6B29CE0A;PEPPY_TRAINING_020;15;0;0;0;0;Cambiemos a la vista en;Vamos mudar para a visão em 
+25;6B29CE0A;PEPPY_TRAINING_020;15;0;0;1;1;3.ª persona en el televisor.;terceira pessoa na tela.
+26;1C2EFE9C;PEPPY_TRAINING_021;16;0;0;0;0;Sigues teniendo la vista de cabina;Você ainda terá a visão da cabine
+27;1C2EFE9C;PEPPY_TRAINING_021;16;0;0;1;1;en la pantalla del GamePad.;na tela do GamePad.
+28;0527AF26;PEPPY_TRAINING_022;17;0;0;0;0;Para hacer un cambio de sentido,;Para mudar de direção, voe para cima
+29;0527AF26;PEPPY_TRAINING_022;17;0;0;1;1;vuela hacia arriba a la vez que frenas.;enquanto freia simultaneamente.
+30;72209FB0;PEPPY_TRAINING_023;18;0;0;0;0;¡Muy bien! ¡Demuéstrame lo que sabes;Muito bem! Mostre-me o que você
+31;72209FB0;PEPPY_TRAINING_023;18;0;0;1;1;hacer con el Arwing!;consegue fazer com a Arwing!
+32;6C440A13;PEPPY_TRAINING_024;19;0;0;0;0;Para practicar con el Arwing,;Para praticar com o Arwing, você 
+33;6C440A13;PEPPY_TRAINING_024;19;0;0;1;1;necesitas audio.;precisa de áudio.
+34;1B433A85;PEPPY_TRAINING_025;20;0;0;0;0;Fox, comprueba el volumen;Fox, verifique o volume
+35;1B433A85;PEPPY_TRAINING_025;20;0;0;1;1;del Wii U GamePad.;do Wii U GamePad.
+36;024A6B3F;PEPPY_TRAINING_026;21;0;0;0;0;Si te alejas demasiado, cambiarás;Se você se afastar demais, mudará
+37;024A6B3F;PEPPY_TRAINING_026;21;0;0;1;1;de sentido automáticamente.;de direção automaticamente.
+38;754D5BA9;PEPPY_TRAINING_027;22;0;0;0;0;También cambiarás de sentido si;Você também mudará de direção se voar 
+39;754D5BA9;PEPPY_TRAINING_027;22;0;0;1;1;vuelas hacia arriba a la vez que frenas.;para cima enquanto estiver freando.
+40;65F24638;PEPPY_TRAINING_028;23;0;0;0;0;Inclina {button:DPadLeftRight} hacia arriba para ascender;Incline o {button:DPadLeftRight} para cima para
+41;65F24638;PEPPY_TRAINING_028;23;0;0;1;1;y hacia abajo para descender.;subir e para baixo para descer.
+42;12F576AE;PEPPY_TRAINING_029;24;0;0;0;0;Usa {button:DPadLeftRight} y {button:21} para pilotar el Arwing.;Use {button:DPadLeftRight} e {button:21} para pilotar o Arwing.
+43;7232FF4B;PEPPY_TRAINING_030;25;0;0;0;0;Muévete con {button:DPadLeftRight}.;Mova-se com {button:DPadLeftRight}.
+44;0535CFDD;PEPPY_TRAINING_031;26;0;0;0;0;Regula la velocidad con {button:21}.;Ajuste a velocidade com {button:21}.
+45;755F3B52;PEPPY_TRAINING_034;27;0;0;0;0;Fija el objetivo en el Great Fox.;Mire na Great Fox.
+46;1B515A7E;PEPPY_TRAINING_036;28;0;0;0;0;No me pierdas de vista, Fox.;Não me perca de vista, Fox.
+47;6C566AE8;PEPPY_TRAINING_037;29;0;0;0;0;¡Intenta fijar el objetivo sobre mi Arwing!;Tente travar a mira na minha Arwing!
+48;7CE97779;PEPPY_TRAINING_038;30;0;0;0;0;Usa las dos palancas para hacer rizos.;Use ambas as alavancas para fazer cachos.
+49;0BEE47EF;PEPPY_TRAINING_039;31;0;0;0;0;Pero no las mantengas inclinadas.;Mas não as deixe inclinadas.
+50;0BEE47EF;PEPPY_TRAINING_039;31;0;0;1;1;¡Muévelas rápido!;Mova-as rapidamente!
+51;3D73698C;PEPPY_TRAINING_040;32;0;0;0;0;O también puedes pulsar {button:X}.;Ou você também pode apertar {button:X}.
+52;4A74591A;PEPPY_TRAINING_041;33;0;0;0;0;O simplemente puedes pulsar {button:B}.;Ou você pode simplesmente apertar {button:B}.
+53;77A534F6;FALCO_TRAINING_001;34;0;0;0;0;Corneria está a tiro de piedra.;Corneria fica bem pertinho.
+54;6EAC654C;FALCO_TRAINING_002;35;0;0;0;0;¡Por aquí, Fox!;Aqui, Fox!
+55;19AB55DA;FALCO_TRAINING_003;36;0;0;0;0;No hay nada como surcar el espacio,;Não há nada como voar pelo espaço.
+56;19AB55DA;FALCO_TRAINING_003;36;0;0;1;1;¿eh, Fox?;Hein, Fox?
+57;2E189C1E;PEPPY_TRAINING_001;37;0;0;0;0;Pues... ¡en marcha!;Bem... vamos lá!
+58;3711CDA4;PEPPY_TRAINING_002;38;0;0;0;0;¡Sígueme, Fox!;Siga-me, Fox!
+59;537D08A0;PEPPY_TRAINING_042;39;0;0;0;0;¡Eso es! ¡Sigue así!;É isso aí! Continue assim!
+60;247A3836;PEPPY_TRAINING_043;40;0;0;0;0;¡Bien hecho, Fox!;Muito bem, Fox!
+61;3A1EAD95;PEPPY_TRAINING_044;41;0;0;0;0;¡Así se hace, Fox!;É isso aí, Fox!
+62;4D199D03;PEPPY_TRAINING_045;42;0;0;0;0;Puedes ajustar el control por movimiento;Você pode ajustar o controle de movimento
+63;4D199D03;PEPPY_TRAINING_045;42;0;0;1;1;en el menú de pausa.;no menu de pausa.
+64;6FD1F0E0;SLIPPY_TRAINING_001;43;0;0;0;0;¿Cómo va el entrenamiento, Fox?;Como está indo o treinamento, Fox?
+65;76D8A15A;SLIPPY_TRAINING_002;44;0;0;0;0;¡Eh, Fox! ¡Estoy aquí!;Ei, Fox! Estou aqui!
+66;06B255D5;SLIPPY_TRAINING_007;45;0;0;0;0;¡Lo estás haciendo genial, Fox!;Você está indo muito bem, Fox!
+67;4CF8B819;NAUS_TRAINING_002;46;0;0;0;0;Aqui é o ROB. O Arwing está funcionando bem?;Aqui é o ROB. O Arwing está funcionando bem?
+68;3BFF888F;NAUS_TRAINING_003;47;0;0;0;0;Meus sensores nao estao detectando nenhum perigo.;Meus sensores não estão detectando nenhum perigo.
+69;259B1D2C;NAUS_TRAINING_004;48;0;0;0;0;O Walker é ideal para espacos;O Walker é ideal para espaços
+70;259B1D2C;NAUS_TRAINING_004;48;0;0;1;1;fechados.;fechados.
+71;529C2DBA;NAUS_TRAINING_005;49;0;0;0;0;Aperte {button:A} para alternar entre o Arwing;Aperte {button:A} para alternar entre o Arwing
+72;529C2DBA;NAUS_TRAINING_005;49;0;0;1;1;e o Walker.;e o Walker.
+73;3C924C96;NAUS_TRAINING_007;50;0;0;0;0;Incline {button:21} para cima para correr.;Incline {button:21} para cima para correr.
+74;2C2D5107;NAUS_TRAINING_008;51;0;0;0;0;Incline {button:21} para baixo para voar.;Incline {button:21} para baixo para voar.
+75;5B2A6191;NAUS_TRAINING_009;52;0;0;0;0;Voce pode se transformar em uma nave,;Você pode se transformar em uma nave,
+76;5B2A6191;NAUS_TRAINING_009;52;0;0;1;1;mas isso consome a barra de turbo.;mas isso consome a barra de turbo.
+77;3BEDE874;NAUS_TRAINING_010;53;0;0;0;0;Segure {button:L} para olhar para baixo.;Segure {button:L} para olhar para baixo.
+78;4CEAD8E2;NAUS_TRAINING_011;54;0;0;0;0;Incline {button:21} verticalmente para subir ou;Incline {button:21} verticalmente para subir ou
+79;4CEAD8E2;NAUS_TRAINING_011;54;0;0;1;1;descer e para os lados para girar.;descer e para os lados para girar.
+80;55E38958;NAUS_TRAINING_012;55;0;0;0;0;O Gyrowing transporta um robo chamado;O Gyrowing transporta um robô chamado
+81;55E38958;NAUS_TRAINING_012;55;0;0;1;1;Direct-i.;Direct-i.
+82;22E4B9CE;NAUS_TRAINING_013;56;0;0;0;0;Inicie o Direct-i para ativar o painel.;Inicie o Direct-i para ativar o painel.
+83;3C802C6D;NAUS_TRAINING_014;57;0;0;0;0;Aperte {button:A} para abaixá-lo.;Aperte {button:A} para abaixá-lo.
+84;25897DD7;NAUS_TRAINING_017;58;0;0;0;0;Iniciando o treinamento.;Iniciando o treinamento.
+85;35366046;NAUS_TRAINING_018;59;0;0;0;0;Incline {button:21} para acelerar.;Incline {button:21} para acelerar.
+86;423150D0;NAUS_TRAINING_019;60;0;0;0;0;Carregue o laser e solte o botao;Carregue o laser e solte o botão
+87;423150D0;NAUS_TRAINING_019;60;0;0;1;1;para disparar os mísseis.;para disparar os mísseis.
+88;10C0BBB7;NAUS_TRAINING_020;61;0;0;0;0;Carregue o laser e solte o botao;Carregue o laser e solte o botão
+89;10C0BBB7;NAUS_TRAINING_020;61;0;0;1;1;em até tres inimigos ao mesmo tempo.;em até tres inimigos ao mesmo tempo.
+90;09C9EA0D;NAUS_TRAINING_023;62;0;0;0;0;Muito bem. Isso conclui a simulacao.;Muito bem. Isso conclui a simulação.
+91;17AD7FAE;NAUS_TRAINING_024;63;0;0;0;0;Siga todos os passos para avancar;Siga todos os passos para avancar
+92;17AD7FAE;NAUS_TRAINING_024;63;0;0;1;1;para o próximo exercício.;para o próximo exercício.
+93;60AA4F38;NAUS_TRAINING_025;64;0;0;0;0;Aperte {button:7} ou {button:29} para lançar bombas.;Aperte {button:7} ou {button:29} para lançar bombas.
+94;0EA42E14;NAUS_TRAINING_027;65;0;0;0;0;Recomenda-se olhar para o GamePad;Recomenda-se olhar para o GamePad
+95;0EA42E14;NAUS_TRAINING_027;65;0;0;1;1;ao manobrar com o alvo travado.;ao manobrar com o alvo travado.
+96;1E1B3385;NAUS_TRAINING_028;66;0;0;0;0;Coloque em prática o que;Coloque em prática o que
+97;1E1B3385;NAUS_TRAINING_028;66;0;0;1;1;aprendeu e colete as moedas.;aprendeu e colete as moedas.
+98;09DB8AF6;NAUS_TRAINING_030;67;0;0;0;0;Sao bombas. Abaixe o volume do Direct-i.;São bombas. Abaixe o volume do Direct-i.
+99;09DB8AF6;NAUS_TRAINING_030;67;0;0;1;1;até que voce toque em uma para pegá-la.;até que você toque em uma para pegá-la.
+100;7EDCBA60;NAUS_TRAINING_031;68;0;0;0;0;Ao lancar uma bomba,;Ao lançar uma bomba,
+101;7EDCBA60;NAUS_TRAINING_031;68;0;0;1;1;ela explode ao atingir o solo.;ela explode ao atingir o solo.
+102;67D5EBDA;NAUS_TRAINING_032;69;0;0;0;0;Use o controle de movimento;Use o controle de movimento
+103;67D5EBDA;NAUS_TRAINING_032;69;0;0;1;1;do GamePad para mirar.;do GamePad para mirar.
+104;10D2DB4C;NAUS_TRAINING_033;70;0;0;0;0;Aperte {button:9} para disparar o laser principal.;Aperte {button:9} para disparar o laser principal.
+105;0EB64EEF;NAUS_TRAINING_034;71;0;0;0;0;Pressione {button:LeftStickPress} ou {button:Y} se precisar;Aperte {button:LeftStickPress} ou {button:Y} se precisar
+106;0EB64EEF;NAUS_TRAINING_034;71;0;0;1;1;recalibra a mira.;recalibra a mira.
+107;79B17E79;NAUS_TRAINING_035;72;0;0;0;0;Segure {button:L} para atingir o objetivo;Segure {button:L} para atingir o alvo
+108;79B17E79;NAUS_TRAINING_035;72;0;0;1;1;em um inimigo próximo.;em um inimigo próximo.
