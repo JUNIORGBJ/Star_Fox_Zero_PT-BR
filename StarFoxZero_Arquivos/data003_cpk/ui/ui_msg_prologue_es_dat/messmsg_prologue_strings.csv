@@ -1,0 +1,70 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;0BD4496A;FOX_PROLOGUE_001;0;0;0;0;0;Mi nombre es Fox McCloud.;Meu nome é Fox McCloud.
+1;0BD4496A;FOX_PROLOGUE_001;0;0;0;1;1;;
+2;0BD4496A;FOX_PROLOGUE_001;0;0;0;2;2;Soy el líder de Star Fox, una unidad de;Eu sou o líder da Star Fox, uma unidade
+3;0BD4496A;FOX_PROLOGUE_001;0;0;0;3;3;mercenarios fundada por el expiloto de;mercenária fundada pelo ex-piloto
+4;0BD4496A;FOX_PROLOGUE_001;0;0;0;4;4;élite del ejército de Corneria James;elite do Exército Corneriano, James
+5;0BD4496A;FOX_PROLOGUE_001;0;0;0;5;5;McCloud... Mi padre.;McCloud... Meu pai.
+6;0BD4496A;FOX_PROLOGUE_001;0;0;0;6;6;;
+7;0BD4496A;FOX_PROLOGUE_001;0;0;0;7;7;Hace cinco años, el general Pepper, del ejército;Cinco anos atrás, o General Pepper do exército
+8;0BD4496A;FOX_PROLOGUE_001;0;0;0;8;8;de Corneria, contrató a James McCloud para;Corneriano contratou James McCloud para
+9;0BD4496A;FOX_PROLOGUE_001;0;0;0;9;9;que investigara actividades sospechosas en;investigar atividades suspeitas no
+10;0BD4496A;FOX_PROLOGUE_001;0;0;0;10;10;el planeta Venom. Mi padre jamás regresó.;planeta Venom. Meu pai nunca retornou.
+11;0BD4496A;FOX_PROLOGUE_001;0;0;0;11;11;;
+12;0BD4496A;FOX_PROLOGUE_001;0;0;0;12;12;Venom. Un inhóspito planeta al que huyó;Venom. Um planeta inóspito para onde
+13;0BD4496A;FOX_PROLOGUE_001;0;0;0;13;13;Andross, el científico loco que fue expulsado;Andross, o cientista louco expulso
+14;0BD4496A;FOX_PROLOGUE_001;0;0;0;14;14;de la Federación de Corneria.;da Federação Corneriana, fugiu.
+15;0BD4496A;FOX_PROLOGUE_001;0;0;0;15;15;;
+16;0BD4496A;FOX_PROLOGUE_001;0;0;0;16;16;A mi padre lo acompañaron otros dos pilotos;Meu pai foi acompanhado na missão por outros
+17;0BD4496A;FOX_PROLOGUE_001;0;0;0;17;17;en la misión: Peppy Hare, su mejor amigo,;dois pilotos: Peppy Hare, seu melhor amigo,
+18;0BD4496A;FOX_PROLOGUE_001;0;0;0;18;18;y Pigma Dengar, un soldado de dudosa;e Pigma Dengar, um soldado de reputação
+19;0BD4496A;FOX_PROLOGUE_001;0;0;0;19;19;reputación que se ofreció voluntario.;duvidosa que se ofereceu como voluntário.
+20;12DD18D0;FOX_PROLOGUE_002;1;0;0;0;0;En aquel momento, nadie podía imaginar que;naquela época, ninguém poderia imaginar que Pigma
+21;12DD18D0;FOX_PROLOGUE_002;1;0;0;1;1;Pigma trabajaba en secreto para Andross.;estivesse trabalhando secretamente para Andross.
+22;12DD18D0;FOX_PROLOGUE_002;1;0;0;2;2;;
+23;12DD18D0;FOX_PROLOGUE_002;1;0;0;3;3;Traicionó a Peppy y a mi padre,;Ele traiu Peppy e meu pai, e os
+24;12DD18D0;FOX_PROLOGUE_002;1;0;0;4;4;y los condujo directos a una trampa.;levou direto para uma armadilha.
+25;12DD18D0;FOX_PROLOGUE_002;1;0;0;5;5;;
+26;12DD18D0;FOX_PROLOGUE_002;1;0;0;6;6;Aprovechando un momento de descuido,;Aproveitando um momento de desatenção,
+27;12DD18D0;FOX_PROLOGUE_002;1;0;0;7;7;mi padre consiguió ayudar a Peppy a escapar.;meu pai conseguiu ajudar Peppy a escapar.
+28;12DD18D0;FOX_PROLOGUE_002;1;0;0;8;8;;
+29;12DD18D0;FOX_PROLOGUE_002;1;0;0;9;9;Peppy pudo regresar a Corneria con vida,;Peppy conseguiu retornar vivo a Corneria
+30;12DD18D0;FOX_PROLOGUE_002;1;0;0;10;10;y relató el heroico acto de James McCloud.;e relatou o ato heroico de James McCloud.
+31;12DD18D0;FOX_PROLOGUE_002;1;0;0;11;11;;
+32;12DD18D0;FOX_PROLOGUE_002;1;0;0;12;12;Asimismo, comunicó que Andross estaba;Ele também relatou que Andross estava
+33;12DD18D0;FOX_PROLOGUE_002;1;0;0;13;13;formando en secreto un ejército con;secretamente formando um exército com a
+34;12DD18D0;FOX_PROLOGUE_002;1;0;0;14;14;la intención de conquistar el sistema Lylat.;intenção de conquistar o sistema Lylat.
+35;12DD18D0;FOX_PROLOGUE_002;1;0;0;15;15;;
+36;12DD18D0;FOX_PROLOGUE_002;1;0;0;16;16;Ese fue el inicio de las llamadas;Esse foi o início do que ficou conhecido
+37;12DD18D0;FOX_PROLOGUE_002;1;0;0;17;17;"""guerras de Lylat"".";"como as ""guerras de Lylat""."
+38;65DA2846;FOX_PROLOGUE_003;2;0;0;0;0;Cinco años más tarde...;Cinco anos depois...
+39;65DA2846;FOX_PROLOGUE_003;2;0;0;1;1;;
+40;65DA2846;FOX_PROLOGUE_003;2;0;0;2;2;La guerra entre Corneria y el ejército;A guerra entre Corneria e o exército
+41;65DA2846;FOX_PROLOGUE_003;2;0;0;3;3;de Andross se ha extendido a todos;de Andross se espalhou por todos
+42;65DA2846;FOX_PROLOGUE_003;2;0;0;4;4;los rincones del sistema Lylat.;os cantos do sistema Lylat.
+43;65DA2846;FOX_PROLOGUE_003;2;0;0;5;5;;
+44;65DA2846;FOX_PROLOGUE_003;2;0;0;6;6;Yo he decidido seguir el legado de mi padre,;Decidi seguir os passos do meu
+45;65DA2846;FOX_PROLOGUE_003;2;0;0;7;7;y he refundado Star Fox junto con tres valientes;pai e relancei Star Fox junto com tres
+46;65DA2846;FOX_PROLOGUE_003;2;0;0;8;8;pilotos:;pilotos corajosos:
+47;7BBEBDE5;FOX_PROLOGUE_004;3;0;0;0;0;Slippy Toad, un amigo de la academia que,;Slippy Toad, um amigo da academia
+48;7BBEBDE5;FOX_PROLOGUE_004;3;0;0;1;1;además, es un brillante inventor.;que também é um inventor brilhante.
+49;7BBEBDE5;FOX_PROLOGUE_004;3;0;0;2;2;;
+50;7BBEBDE5;FOX_PROLOGUE_004;3;0;0;3;3;Falco Lombardi, un piloto testarudo y;Falco Lombardi, um piloto teimoso e
+51;7BBEBDE5;FOX_PROLOGUE_004;3;0;0;4;4;orgulloso, pero también leal y en quien;orgulhoso, mas também leal e alguém em
+52;7BBEBDE5;FOX_PROLOGUE_004;3;0;0;5;5;se puede confiar en los momentos difíciles.;quem se pode confiar em momentos difíceis.
+53;7BBEBDE5;FOX_PROLOGUE_004;3;0;0;6;6;;
+54;7BBEBDE5;FOX_PROLOGUE_004;3;0;0;7;7;Y Peppy Hare, el viejo amigo de mi padre.;E Peppy Hare, um velho amigo do meu pai.
+55;7BBEBDE5;FOX_PROLOGUE_004;3;0;0;8;8;Un experto piloto que mantiene el equipo unido.;Um piloto experiente que mantém a equipe unida.
+56;0CB98D73;FOX_PROLOGUE_005;4;0;0;0;0;A día de hoy...;Em nossos tempos...
+57;0CB98D73;FOX_PROLOGUE_005;4;0;0;1;1;;
+58;0CB98D73;FOX_PROLOGUE_005;4;0;0;2;2;De camino al planeta Corneria,;A caminho do planeta Corneria,
+59;0CB98D73;FOX_PROLOGUE_005;4;0;0;3;3;hemos recibido un mensaje urgente;recebemos uma mensagem urgente do
+60;0CB98D73;FOX_PROLOGUE_005;4;0;0;4;4;del general Pepper.;General Pepper.
+61;0CB98D73;FOX_PROLOGUE_005;4;0;0;5;5;;
+62;0CB98D73;FOX_PROLOGUE_005;4;0;0;6;6;El ejército de Andross ha aparecido de la nada;O exército de Andross surgiu do nada
+63;0CB98D73;FOX_PROLOGUE_005;4;0;0;7;7;y ha atacado la pacífica ciudad de Corneria.;e atacou a pacífica cidade de Corneria.
+64;0CB98D73;FOX_PROLOGUE_005;4;0;0;8;8;;
+65;0CB98D73;FOX_PROLOGUE_005;4;0;0;9;9;¡Es hora de demostrar de qué pasta;Chegou a hora de mostrar
+66;0CB98D73;FOX_PROLOGUE_005;4;0;0;10;10;estamos hechos!;do que somos feitos!
+67;0CB98D73;FOX_PROLOGUE_005;4;0;0;11;11;;
+68;0CB98D73;FOX_PROLOGUE_005;4;0;0;12;12;¡Vamos a por ti, Andross!;Estamos na sua cola, Andross!
