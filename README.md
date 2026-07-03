@@ -1,4 +1,4 @@
-> **Status do Projeto:**  **Em Tradução (5%)** ⚠ **Sem previsão de lançamento.** ⚠
+> **Status do Projeto:**  **Em Tradução (30%)** ⚠ **Sem previsão de lançamento.** ⚠
 
 ## 📥 Downloads
 
