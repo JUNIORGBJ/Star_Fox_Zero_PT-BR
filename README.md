@@ -7,6 +7,23 @@ Projeto de tradução completa do jogo.
 ## 📊 Progresso da Tradução
 
 <!-- PROGRESS_START -->
+
+## 📊 Status da Tradução
+
+### 🟢 Progresso Geral
+
+**37.50%**
+
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+<progress value="9" max="24"></progress>
+
+| 📁 Estatística | Quantidade |
+|---------------|-----------:|
+| ✅ Traduzidos | **9** |
+| ⏳ Restantes | **15** |
+| 📦 Total | **24** |
+
 <!-- PROGRESS_END -->
 
 ## 📥 Downloads
