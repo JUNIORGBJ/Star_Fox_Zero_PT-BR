@@ -1,4 +1,16 @@
-> **Status do Projeto:**  **Em Tradução (30%)** ⚠ **Sem previsão de lançamento.** ⚠
+# Star Fox Zero - Tradução PT-BR
+
+Projeto de tradução completa do jogo.
+
+---
+
+## 📊 Progresso
+
+<!-- PROGRESS_START -->
+Carregando...
+<!-- PROGRESS_END -->
+
+---
 
 ## 📥 Downloads
 
