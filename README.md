@@ -5,6 +5,8 @@
 
 <!-- PROGRESS_START -->
 
+## 📊 Status da Tradução
+
 ### 🟢 Progresso Geral
 
 **37.50%**
