@@ -1,5 +1,3 @@
-### ...
-
 <p align="center">
   <img src="Star_Fox_Zero.png" alt="Star Fox Zero PT-BR">
 </p>
