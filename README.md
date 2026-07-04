@@ -1,7 +1,7 @@
 # Star Fox Zero - Tradução PT-BR
 
 <!-- PROGRESS_START -->
-## 📊 Status da Tradução
+### 📊 Status da Tradução
 
 **37.50%**
 
