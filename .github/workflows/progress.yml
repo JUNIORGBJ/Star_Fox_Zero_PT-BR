@@ -18,7 +18,7 @@ jobs:
           python-version: "3.12"
 
       - name: Atualizar README
-        run: python scripts/update_readme.py
+        run: python StarFoxZeroTranslation/scripts/update_readme.py
 
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v5

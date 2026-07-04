@@ -1,7 +1,7 @@
 from pathlib import Path
 
-original = Path("Original")
-translated = Path("Traduzido")
+original = Path("StarFoxZeroTranslation/Original")
+translated = Path("StarFoxZeroTranslation/Traduzido")
 
 # extensões que serão consideradas
 extensions = {".txt", ".json", ".xml", ".csv"}
@@ -25,7 +25,7 @@ progress = f"""### 📊 Status da Tradução
 **{done} / {total} arquivos traduzidos**
 """
 
-readme = Path("README.md")
+readme = Path("StarFoxZeroTranslation/README.md")
 text = readme.read_text(encoding="utf-8")
 
 start = "<!-- PROGRESS_START -->"
