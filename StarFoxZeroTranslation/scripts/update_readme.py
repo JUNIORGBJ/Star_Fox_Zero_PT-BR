@@ -4,7 +4,7 @@ original = Path("Original")
 translated = Path("Traduzido")
 
 # extensões que serão consideradas
-extensions = {".csv"}
+extensions = {".txt", ".json", ".xml", ".csv"}
 
 total = sum(1 for f in original.rglob("*") if f.is_file() and f.suffix.lower() in extensions)
 done = sum(1 for f in translated.rglob("*") if f.is_file() and f.suffix.lower() in extensions)
