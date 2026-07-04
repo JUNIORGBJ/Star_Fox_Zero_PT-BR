@@ -1,14 +1,11 @@
 # Star Fox Zero - Tradução PT-BR
 
-<<<<<<< HEAD
 Projeto de tradução completa do jogo.
 
 ---
 
 ## 📊 Progresso da Tradução
 
-=======
->>>>>>> 5d50633a6fa48da9ab285d344eaa388cb77d8232
 <!-- PROGRESS_START -->
 <!-- PROGRESS_END -->
 
