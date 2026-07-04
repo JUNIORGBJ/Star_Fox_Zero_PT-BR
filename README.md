@@ -1,4 +1,8 @@
-# Star Fox Zero - Tradução PT-BR
+### ...
+
+<p align="center">
+  <img src="Star_Fox_Zero.png" alt="Star Fox Zero PT-BR">
+</p>
 
 <!-- PROGRESS_START -->
 
@@ -21,12 +25,6 @@
 <!-- PROGRESS_END -->
 
 ## 📥 Downloads
-
-### ...
-
-<p align="center">
-  <img src="Star_Fox_Zero.png" alt="Star Fox Zero PT-BR">
-</p>
 
 ## 🔹 Sobre a Tradução
 
