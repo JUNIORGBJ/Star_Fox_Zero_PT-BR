@@ -25,7 +25,7 @@ progress = f"""### 📊 Status da Tradução
 **{done} / {total} arquivos traduzidos**
 """
 
-readme = Path("StarFoxZeroTranslation/README.md")
+readme = Path("README.md")
 text = readme.read_text(encoding="utf-8")
 
 start = "<!-- PROGRESS_START -->"
