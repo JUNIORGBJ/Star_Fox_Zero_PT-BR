@@ -3,26 +3,42 @@ from pathlib import Path
 original = Path("StarFoxZeroTranslation/Original")
 translated = Path("StarFoxZeroTranslation/Traduzido")
 
-# extensões que serão consideradas
 extensions = {".txt", ".json", ".xml", ".csv"}
 
-total = sum(1 for f in original.rglob("*") if f.is_file() and f.suffix.lower() in extensions)
-done = sum(1 for f in translated.rglob("*") if f.is_file() and f.suffix.lower() in extensions)
+total = sum(
+    1 for f in original.rglob("*")
+    if f.is_file() and f.suffix.lower() in extensions
+)
 
+done = sum(
+    1 for f in translated.rglob("*")
+    if f.is_file() and f.suffix.lower() in extensions
+)
+
+remaining = total - done
 percent = 0 if total == 0 else done / total * 100
 
-# Barra de progresso
-size = 30
-filled = int(size * done / total) if total else 0
-bar = "█" * filled + "░" * (size - filled)
+size = 20
+filled = round(size * percent / 100)
 
-progress = f"""### 📊 Status da Tradução
+bar = "🟩" * filled + "⬜" * (size - filled)
+
+progress = f"""
+## 📊 Status da Tradução
+
+### 🟢 Progresso Geral
 
 **{percent:.2f}%**
 
 {bar}
 
-**{done} / {total} arquivos traduzidos**
+<progress value="{done}" max="{total}"></progress>
+
+| 📁 Estatística | Quantidade |
+|---------------|-----------:|
+| ✅ Traduzidos | **{done:,}** |
+| ⏳ Restantes | **{remaining:,}** |
+| 📦 Total | **{total:,}** |
 """
 
 readme = Path("README.md")
@@ -34,6 +50,7 @@ end = "<!-- PROGRESS_END -->"
 before = text.split(start)[0]
 after = text.split(end)[1]
 
-new_text = before + start + "\n" + progress + "\n" + end + after
-
-readme.write_text(new_text, encoding="utf-8")
+readme.write_text(
+    before + start + "\n" + progress + "\n" + end + after,
+    encoding="utf-8"
+)
