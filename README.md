@@ -30,7 +30,7 @@ A tradução está sendo desenvolvida a partir dos arquivos originais em espanho
 
 ## 🔹 Objetivo do Projeto
 
-Este projeto tem como objetivo permitir que mais jogadores brasileiros possam compreender melhor a história e a experiência de **Sta Fox Zero**.
+Este projeto tem como objetivo permitir que mais jogadores brasileiros possam compreender melhor a história e a experiência de **Star Fox Zero**.
 Caso encontre erros de tradução, ortografia ou inconsistências durante o jogo, seu feedback será muito bem-vindo e ajudará a melhorar ainda mais o projeto.
 
 ## 🔹 Requisitos
