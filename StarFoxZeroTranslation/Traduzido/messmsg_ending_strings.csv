@@ -1,0 +1,11 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;29A2A58D;PEPPER_END_001;0;0;0;0;0;Star Fox,;Star Fox, obrigado. 
+1;29A2A58D;PEPPER_END_001;0;0;0;1;1;os debemos mucho.;Obrigado por tudo.
+2;30ABF437;PEPPER_END_002;1;0;0;0;0;Os habéis ganado un puesto;Você estaria disposto a... se
+3;30ABF437;PEPPER_END_002;1;0;0;1;1;en el ejército de Corneria.;juntar ao exército Corneriano?
+4;0A282285;FOX_END_001;2;0;0;0;0;Lo siento.;Não. Star Fox valoriza demais
+5;0A282285;FOX_END_001;2;0;0;1;1;Preferimos volar por libre, general.;sua independência.
+6;40FB706F;NAUS_END_001;3;0;0;0;0;El Great Fox está listo.;Great Fox pronto para decolar.
+7;019850DA;DIRECT_END_001;4;0;0;0;0;¡Todo el mundo a bordo!;Preparados para decolar!
+8;1321733F;FOX_END_002;5;0;0;0;0;General...;General...
+9;1321733F;FOX_END_002;5;0;0;1;1;¡hasta la próxima!;até a próxima!
