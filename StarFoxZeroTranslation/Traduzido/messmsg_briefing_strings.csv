@@ -1,0 +1,109 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;3F9D8964;PEPPER_BRIEFING_001;0;0;0;0;0;Star Fox, ¿me recibís?;Star Fox, vocês estão me ouvindo?
+1;2694D8DE;PEPPER_BRIEFING_002;1;0;0;0;0;¡El ejército de Andross nos está atacando!;O exército de Andross está nos atacando!
+2;5193E848;PEPPER_BRIEFING_003;2;0;0;0;0;¡Necesitamos vuestra ayuda;Precisamos da ajuda de vocês
+3;5193E848;PEPPER_BRIEFING_003;2;0;0;1;1;de inmediato!;imediatamente!
+4;4FF77DEB;PEPPER_BRIEFING_004;3;0;0;0;0;Gracias a vosotros, Corneria;Graças a vocês, Corneria
+5;4FF77DEB;PEPPER_BRIEFING_004;3;0;0;1;1;está a salvo, Star Fox.;está a salvo, Star Fox.
+6;38F04D7D;PEPPER_BRIEFING_005;4;0;0;0;0;¡Pero vuestra misión no ha concluido!;Mas a missão de vocês ainda não terminou!
+7;21F91CC7;PEPPER_BRIEFING_006;5;0;0;0;0;Una flota enemiga ha pasado;Uma frota inimiga partiu
+8;21F91CC7;PEPPER_BRIEFING_006;5;0;0;1;1;a la ofensiva. ¡Os necesitamos;para a ofensiva. Precisamos de vocês
+9;21F91CC7;PEPPER_BRIEFING_006;5;0;0;2;2;en primera línea!;na linha de frente!
+10;56FE2C51;PEPPER_BRIEFING_007;6;0;0;0;0;Nos hemos apoderado de la temible arma;Conseguimos apreender a temível arma
+11;56FE2C51;PEPPER_BRIEFING_007;6;0;0;1;1;de Andross, el Gigarila, que está a buen;de Andross, a Gigarila, que está bem
+12;56FE2C51;PEPPER_BRIEFING_007;6;0;0;2;2;recaudo en la colonia espacial del área 3.;protegida na colônia espacial da Área 3.
+13;464131C0;PEPPER_BRIEFING_008;7;0;0;0;0;Pero el ejército de Andross;Mas o exército de Andross
+14;464131C0;PEPPER_BRIEFING_008;7;0;0;1;1;intenta recuperarla. ¡Debéis;está tentando recuperá-la. Vocês devem
+15;464131C0;PEPPER_BRIEFING_008;7;0;0;2;2;detenerlo!;impedi-los!
+16;31460156;PEPPER_BRIEFING_009;8;0;0;0;0;Parece que te has teletransportado;Parece que você se teletransportou
+17;31460156;PEPPER_BRIEFING_009;8;0;0;1;1;a nuestra antigua base en Zoness.;para nossa antiga base em Zoness.
+18;518188B3;PEPPER_BRIEFING_010;9;0;0;0;0;El ejército de Andross ha debido;O exército de Andross deve ter
+19;518188B3;PEPPER_BRIEFING_010;9;0;0;1;1;de ocuparla en nuestra ausencia.;ocupado a base durante nossa ausência.
+20;64DA2E28;PEPPER_BRIEFING_034;10;0;0;0;0;¡Busca la manera de sortear;Encontre uma maneira de contornar
+21;64DA2E28;PEPPER_BRIEFING_034;10;0;0;1;1;el escudo e infiltrarte en la base!;o escudo e se infiltrar na base!
+22;2686B825;PEPPER_BRIEFING_011;11;0;0;0;0;Recuperar el control de este sector;Recuperar o controle deste setor
+23;2686B825;PEPPER_BRIEFING_011;11;0;0;1;1;es clave para cambiar el curso;é fundamental para mudar o rumo
+24;2686B825;PEPPER_BRIEFING_011;11;0;0;2;2;de la guerra.;da guerra.
+25;7DC11F69;PEPPER_BRIEFING_024;12;0;0;0;0;¡Uníos a nuestro escuadrón;Venha para o nosso esquadrão
+26;7DC11F69;PEPPER_BRIEFING_024;12;0;0;1;1;y lanzad un contrataque!;e lancem um contra-ataque!
+27;3F8FE99F;PEPPER_BRIEFING_012;13;0;0;0;0;Vais a perder un tiempo;Vocês vão perder um tempo
+28;3F8FE99F;PEPPER_BRIEFING_012;13;0;0;1;1;precioso en ese planeta...;precioso nesse planeta...
+29;56EC4CAA;PEPPER_BRIEFING_014;14;0;0;0;0;El enemigo ha lanzado varios;O inimigo lançou vários
+30;56EC4CAA;PEPPER_BRIEFING_014;14;0;0;1;1;misiles desde Fichina. En estos;mísseis de Fichina. Neste
+31;56EC4CAA;PEPPER_BRIEFING_014;14;0;0;2;2;momentos atraviesan el sector ³.;momento, eles estão atravessando o setor gama.
+32;13DD1EBE;PEPPER_BRIEFING_035;15;0;0;0;0;Ignoramos adónde se dirigen,;Não sabemos para onde estão indo,
+33;13DD1EBE;PEPPER_BRIEFING_035;15;0;0;1;1;¡pero debéis destruirlos cuanto antes!;mas vocês devem destruí-los o mais rápido possível!
+34;38E22D86;PEPPER_BRIEFING_016;16;0;0;0;0;Instantes antes de perder la comunicación,;Momentos antes de perdermos a comunicação,
+35;38E22D86;PEPPER_BRIEFING_016;16;0;0;1;1;nuestra base ha confirmado la existencia;nossa base confirmou a existência
+36;38E22D86;PEPPER_BRIEFING_016;16;0;0;2;2;de un arma enemiga letal.;de uma arma letal do inimigo.
+37;4FE51D10;PEPPER_BRIEFING_017;17;0;0;0;0;Un arma secreta enemiga amenaza;Uma arma secreta do inimigo ameaça
+38;4FE51D10;PEPPER_BRIEFING_017;17;0;0;1;1;este precioso planeta. ¡Debéis;este precioso planeta. Vocês devem
+39;4FE51D10;PEPPER_BRIEFING_017;17;0;0;2;2;destruirla a cualquier precio!;destruí-la a qualquer custo!
+40;5F5A0081;PEPPER_BRIEFING_018;18;0;0;0;0;La ruta más rápida hacia Venom;A rota mais rápida para Venom
+41;5F5A0081;PEPPER_BRIEFING_018;18;0;0;1;1;"atraviesa el llamado ""cementerio";"atravessa o chamado ""cemitério"
+42;5F5A0081;PEPPER_BRIEFING_018;18;0;0;2;2;"espacial"". ¡Andaos con cuidado!";"espacial"". Tenham cuidado!"
+43;7AACDB70;PEPPER_BRIEFING_020;19;0;0;0;0;Así que Venom ha desaparecido...;Então Venom desapareceu...
+44;7AACDB70;PEPPER_BRIEFING_020;19;0;0;1;1;Pero aún contamos con otro método;Mas ainda temos outro método
+45;7AACDB70;PEPPER_BRIEFING_020;19;0;0;2;2;para llegar a Andross.;para chegar até Andross.
+46;0AC62FFF;PEPPER_BRIEFING_025;20;0;0;0;0;Ya os lo explicaré luego.;Vou explicar isso mais tarde.
+47;0AC62FFF;PEPPER_BRIEFING_025;20;0;0;1;1;¡Os necesitamos en Corneria de inmediato!;Precisamos de vocês em Corneria imediatamente!
+48;0DABEBE6;PEPPER_BRIEFING_021;21;0;0;0;0;¿Me recibes, Fox?;Você está me ouvindo, Fox?
+49;13CF7E45;PEPPER_BRIEFING_026;22;0;0;0;0;Sí, a eso iba. Andross nos ayudó;Sim, era isso mesmo que eu ia dizer. Andross
+50;13CF7E45;PEPPER_BRIEFING_026;22;0;0;1;1;a desarrollar un sistema de;nos ajudou a desenvolver um sistema de
+51;13CF7E45;PEPPER_BRIEFING_026;22;0;0;2;2;teletransporte con fines pacíficos.;teletransporte para fins pacíficos.
+52;64C84ED3;PEPPER_BRIEFING_027;23;0;0;0;0;Pero, cegado por el poder y;Mas, cego pelo poder e
+53;64C84ED3;PEPPER_BRIEFING_027;23;0;0;1;1;la avaricia, intentó usar esa tecnología;pela ganância, ele tentou usar essa tecnologia
+54;64C84ED3;PEPPER_BRIEFING_027;23;0;0;2;2;para su propio beneficio.;em benefício próprio.
+55;74775342;PEPPER_BRIEFING_028;24;0;0;0;0;Cuando lo descubrimos, decidimos;Quando descobrimos isso, decidimos
+56;74775342;PEPPER_BRIEFING_028;24;0;0;1;1;teleportar a Andross a otra dimensión.;teletransportar Andross para outra dimensão.
+57;74775342;PEPPER_BRIEFING_028;24;0;0;2;2;Ese fue su castigo.;Esse foi o castigo dele.
+58;037063D4;PEPPER_BRIEFING_029;25;0;0;0;0;De no haber sido por tu padre...;Se não fosse pelo seu pai...
+59;037063D4;PEPPER_BRIEFING_029;25;0;0;1;1;habríamos fracasado.;teríamos fracassado.
+60;63B7EA31;PEPPER_BRIEFING_030;26;0;0;0;0;Pero ahora Andross ha vuelto con más;Mas agora Andross voltou com armas
+61;63B7EA31;PEPPER_BRIEFING_030;26;0;0;1;1;y mejores armas. E incluso se ha hecho;ainda mais poderosas. E ainda conseguiu
+62;63B7EA31;PEPPER_BRIEFING_030;26;0;0;2;2;con el control de los teleportadores.;o controle dos teletransportadores.
+63;14B0DAA7;PEPPER_BRIEFING_031;27;0;0;0;0;Si nadie se interpone en su;Se ninguém se interpor em seu
+64;14B0DAA7;PEPPER_BRIEFING_031;27;0;0;1;1;camino, ¡todo el sistema Lylat;caminho, todo o sistema Lylat
+65;14B0DAA7;PEPPER_BRIEFING_031;27;0;0;2;2;caerá en sus manos!;cairá em suas mãos!
+66;0DB98B1D;PEPPER_BRIEFING_032;28;0;0;0;0;¡Debemos detener a Andross;Precisamos deter Andross
+67;0DB98B1D;PEPPER_BRIEFING_032;28;0;0;1;1;a cualquier precio y destruir;a qualquer custo e destruir
+68;0DB98B1D;PEPPER_BRIEFING_032;28;0;0;2;2;esa tecnología para siempre!;essa tecnologia para sempre!
+69;7ABEBB8B;PEPPER_BRIEFING_033;29;0;0;0;0;Te necesitamos más que nunca, Fox.;Precisamos de você mais do que nunca, Fox.
+70;7ABEBB8B;PEPPER_BRIEFING_033;29;0;0;1;1;¿Nos ayudarás?;Você vai nos ajudar?
+71;3E4D83A8;PEPPER_BRIEFING_112;30;0;0;0;0;¡El ejército de Andross nos ataca!;O exército de Andross está nos atacando!
+72;16EB3D5B;FOX_BRIEFING_001;31;0;0;0;0;¡Mensaje urgente del general Pepper!;Mensagem urgente da general Pepper!
+73;0FE26CE1;FOX_BRIEFING_002;32;0;0;0;0;Haremos todo lo que podamos.;Faremos tudo o que pudermos.
+74;0FE26CE1;FOX_BRIEFING_002;32;0;0;1;1;¡Andross no se saldrá con la suya!;Andross não vai se safar!
+75;78E55C77;FOX_BRIEFING_003;33;0;0;0;0;Entendido. ¡Vamos para allá!;Entendido. Vamos para lá!
+76;6681C9D4;FOX_BRIEFING_004;34;0;0;0;0;Déjelo en nuestras manos.;Deixe isso conosco.
+77;6681C9D4;FOX_BRIEFING_004;34;0;0;1;1;¡Les daremos un buen escarmiento!;Vamos dar uma lição neles!
+78;1186F942;FOX_BRIEFING_005;35;0;0;0;0;¡Será visto y no visto!;Vai acabar num instante!
+79;7F88986E;FOX_BRIEFING_007;36;0;0;0;0;¡No podemos abandonar;Não podemos abandonar
+80;7F88986E;FOX_BRIEFING_007;36;0;0;1;1;a Peppy a su suerte!;o Peppy à própria sorte!
+81;6F3785FF;FOX_BRIEFING_008;37;0;0;0;0;¡A sus órdenes, general!;Às suas ordens, general!
+82;1830B569;FOX_BRIEFING_009;38;0;0;0;0;¡Iremos a investigar!;Vamos investigar!
+83;78F73C8C;FOX_BRIEFING_010;39;0;0;0;0;¡Nosotros nos encargamos!;Deixem isso conosco!
+84;0FF00C1A;FOX_BRIEFING_011;40;0;0;0;0;Sin problema. ¡Un McCloud;Sem problema. Um McCloud
+85;0FF00C1A;FOX_BRIEFING_011;40;0;0;1;1;no le tiene miedo a nada!;não tem medo de nada!
+86;16F95DA0;FOX_BRIEFING_012;41;0;0;0;0;¿A qué se refiere, general?;A que se refere, general?
+87;61FE6D36;FOX_BRIEFING_013;42;0;0;0;0;¿General? ¿Me puede decir;General? Pode me dizer o
+88;61FE6D36;FOX_BRIEFING_013;42;0;0;1;1;qué pasa aquí?;que está acontecendo aqui?
+89;7F9AF895;FOX_BRIEFING_014;43;0;0;0;0;Recibido. ¡Cuente con nosotros!;Entendido. Conte conosco!
+90;089DC803;FOX_BRIEFING_015;44;0;0;0;0;Por supuesto, general.;Claro, general.
+91;089DC803;FOX_BRIEFING_015;44;0;0;1;1;¡Le pararé los pies a Andross!;Vou dar um jeito no Andross!
+92;10D209EA;NAUS_BRIEFING_001;45;0;0;0;0;Se ha añadido una nueva función;Foi adicionada uma nova função
+93;10D209EA;NAUS_BRIEFING_001;45;0;0;1;1;al Walker.;ao Walker.
+94;09DB5850;NAUS_BRIEFING_002;46;0;0;0;0;Ahora puede manipular sistemas;Agora ele pode manipular sistemas,
+95;09DB5850;NAUS_BRIEFING_002;46;0;0;1;1;informáticos, al igual que el Direct-i.;assim como o Direct-i.
+96;7EDC68C6;NAUS_BRIEFING_003;47;0;0;0;0;Se ha añadido una nueva función;Foi adicionada uma nova função
+97;7EDC68C6;NAUS_BRIEFING_003;47;0;0;1;1;al Landmaster.;ao Landmaster.
+98;60B8FD65;NAUS_BRIEFING_004;48;0;0;0;0;Ahora puede transformarse en nave,;Agora ele pode se transformar em nave,
+99;60B8FD65;NAUS_BRIEFING_004;48;0;0;1;1;pero consume la barra de turbo.;mas consome a barra de turbo.
+100;17BFCDF3;NAUS_BRIEFING_005;49;0;0;0;0;Se ha habilitado el modo Walker.;O modo Walker foi ativado.
+101;0EB69C49;NAUS_BRIEFING_006;50;0;0;0;0;El Walker es óptimo para espacios;O Walker é ótimo para espaços
+102;0EB69C49;NAUS_BRIEFING_006;50;0;0;1;1;cerrados.;fechados.
+103;79B1ACDF;NAUS_BRIEFING_007;51;0;0;0;0;Bienvenido al modo de entrenamiento.;Bem-vindo ao modo de treinamento.
+104;690EB14E;NAUS_BRIEFING_008;52;0;0;0;0;He creado distintas simulaciones.;Criei várias simulações.
+105;690EB14E;NAUS_BRIEFING_008;52;0;0;1;1;Te ayudarán a prepararte para el combate.;Elas vão te ajudar a se preparar para o combate.
+106;1E0981D8;NAUS_BRIEFING_009;53;0;0;0;0;Cada una está diseñada para aprender;Cada uma foi projetada para que você aprenda
+107;1E0981D8;NAUS_BRIEFING_009;53;0;0;1;1;a manejar un vehículo determinado.;a pilotar um veículo específico.
