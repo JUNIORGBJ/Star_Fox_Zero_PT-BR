@@ -1,0 +1,92 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;553BA8DA;FOX_CORNERIA2_001;0;0;0;0;0;Muy bien, chicos.;Muito bem, pessoal.
+1;553BA8DA;FOX_CORNERIA2_001;0;0;0;1;1;¡Vamos directos a la ciudad!;Vamos direto para a cidade!
+2;4C32F960;FOX_CORNERIA2_002;1;0;0;0;0;¡General Pepper! ¿Me recibe?;General Pepper! Você está me ouvindo?
+3;4C32F960;FOX_CORNERIA2_002;1;0;0;1;1;Conteste, por favor...;Responda, por favor...
+4;3B35C9F6;FOX_CORNERIA2_003;2;0;0;0;0;Nada de confiarse.;Não podemos baixar a guarda.
+5;25515C55;FOX_CORNERIA2_004;3;0;0;0;0;¡General, ¿es usted?!;General, é você?!
+6;52566CC3;FOX_CORNERIA2_005;4;0;0;0;0;No lo sé, ¡pero tenemos que vencerlo!;Não, eu sei, mas tenemos que vencê-lo!
+7;4B5F3D79;FOX_CORNERIA2_006;5;0;0;0;0;¡Andross!;Andross!
+8;3C580DEF;FOX_CORNERIA2_007;6;0;0;0;0;A partir de aquí, me encargaré yo solo.;A partir daqui, eu cuido sozinho.
+9;2CE7107E;FOX_CORNERIA2_008;7;0;0;0;0;¡ROB, dime dónde estoy!;ROB, me diga onde estou!
+10;5BE020E8;FOX_CORNERIA2_009;8;0;0;0;0;¡Te está bien empleado!;Você mereceu!
+11;7278E352;FALCO_CORNERIA2_001;9;0;0;0;0;Esta vez han desplegado;Desta vez, eles trouxeram
+12;7278E352;FALCO_CORNERIA2_001;9;0;0;1;1;la artillería pesada...;a artilharia pesada...
+13;6B71B2E8;FALCO_CORNERIA2_002;10;0;0;0;0;Voy a adelantarme, Fox. ¡Cúbreme!;Vou avançar, Fox. Me dê cobertura!
+14;1C76827E;FALCO_CORNERIA2_003;11;0;0;0;0;No esperaba menos de ti.;Eu não esperava nada menos de você.
+15;021217DD;FALCO_CORNERIA2_004;12;0;0;0;0;¡Os vais a enterar!;Vocês vão ver!
+16;7515274B;FALCO_CORNERIA2_005;13;0;0;0;0;¡Andross sí que sabe dar una fiesta!;Andross realmente sabe dar uma festa!
+17;6C1C76F1;FALCO_CORNERIA2_006;14;0;0;0;0;¡Se van a enterar esos monos;Esses macacos vão descobrir
+18;6C1C76F1;FALCO_CORNERIA2_006;14;0;0;1;1;de quién manda aquí!;quem manda aqui!
+19;1B1B4667;FALCO_CORNERIA2_007;15;0;0;0;0;¡Hay que cargárselos a todos!;Temos que acabar com todos eles!
+20;0BA45BF6;FALCO_CORNERIA2_008;16;0;0;0;0;¡No dejan de aparecer enemigos!;Os inimigos não param de aparecer!
+21;7CA36B60;FALCO_CORNERIA2_009;17;0;0;0;0;Esto no me gusta un pelo...;Não estou gostando nem um pouco disso...
+22;1C64E285;FALCO_CORNERIA2_010;18;0;0;0;0;¡No te acerques a ese gorila;Não chegue perto daquele gorila
+23;1C64E285;FALCO_CORNERIA2_010;18;0;0;1;1;o acabarás hecho puré!;ou você vai virar mingau!
+24;6B63D213;FALCO_CORNERIA2_011;19;0;0;0;0;¡¿Ese es Andross?!;Esse é o Andross?!
+25;726A83A9;FALCO_CORNERIA2_012;20;0;0;0;0;¡Fox!;Fox!
+26;056DB33F;FALCO_CORNERIA2_013;21;0;0;0;0;¡Bien! ¡Lo estás consiguiendo!;Você está quase lá!
+27;5C7034B0;PEPPY_CORNERIA2_001;22;0;0;0;0;¡Fox, échame una mano!;Fox, me dê uma mãozinha!
+28;4579650A;PEPPY_CORNERIA2_002;23;0;0;0;0;¡Así se hace, Fox!;É assim mesmo, Fox!
+29;327E559C;PEPPY_CORNERIA2_003;24;0;0;0;0;Todo esto me trae recuerdos;Tudo isso me faz lembrar
+30;327E559C;PEPPY_CORNERIA2_003;24;0;0;1;1;de tu padre.;do seu pai.
+31;2C1AC03F;PEPPY_CORNERIA2_004;25;0;0;0;0;¡Id con cuidado!;Tenham cuidado!
+32;5B1DF0A9;PEPPY_CORNERIA2_005;26;0;0;0;0;Aún queda trabajo por hacer.;Ainda há trabalho a fazer. 
+33;5B1DF0A9;PEPPY_CORNERIA2_005;26;0;0;1;1;¡Abrochaos los cinturones!;Apertem os cintos!
+34;4214A113;PEPPY_CORNERIA2_006;27;0;0;0;0;¡Es el Gigarila! ¿Qué hace aquí?;É o Gigarila! O que ele está fazendo aqui?
+35;35139185;PEPPY_CORNERIA2_007;28;0;0;0;0;¡Es mejor atacar desde lejos!;É melhor atacar de longe!
+36;25AC8C14;PEPPY_CORNERIA2_008;29;0;0;0;0;Su blindaje parece impenetrable.;A blindagem dele parece impenetrável.
+37;25AC8C14;PEPPY_CORNERIA2_008;29;0;0;1;1;¡Algún punto débil tendrá!;Ele deve ter algum ponto fraco!
+38;52ABBC82;PEPPY_CORNERIA2_009;30;0;0;0;0;¡Su panel de control está;O painel de controle deles
+39;52ABBC82;PEPPY_CORNERIA2_009;30;0;0;1;1;al descubierto!;está exposto!
+40;326C3567;PEPPY_CORNERIA2_010;31;0;0;0;0;Creías que nos ibas a pillar;Você achou que ia nos pegar
+41;326C3567;PEPPY_CORNERIA2_010;31;0;0;1;1;desprevenidos, ¿eh?;de surpresa, não é?
+42;456B05F1;PEPPY_CORNERIA2_011;32;0;0;0;0;A ver si así se calma un poco.;Vamos ver se isso acalma um pouco as coisas.
+43;5C62544B;PEPPY_CORNERIA2_012;33;0;0;0;0;¿Adónde se han llevado al general?;Para onde levaram o general?
+44;2B6564DD;PEPPY_CORNERIA2_013;34;0;0;0;0;¡Fox, no!;Fox, não!
+45;4206C1E8;PEPPY_CORNERIA2_015;35;0;0;0;0;¡Hay que cortarle la energía!;Temos que cortar a energia dele!
+46;5B0F9052;PEPPY_CORNERIA2_016;36;0;0;0;0;¡Fox, intenta abrir la escotilla;Fox, tente abrir a escotilha
+47;5B0F9052;PEPPY_CORNERIA2_016;36;0;0;1;1;del Gigarila!;do Gigarila!
+48;06B422C7;SLIPPY_CORNERIA2_001;37;0;0;0;0;¡No podrán con nosotros!;Vocês não vão conseguir nos derrotar!
+49;1FBD737D;SLIPPY_CORNERIA2_002;38;0;0;0;0;Pensabais que podríais;Você achou que podia se 
+50;1FBD737D;SLIPPY_CORNERIA2_002;38;0;0;1;1;esconderos de mí, ¿eh?;esconder de mim, é?
+51;68BA43EB;SLIPPY_CORNERIA2_003;39;0;0;0;0;¡Ostras! ¿De dónde salís vosotros?;Nossa! De onde vocês surgiram?
+52;76DED648;SLIPPY_CORNERIA2_004;40;0;0;0;0;La cosa pinta mal. ¡No paran;A situação está feia. Não param
+53;76DED648;SLIPPY_CORNERIA2_004;40;0;0;1;1;de surgir enemigos de ese portal!;de surgir inimigos daquele portal!
+54;01D9E6DE;SLIPPY_CORNERIA2_005;41;0;0;0;0;¡No escaparéis ni en sueños!;Vocês não vão escapar nem em sonho!
+55;18D0B764;SLIPPY_CORNERIA2_006;42;0;0;0;0;¿Estas naves no se acaban nunca;Essas naves não acabam nunca
+56;18D0B764;SLIPPY_CORNERIA2_006;42;0;0;1;1;o qué?;ou o quê?
+57;7F689A63;SLIPPY_CORNERIA2_008;43;0;0;0;0;¿Y esto? ¡Los sensores detectan;O que é isso? Os sensores estão detectando
+58;7F689A63;SLIPPY_CORNERIA2_008;43;0;0;1;1;un aumento de energía!;uma sobrecarga de energia!
+59;086FAAF5;SLIPPY_CORNERIA2_009;44;0;0;0;0;No podría acercarme aunque;Eu não conseguiria chegar perto mesmo
+60;086FAAF5;SLIPPY_CORNERIA2_009;44;0;0;1;1;quisiera. ¡Es muy fuerte!;se quisesse. Ele é muito forte!
+61;68A82310;SLIPPY_CORNERIA2_010;45;0;0;0;0;¡Análisis de datos completado!;Análise de dados concluída!
+62;1FAF1386;SLIPPY_CORNERIA2_011;46;0;0;0;0;¡El portal se está cerrando!;O portal está se fechando!
+63;18C2D79F;SLIPPY_CORNERIA2_015;47;0;0;0;0;¡Fox!;Fox!
+64;01CB8625;SLIPPY_CORNERIA2_016;48;0;0;0;0;¡El panel de control del Gigarila;O painel de controle do Gigarila
+65;01CB8625;SLIPPY_CORNERIA2_016;48;0;0;1;1;está al descubierto!;está exposto!
+66;69DB12F4;NAUS_CORNERIA2_001;49;0;0;0;0;No consigo establecer contacto;Não consigo estabelecer contato
+67;69DB12F4;NAUS_CORNERIA2_001;49;0;0;1;1;con el general Pepper.;com o general Pepper.
+68;70D2434E;NAUS_CORNERIA2_002;50;0;0;0;0;Datos insuficientes. Te encuentras;Dados insuficientes. Você está
+69;70D2434E;NAUS_CORNERIA2_002;50;0;0;1;1;en una distorsión espaciotemporal.;em uma distorção espaço-temporal.
+70;07D573D8;NAUS_CORNERIA2_003;51;0;0;0;0;Peligro. Escudo electromagnético detectado.;Perigo. Escudo eletromagnético detectado.
+71;19B1E67B;NAUS_CORNERIA2_004;52;0;0;0;0;Retomando la misión principal.;Retomando a missão principal.
+72;6374F353;PEPPER_CORNERIA2_001;53;0;0;0;0;¡Fox!;Fox!
+73;7A7DA2E9;PEPPER_CORNERIA2_002;54;0;0;0;0;(...) en el portal...;(...) no portal...
+74;7A7DA2E9;PEPPER_CORNERIA2_002;54;0;0;1;1;¡(...) conduce a Venom!;(...) leva para Venom!
+75;0D7A927F;PEPPER_CORNERIA2_003;55;0;0;0;0;Menos mal, Fox. ¡Rápido,;Graças a Deus, Fox. Depressa,
+76;0D7A927F;PEPPER_CORNERIA2_003;55;0;0;1;1;nos queda poco tiempo!;não temos muito tempo!
+77;131E07DC;PEPPER_CORNERIA2_004;56;0;0;0;0;Ignoramos cómo ha llegado este;Não sabemos como esse teletransportador
+78;131E07DC;PEPPER_CORNERIA2_004;56;0;0;1;1;teleportador a manos de Andross.;foi parar nas mãos de Andross.
+79;6419374A;PEPPER_CORNERIA2_005;57;0;0;0;0;¡Pero supone una amenaza;Mas representa uma ameaça porque 
+80;6419374A;PEPPER_CORNERIA2_005;57;0;0;1;1;porque conduce a Venom!;leva para Venom!
+81;7D1066F0;PEPPER_CORNERIA2_006;58;0;0;0;0;¡Acabemos con esto! ¡Sígueme!;Vamos acabar com isso! Siga-me!
+82;27C06B41;ANDROSS_CORNERIA2_001;59;0;0;0;0;Así que tú eres el hijo;Então você é o filho
+83;27C06B41;ANDROSS_CORNERIA2_001;59;0;0;1;1;de James McCloud...;de James McCloud...
+84;3EC93AFB;ANDROSS_CORNERIA2_002;60;0;0;0;0;¡Ven a por mí si te atreves!;Venha me pegar se tiver coragem!
+85;49CE0A6D;ANDROSS_CORNERIA2_003;61;0;0;0;0;¡Ja, ja, ja!;Ha, ha, ha!
+86;6F808514;SOLDIER_CORNERIA2_001;62;0;0;0;0;No tienes ninguna posibilidad;Você não tem a menor chance
+87;6F808514;SOLDIER_CORNERIA2_001;62;0;0;1;1;en el agua. ¡Es la hora de la venganza!;na água. É hora da vingança!
+88;7689D4AE;SOLDIER_CORNERIA2_002;63;0;0;0;0;Basta de juegos. ¡Te vas a enterar!;Chega de joguinhos. Você vai descobrir!
+89;018EE438;SOLDIER_CORNERIA2_003;64;0;0;0;0;¡¿Nos has vuelto a vencer?!;Você nos derrotou de novo?!
+90;018EE438;SOLDIER_CORNERIA2_003;64;0;0;1;1;Esto me va a crear un trauma...;Isso vai me deixar traumatizado...
