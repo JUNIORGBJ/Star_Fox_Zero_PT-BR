@@ -1,0 +1,157 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;170D6C47;FOX_AREA3_001;0;0;0;0;0;Pigma nos ha hecho perder;O Pigma nos fez perder
+1;170D6C47;FOX_AREA3_001;0;0;0;1;1;el tiempo. ¡Rápido, a la colonia!;tempo. Rápido, vamos para a colônia!
+2;79030D6B;FOX_AREA3_003;1;0;0;0;0;No puede ser... ¡Pigma!;Não pode ser... Pigma!
+3;79030D6B;FOX_AREA3_003;1;0;0;1;1;¿A qué has venido?;Por que você veio aqui?
+4;676798C8;FOX_AREA3_004;2;0;0;0;0;¡Cambiando a modo abierto!;Mudando para o modo aberto!
+5;676798C8;FOX_AREA3_004;2;0;0;1;1;¡Pasemos a la acción!;Vamos começar a trabalhar!
+6;1060A85E;FOX_AREA3_005;3;0;0;0;0;¡Defended la colonia!;Defendam a colônia!
+7;0969F9E4;FOX_AREA3_006;4;0;0;0;0;¡Voy a entrar en el teleportador!;Vou entrar no teletransportador!
+8;7E6EC972;FOX_AREA3_007;5;0;0;0;0;¿Qué hacía Andrew aquí?;O que o Andrew estava fazendo aqui?
+9;6ED1D4E3;FOX_AREA3_008;6;0;0;0;0;¡¿Dónde estoy?!;Onde estou?!
+10;19D6E475;FOX_AREA3_009;7;0;0;0;0;¡Recibido!;Entendido!
+11;06242C83;FALCO_AREA3_001;8;0;0;0;0;¡Apuesto a que me cargo;Aposto que consigo derrubar muito
+12;06242C83;FALCO_AREA3_001;8;0;0;1;1;unos cuantos más que tú, Fox!;mais gente do que você, Fox!
+13;1F2D7D39;FALCO_AREA3_002;9;0;0;0;0;¡Rápido, Fox!;Rápido, Fox!
+14;1F2D7D39;FALCO_AREA3_002;9;0;0;1;1;¡Ve a ese dichoso hangar!;Vá para aquele maldito hangar!
+15;682A4DAF;FALCO_AREA3_003;10;0;0;0;0;¡Espabila, Fox! ¡Andross;Acorda, Fox! Andross
+16;682A4DAF;FALCO_AREA3_003;10;0;0;1;1;se está llevando el Gigarila!;está levando o Gigarila!
+17;764ED80C;FALCO_AREA3_004;11;0;0;0;0;¡Lo tienes detrás!;Ele está atrás de você!
+18;764ED80C;FALCO_AREA3_004;11;0;0;1;1;¡Fija el objetivo en esa sabandija!;Mire nessa criatura nojenta!
+19;0149E89A;FALCO_AREA3_005;12;0;0;0;0;¡Fox, deja de perder el tiempo;Fox, pare de perder tempo
+20;0149E89A;FALCO_AREA3_005;12;0;0;1;1;y baja al hangar de una vez!;e desça para o hangar logo!
+21;1840B920;FALCO_AREA3_006;13;0;0;0;0;¡No contaban con nosotros!;Eles não contavam conosco!
+22;6F4789B6;FALCO_AREA3_007;14;0;0;0;0;¡No la pifies!;Não dá mancada!
+23;7FF89427;FALCO_AREA3_008;15;0;0;0;0;¡La fiesta aún no ha acabado!;A festa ainda não acabou!
+24;7361973A;PEPPY_AREA3_002;16;0;0;0;0;¡Hay que evitar que el enemigo;Temos que impedir que o inimigo
+25;7361973A;PEPPY_AREA3_002;16;0;0;1;1;recupere el Gigarila!;recupera o Gigarila!
+26;6D050299;PEPPY_AREA3_005;17;0;0;0;0;¡Detrás de ti, Fox!;Atrás de você, Fox!
+27;6D050299;PEPPY_AREA3_005;17;0;0;1;1;¡Frena!;Freie!
+28;740C5323;PEPPY_AREA3_006;18;0;0;0;0;¡Usa el turbo para darle caza!;Use o turbo para persegui-lo!
+29;030B63B5;PEPPY_AREA3_007;19;0;0;0;0;¡Fija el objetivo en Pigma;Fixe o alvo no Pigma
+30;030B63B5;PEPPY_AREA3_007;19;0;0;1;1;para no perderlo de vista!;para não perdê-lo de vista!
+31;13B47E24;PEPPY_AREA3_008;20;0;0;0;0;¡Detrás de ti, Fox!;Atrás de você, Fox!
+32;13B47E24;PEPPY_AREA3_008;20;0;0;1;1;¡Fija el objetivo!;Fixe o alvo!
+33;64B34EB2;PEPPY_AREA3_009;21;0;0;0;0;¿A qué esperas, Fox?;O que você está esperando, Fox?
+34;64B34EB2;PEPPY_AREA3_009;21;0;0;1;1;¡El hangar está bajo tierra!;O hangar fica no subsolo!
+35;0474C757;PEPPY_AREA3_010;22;0;0;0;0;¡No sabemos qué hay... al otro lado!;Não sabemos o que há... do outro lado!
+36;7373F7C1;PEPPY_AREA3_011;23;0;0;0;0;¿El Gigarila está intacto?;O Gigarila está intacto?
+37;6A7AA67B;PEPPY_AREA3_012;24;0;0;0;0;¡Así se hace, Fox!;É assim mesmo, Fox!
+38;65AF8B6A;SLIPPY_AREA3_007;25;0;0;0;0;¡Uoooh! ¡La colonia está rodeada!;Uoooh! A colônia está cercada!
+39;0217A66D;SLIPPY_AREA3_009;26;0;0;0;0;¡Tenemos que detenerlos!;Temos que detê-los!
+40;62D02F88;SLIPPY_AREA3_010;27;0;0;0;0;¡Cuidado, Fox!;Cuidado, Fox!
+41;62D02F88;SLIPPY_AREA3_010;27;0;0;1;1;¡Haz un rizo!;Faça um Looping!
+42;15D71F1E;SLIPPY_AREA3_011;28;0;0;0;0;Aquí está todo controlado, Fox.;Aqui está tudo sob controle, Fox.
+43;15D71F1E;SLIPPY_AREA3_011;28;0;0;1;1;¡Tú ve al hangar subterráneo!;Vá para o hangar subterrâneo!
+44;0CDE4EA4;SLIPPY_AREA3_012;29;0;0;0;0;¡Ten cuidado, Fox!;Cuidado, Fox!
+45;7BD97E32;SLIPPY_AREA3_013;30;0;0;0;0;¡A por todas!;Vamos com tudo!
+46;456BF673;PEPPER_AREA3_007;31;0;0;0;0;¡Bien hecho, Star Fox!;Muito bem, Star Fox!
+47;55D4EBE2;PEPPER_AREA3_008;32;0;0;0;0;Dejad que el Gigarila se encargue;Deixem que o Gigarila cuide
+48;55D4EBE2;PEPPER_AREA3_008;32;0;0;1;1;de los enemigos que quedan.;dos inimigos que restam.
+49;22D3DB74;PEPPER_AREA3_009;33;0;0;0;0;¡El ejército de Andross;O exército de Andross
+50;22D3DB74;PEPPER_AREA3_009;33;0;0;1;1;intenta recuperar el Gigarila!;está tentando recuperar o Gigarila!
+51;327EA61E;PEPPER_AREA3_015;34;0;0;0;0;Buen trabajo. El Gigarila ya está operativo.;Bom trabalho. O Gigarila já está operacional.
+52;5C70C732;PEPPER_AREA3_017;35;0;0;0;0;Con un arma de este calibre,;Com uma arma desse calibre,
+53;5C70C732;PEPPER_AREA3_017;35;0;0;1;1;¡no se nos escapará la victoria!;a vitória não vai escapar de nós!
+54;1953F5DD;PEPPER_AREA3_025;36;0;0;0;0;Esa es la infame arma de Andross:;Essa é a infame arma de Andross:
+55;1953F5DD;PEPPER_AREA3_025;36;0;0;1;1;¡el Gigarila!;o Gigarila!
+56;005AA467;PEPPER_AREA3_026;37;0;0;0;0;¡Debes evitar que lo recuperen;Você deve impedir que eles o recuperem
+57;005AA467;PEPPER_AREA3_026;37;0;0;1;1;a cualquier precio!;a qualquer custo!
+58;10E5B9F6;PEPPER_AREA3_029;38;0;0;0;0;¡Fox, entra en el teleportador y averigua;Fox, entre no teletransportador e descubra
+59;10E5B9F6;PEPPER_AREA3_029;38;0;0;1;1;adónde querían llevar el Gigarila!;para onde eles queriam levar o Gigarila!
+60;1E2C513F;PEPPER_AREA3_032;39;0;0;0;0;Dirígete al hangar subterráneo y utiliza;Vá até o hangar subterrâneo e use
+61;1E2C513F;PEPPER_AREA3_032;39;0;0;1;1;el vehículo que encontrarás allí.;o veículo que você encontrará lá.
+62;692B61A9;PEPPER_AREA3_033;40;0;0;0;0;¡Fox, investiga adónde lleva;Fox, descubra para onde leva
+63;692B61A9;PEPPER_AREA3_033;40;0;0;1;1;el teletransporte!;o teletransporte!
+64;774FF40A;PEPPER_AREA3_034;41;0;0;0;0;La buena noticia es que ya;A boa notícia é que nós
+65;774FF40A;PEPPER_AREA3_034;41;0;0;1;1;lo hemos reprogramado.;já o reprogramamos.
+66;0048C49C;PEPPER_AREA3_035;42;0;0;0;0;La mala, que para activarlo;A má notícia é que, para ativá-lo,
+67;0048C49C;PEPPER_AREA3_035;42;0;0;1;1;se necesita un vehículo especial.;é necessário um veículo especial.
+68;19419526;PEPPER_AREA3_036;43;0;0;0;0;Esa será tu misión, Fox: recoger;Essa será sua missão, Fox: pegar
+69;19419526;PEPPER_AREA3_036;43;0;0;1;1;el vehículo en el hangar subterráneo.;o veículo no hangar subterrâneo.
+70;0F6B3EB3;PIGMA_AREA3_001;44;0;0;0;0;¡Vaya, vaya! ¡Si son los chicos buenos!;Nossa, nossa! São os mocinhos!
+71;16626F09;PIGMA_AREA3_002;45;0;0;0;0;¿Venís a hacer una;Vocês vieram fazer mais uma
+72;16626F09;PIGMA_AREA3_002;45;0;0;1;1;de vuestras chapuzas?;das suas travessuras?
+73;61655F9F;PIGMA_AREA3_003;46;0;0;0;0;Me he dejado ganar.;Deixei vocês me vencerem de propósito.
+74;61655F9F;PIGMA_AREA3_003;46;0;0;1;1;¡La próxima vez iré en serio!;Da próxima vez vou levar a sério!
+75;7F01CA3C;PIGMA_AREA3_004;47;0;0;0;0;¡Ya nos veremos!;Até mais!
+76;0806FAAA;PIGMA_AREA3_005;48;0;0;0;0;No está mal del todo...;Não está nada mal...
+77;110FAB10;PIGMA_AREA3_006;49;0;0;0;0;¡A trabajar, claro! ¡Y de paso,;Hora de trabalhar, claro! E já que estou
+78;110FAB10;PIGMA_AREA3_006;49;0;0;1;1;a divertirme un rato!;aqui, vou me divertir um pouco!
+79;66089B86;PIGMA_AREA3_007;50;0;0;0;0;¡Qué pena que tu padre no vaya;Que pena que seu pai não vai
+80;66089B86;PIGMA_AREA3_007;50;0;0;1;1;a poder ver tu derrota!;poder ver sua derrota!
+81;76B78617;PIGMA_AREA3_008;51;0;0;0;0;No podrás conmigo. ¡Mi nave es mejor!;Você não vai me derrotar. Minha nave é melhor!
+82;61773F64;PIGMA_AREA3_010;52;0;0;0;0;Te vas a enterar. ¡Soy el piloto;Você vai ver. Sou o piloto
+83;61773F64;PIGMA_AREA3_010;52;0;0;1;1;más temible de Star Wolf!;mais temível da Star Wolf!
+84;16700FF2;PIGMA_AREA3_011;53;0;0;0;0;¡Acabaré contigo!;Vou acabar com você!
+85;0F795E48;PIGMA_AREA3_012;54;0;0;0;0;¡Andross me pagará una fortuna;Andross vai me pagar uma fortuna
+86;0F795E48;PIGMA_AREA3_012;54;0;0;1;1;por hacerte sufrir!;por fazer você sofrer!
+87;787E6EDE;PIGMA_AREA3_013;55;0;0;0;0;¡Oye! ¡¿Pretendes convertirme;Ei! Você quer me transformar em
+88;787E6EDE;PIGMA_AREA3_013;55;0;0;1;1;en cochinillo asado, o qué?!;um leitão assado, ou o quê?!
+89;6C412DD7;SOLDIER_AREA3_001;56;0;0;0;0;¡Eh! ¿Nos dejas aquí tirados?;Ei! Você vai nos deixar aqui abandonados?
+90;75487C6D;SOLDIER_AREA3_002;57;0;0;0;0;¡Qué rabia! ¡Otra vez nos vamos;Que raiva! Mais uma vez estamos
+91;75487C6D;SOLDIER_AREA3_002;57;0;0;1;1;con el rabo entre las piernas!;fugindo com o rabo entre as pernas!
+92;024F4CFB;SOLDIER_AREA3_003;58;0;0;0;0;¡¿Vosotros otra vez?!;Vocês de novo?!
+93;1C2BD958;SOLDIER_AREA3_004;59;0;0;0;0;Nos vencisteis en tierra,;Vocês nos derrotaram em terra,
+94;1C2BD958;SOLDIER_AREA3_004;59;0;0;1;1;¡pero aquí será distinto!;mas aqui vai ser diferente!
+95;6B2CE9CE;SOLDIER_AREA3_005;60;0;0;0;0;¡Agh, también nos están dando;Ah, estão nos dando uma surra
+96;6B2CE9CE;SOLDIER_AREA3_005;60;0;0;1;1;para el pelo aquí!;aqui também!
+97;7225B874;SOLDIER_AREA3_006;61;0;0;0;0;¡Nos atacan! ¡Pasad a la ofensiva!;Estão nos atacando! Passem para a ofensiva!
+98;36F90D2A;NAUS_AREA3_001;62;0;0;0;0;Ese es el Gyrowing, un vehículo;Esse é o Gyrowing, um veículo
+99;36F90D2A;NAUS_AREA3_001;62;0;0;1;1;de tecnología punta.;de tecnologia de ponta.
+100;2FF05C90;NAUS_AREA3_002;63;0;0;0;0;Sus controles son muy simples.;Seus controles são bem simples.
+101;58F76C06;NAUS_AREA3_003;64;0;0;0;0;Inclina {button:21} en vertical para subir o bajar,;Incline {button:21} na vertical para subir ou descer,
+102;58F76C06;NAUS_AREA3_003;64;0;0;1;1;y a los lados para girar.;e para os lados para virar.
+103;4693F9A5;NAUS_AREA3_004;65;0;0;0;0;El Gyrowing lleva un robot llamado;O Gyrowing traz um robô chamado
+104;4693F9A5;NAUS_AREA3_004;65;0;0;1;1;Direct-i.;Direct-i.
+105;3194C933;NAUS_AREA3_005;66;0;0;0;0;Pulsa {button:A} para bajarlo.;Aperte {button:A} para abaixá-lo.
+106;289D9889;NAUS_AREA3_006;67;0;0;0;0;Dirige el Direct-i para activar el panel.;Dirija o Direct-i para ativar o painel.
+107;5F9AA81F;NAUS_AREA3_007;68;0;0;0;0;Abrir la compuerta es tan sencillo;Abrir a porta é tão simples
+108;5F9AA81F;NAUS_AREA3_007;68;0;0;1;1;como la raíz cuadrada de pi.;quanto a raiz quadrada de pi.
+109;2FE23C6B;NAUS_AREA3_011;69;0;0;0;0;Voy a preparar el sistema;Vou preparar o sistema
+110;2FE23C6B;NAUS_AREA3_011;69;0;0;1;1;de localización.;de localização.
+111;36EB6DD1;NAUS_AREA3_012;70;0;0;0;0;Detectaré tu posición en cuanto;Vou detectar sua posição assim que
+112;36EB6DD1;NAUS_AREA3_012;70;0;0;1;1;uses el teleportador.;você usar o teletransportador.
+113;41EC5D47;NAUS_AREA3_013;71;0;0;0;0;Tú tienes otras prioridades, Fox.;Você tem outras prioridades, Fox.
+114;5F88C8E4;NAUS_AREA3_014;72;0;0;0;0;Activa el panel de la torre;Ative o painel da torre
+115;5F88C8E4;NAUS_AREA3_014;72;0;0;1;1;para restablecer la energía.;para restabelecer a energia.
+116;288FF872;NAUS_AREA3_015;73;0;0;0;0;El Gigarila nos proporcionará;O Gigarila nos dará
+117;288FF872;NAUS_AREA3_015;73;0;0;1;1;una inmensa ventaja táctica.;uma imensa vantagem tática.
+118;4681995E;NAUS_AREA3_017;74;0;0;0;0;Está reprogramado para seguir;Ele foi reprogramado para seguir
+119;4681995E;NAUS_AREA3_017;74;0;0;1;1;y proteger al Gyrowing.;e proteger o Gyrowing.
+120;73C85F3E;NAUS_AREA3_020;75;0;0;0;0;Mantén pulsado {button:L} para mirar hacia abajo.;Segure {button:L} para olhar para baixo.
+121;04CF6FA8;NAUS_AREA3_021;76;0;0;0;0;Usa el teleportador.;Use o teletransportador.
+122;04CF6FA8;NAUS_AREA3_021;76;0;0;1;1;El Gigarila protegerá la colonia.;O Gigarila protegerá a colônia.
+123;1DC63E12;NAUS_AREA3_022;77;0;0;0;0;Energía y comunicación restablecidas.;Energia e comunicação restabelecidas.
+124;6AC10E84;NAUS_AREA3_023;78;0;0;0;0;El Gigarila está listo;O Gigarila está pronto
+125;6AC10E84;NAUS_AREA3_023;78;0;0;1;1;para ser activado.;para ser ativado.
+126;1AABFA0B;NAUS_AREA3_026;79;0;0;0;0;Se agota el tiempo.;O tempo está se esgotando.
+127;1AABFA0B;NAUS_AREA3_026;79;0;0;1;1;Ve a la torre.;Vá até a torre.
+128;6DACCA9D;NAUS_AREA3_027;80;0;0;0;0;Debes ir a la torre para restablecer;Você deve ir até a torre para restabelecer
+129;6DACCA9D;NAUS_AREA3_027;80;0;0;1;1;la energía.;a energia.
+130;7D13D70C;NAUS_AREA3_028;81;0;0;0;0;El general Pepper nos ha convocado;O general Pepper nos convocou
+131;7D13D70C;NAUS_AREA3_028;81;0;0;1;1;de urgencia en el sector ².;com urgência para o setor beta.
+132;0A14E79A;NAUS_AREA3_029;82;0;0;0;0;Debemos partir al lugar de encuentro;Devemos partir para o ponto de encontro
+133;0A14E79A;NAUS_AREA3_029;82;0;0;1;1;de inmediato.;imediatamente.
+134;6AD36E7F;NAUS_AREA3_030;83;0;0;0;0;La ruta más rápida a nuestro destino;A rota mais rápida para o nosso destino
+135;6AD36E7F;NAUS_AREA3_030;83;0;0;1;1;atraviesa un cinturón de asteroides.;passa por um cinturão de asteróides.
+136;1DD45EE9;NAUS_AREA3_031;84;0;0;0;0;El Great Fox necesitará apoyo aéreo.;A Great Fox precisará de apoio aéreo.
+137;04DD0F53;NAUS_AREA3_032;85;0;0;0;0;Destrucción... inevitable...;Destruição... inevitável...
+138;73DA3FC5;NAUS_AREA3_033;86;0;0;0;0;Hemos atravesado con éxito;Atravessamos com sucesso
+139;73DA3FC5;NAUS_AREA3_033;86;0;0;1;1;el cinturón de asteroides.;o cinturão de asteróides.
+140;6DBEAA66;NAUS_AREA3_034;87;0;0;0;0;Avanzad a primera línea;Sua presença é necessária
+141;6DBEAA66;NAUS_AREA3_034;87;0;0;1;1;de fuego.;na linha de frente.
+142;1AB99AF0;NAUS_AREA3_035;88;0;0;0;0;El enemigo nos ha detectado.;O inimigo nos detectou.
+143;03B0CB4A;NAUS_AREA3_036;89;0;0;0;0;Algo se acerca al Great Fox.;Algo está se aproximando da Great Fox.
+144;74B7FBDC;NAUS_AREA3_037;90;0;0;0;0;Nueva amenaza detectada.;Nova ameaça detectada.
+145;6408E64D;NAUS_AREA3_038;91;0;0;0;0;Hay robots de ataque en la cubierta;Há robôs de ataque no convés
+146;6408E64D;NAUS_AREA3_038;91;0;0;1;1;de la nave. Solicito ayuda.;da nave. Solicito ajuda.
+147;130FD6DB;NAUS_AREA3_039;92;0;0;0;0;Todos los robots han sido destruidos.;Todos os robôs foram destruídos.
+148;130FD6DB;NAUS_AREA3_039;92;0;0;1;1;El Great Fox está a salvo.;A Great Fox está a salvo.
+149;2592F8B8;NAUS_AREA3_040;93;0;0;0;0;El Great Fox ha sufrido;A Great Fox sofreu
+150;2592F8B8;NAUS_AREA3_040;93;0;0;1;1;cuantiosos daños.;danos consideráveis.
+151;5295C82E;NAUS_AREA3_041;94;0;0;0;0;El escudo de la nave;O escudo da nave
+152;5295C82E;NAUS_AREA3_041;94;0;0;1;1;no resistirá mucho más.;não vai aguentar por muito tempo.
+153;4B9C9994;NAUS_AREA3_042;95;0;0;0;0;Fuego.;Fogo.
+154;54A6F0C9;ANDREW_AREA3_001;96;0;0;0;0;¡¿Qué rayos haces tú aquí?!;O que você está fazendo aqui?! Desta 
+155;54A6F0C9;ANDREW_AREA3_001;96;0;0;1;1;¡Esta vez no me chafarás los planes!;vez você não vai arruinar meus planos!
