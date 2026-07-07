@@ -1,0 +1,60 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;3120CFE9;FOX_ZONESS_001;0;0;0;0;0;¡Eh, ROB! ¡Dame mi posición!;Ei, ROB! Me diz onde estou!
+1;5F2EAEC5;FOX_ZONESS_003;1;0;0;0;0;¡Aquí Star Fox!;Aqui é o Star Fox!
+2;5F2EAEC5;FOX_ZONESS_003;1;0;0;1;1;¿Me recibes?;Você está me ouvindo?
+3;1899C817;KATT_ZONESS_012;2;0;0;0;0;Parece que la fiesta toca a su fin.;Parece que a festa está chegando ao fim.
+4;1899C817;KATT_ZONESS_012;2;0;0;1;1;¿Me escoltas a la salida?;Você pode me acompanhar até a saída?
+5;71FA6D22;KATT_ZONESS_014;3;0;0;0;0;¡Eres música para mis oídos!;Isso é música para meus ouvidos!
+6;71FA6D22;KATT_ZONESS_014;3;0;0;1;1;Ya estaba harta de tanto simio.;Já estava de saco cheio de tantos macacos.
+7;1FF40C0E;KATT_ZONESS_016;4;0;0;0;0;Estoy atrapada aquí dentro.;Estou presa aqui dentro. Você pode 
+8;1FF40C0E;KATT_ZONESS_016;4;0;0;1;1;¿Me echas una mano, cielo?;me dar uma mãozinha, querido?
+9;784C2109;KATT_ZONESS_018;5;0;0;0;0;¡Oh, si al final has venido!;Ah, você finalmente apareceu!
+10;784C2109;KATT_ZONESS_018;5;0;0;1;1;Estás hecho todo un caballero.;Você virou um verdadeiro cavalheiro.
+11;0F4B119F;KATT_ZONESS_019;6;0;0;0;0;¿Te has fijado en los paneles;Você reparou nos painéis
+12;0F4B119F;KATT_ZONESS_019;6;0;0;1;1;de control?;de controle?
+13;5AD73EE1;KATT_ZONESS_024;7;0;0;0;0;Úsalos para desactivar el generador.;Use-os para desativar o gerador.
+14;5DBAFAF8;KATT_ZONESS_020;8;0;0;0;0;¡Bien hecho, dulzura!;Muito bem, querida!
+15;2ABDCA6E;KATT_ZONESS_021;9;0;0;0;0;Otro día quedamos en un lugar;Outro dia a gente se encontra em um lugar
+16;2ABDCA6E;KATT_ZONESS_021;9;0;0;1;1;más romántico. ¡Chao!;mais romântico. Até mais!
+17;33B49BD4;KATT_ZONESS_022;10;0;0;0;0;Ya decía yo que no podía ser tan fácil...;Eu ja sabia que não seria fácil...
+18;44B3AB42;KATT_ZONESS_023;11;0;0;0;0;Habrá que salir pitando.;Vamos ter que sair correndo.
+19;44B3AB42;KATT_ZONESS_023;11;0;0;1;1;¡Sígueme!;Me siga!
+20;2DD00E77;KATT_ZONESS_025;12;0;0;0;0;Las damas primero. ¡No te quedes atrás!;As mulheres primeiro. Não fique para trás!
+21;34D95FCD;KATT_ZONESS_026;13;0;0;0;0;¡Ya casi estamos!;Já estamos quase lá!
+22;43DE6F5B;KATT_ZONESS_027;14;0;0;0;0;Vaya cita más movida;Que encontro agitado
+23;43DE6F5B;KATT_ZONESS_027;14;0;0;1;1;hemos tenido...;tivemos...
+24;536172CA;KATT_ZONESS_028;15;0;0;0;0;¡Hasta la vista, encanto!;Até mais, queridinho!
+25;469CFA40;PEPPER_ZONESS_001;16;0;0;0;0;¿Una antigua base? ¡No puede ser!;Uma base antiga? Não pode ser!
+26;5F95ABFA;PEPPER_ZONESS_002;17;0;0;0;0;Así no podremos recuperarla.;Assim não vamos conseguir recuperá-la.
+27;36F60ECF;PEPPER_ZONESS_004;18;0;0;0;0;¡Debes desactivar el escudo;Você precisa desativar o escudo
+28;36F60ECF;PEPPER_ZONESS_004;18;0;0;1;1;sin que te descubran!;sem ser descoberto!
+29;41F13E59;PEPPER_ZONESS_005;19;0;0;0;0;¡Buen trabajo! Sigue así y pronto;Bom trabalho! Continue assim e logo
+30;41F13E59;PEPPER_ZONESS_005;19;0;0;1;1;podremos recuperar la base.;vamos conseguir recuperar a base.
+31;58F86FE3;PEPPER_ZONESS_006;20;0;0;0;0;Ahora desactiva el otro generador.;Agora desative o outro gerador.
+32;58F86FE3;PEPPER_ZONESS_006;20;0;0;1;1;¡Cuento contigo, Fox!;Conto com você, Fox!
+33;2FFF5F75;PEPPER_ZONESS_007;21;0;0;0;0;¿Cómo habrá ido a parar;Como será que ela foi parar
+34;2FFF5F75;PEPPER_ZONESS_007;21;0;0;1;1;a manos del enemigo?;nas mãos do inimigo?
+35;0202266D;NAUS_ZONESS_001;22;0;0;0;0;Posición confirmada.;Posição confirmada.
+36;1B19172C;NAUS_ZONESS_011;23;0;0;0;0;Es una antigua base de Corneria;É uma antiga base de Corneria
+37;1B19172C;NAUS_ZONESS_011;23;0;0;1;1;en Zoness.;em Zoness.
+38;1B0B77D7;NAUS_ZONESS_002;24;0;0;0;0;La base está protegida por un inmenso;A base está protegida por um imenso
+39;1B0B77D7;NAUS_ZONESS_002;24;0;0;1;1;escudo de energía.;escudo de energia.
+40;6C0C4741;NAUS_ZONESS_003;25;0;0;0;0;Detecto dos fuertes señales de energía;Estou detectando dois sinais fortes de energia
+41;6C0C4741;NAUS_ZONESS_003;25;0;0;1;1;a ambos lados.;em ambos os lados.
+42;7268D2E2;NAUS_ZONESS_004;26;0;0;0;0;Esos rayos de energía;Esses raios de energia
+43;7268D2E2;NAUS_ZONESS_004;26;0;0;1;1;alimentan el escudo de la base.;alimentam o escudo da base.
+44;056FE274;NAUS_ZONESS_005;27;0;0;0;0;Señal de emergencia recibida.;Sinal de emergência recebido.
+45;056FE274;NAUS_ZONESS_005;27;0;0;1;1;Iniciando la comunicación.;Iniciando a comunicação.
+46;1C66B3CE;NAUS_ZONESS_006;28;0;0;0;0;Se ha activado el sistema;O sistema de autodestruição
+47;1C66B3CE;NAUS_ZONESS_006;28;0;0;1;1;de autodestrucción de la base.;da base foi ativado.
+48;02104696;NAUS_ZONESS_012;29;0;0;0;0;Evacuación inmediata recomendada.;Recomenda-se a evacuação imediata.
+49;6B618358;NAUS_ZONESS_007;30;0;0;0;0;Evita la luz de los focos;Evite a luz dos holofotes
+50;6B618358;NAUS_ZONESS_007;30;0;0;1;1;para que no te detecten.;para não ser detectado.
+51;7BDE9EC9;NAUS_ZONESS_008;31;0;0;0;0;Esa es una bomba fabricada;Essa é uma bomba fabricada
+52;7BDE9EC9;NAUS_ZONESS_008;31;0;0;1;1;en la base de Zoness.;na base de Zoness.
+53;0CD9AE5F;NAUS_ZONESS_009;32;0;0;0;0;Direct-i podría cogerla.;O Direct-i poderia pegá-la.
+54;6C1E27BA;NAUS_ZONESS_010;33;0;0;0;0;Cuidado con los enemigos;Cuidado com os inimigos
+55;6C1E27BA;NAUS_ZONESS_010;33;0;0;1;1;que acechan en el agua.;que espreitam na água.
+56;75177600;NAUS_ZONESS_013;34;0;0;0;0;La intensidad del escudo;A intensidade do escudo
+57;75177600;NAUS_ZONESS_013;34;0;0;1;1;ha bajado al 50 %.;caiu para 50%.
+58;6B73E3A3;NAUS_ZONESS_014;35;0;0;0;0;Comprueba tu entorno al descender.;Verifique o ambiente ao descer.
