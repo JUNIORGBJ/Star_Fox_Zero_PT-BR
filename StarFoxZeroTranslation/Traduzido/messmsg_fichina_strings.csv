@@ -1,0 +1,43 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;012A435F;FOX_FICHINA_001;0;0;0;0;0;¡Dividíos y atacad!;Dividam-se e ataquem!
+1;182312E5;FOX_FICHINA_002;1;0;0;0;0;¡Informad de vuestro estado!;Informem sobre a situação de vocês!
+2;6F242273;FOX_FICHINA_003;2;0;0;0;0;Estupendo. Más problemas.;Ótimo. Mais problemas.
+3;7140B7D0;FOX_FICHINA_004;3;0;0;0;0;Ah... Es hora de llevar la lucha a tierra.;Ah... É hora de levar a luta para o solo.
+4;7140B7D0;FOX_FICHINA_004;3;0;0;1;1;¡ROB, prepara el Landmaster!;ROB, prepare o Landmaster!
+5;06478746;FOX_FICHINA_005;4;0;0;0;0;¡El Landmaster está listo;O Landmaster está pronto
+6;06478746;FOX_FICHINA_005;4;0;0;1;1;para la acción!;para a ação!
+7;586001AC;FALCO_FICHINA_001;5;0;0;0;0;¡Vaya, ha venido mamá araña!;Nossa, a mamãe aranha chegou!
+8;41695016;FALCO_FICHINA_002;6;0;0;0;0;Lo que nos faltaba: ¡arañas!;Pronto, aranhas!
+9;366E6080;FALCO_FICHINA_003;7;0;0;0;0;¡Yo me encargo de los de arriba!;Eu cuido dos que estão lá em cima!
+10;280AF523;FALCO_FICHINA_004;8;0;0;0;0;Donde pones el ojo, pones la bala.;Onde você mira, você acerta o alvo.
+11;5F0DC5B5;FALCO_FICHINA_005;9;0;0;0;0;Ja. Esto es el cuento de nunca acabar.;Ah. Essa é uma história sem fim.
+12;4604940F;FALCO_FICHINA_006;10;0;0;0;0;¿¡Pero qué rayos...!?;Mas que diabos...!?
+13;33923545;PEPPY_FICHINA_001;11;0;0;0;0;¡Fox, dispara a las articulaciones;Fox, atire nas articulações
+14;33923545;PEPPY_FICHINA_001;11;0;0;1;1;de las patas!;das pernas!
+15;2A9B64FF;PEPPY_FICHINA_002;12;0;0;0;0;¡Se ha desplomado! ¡Rápido,;Ela caiu! Rápido,
+16;2A9B64FF;PEPPY_FICHINA_002;12;0;0;1;1;dispara a los puntos débiles!;atire nos pontos fracos!
+17;5D9C5469;PEPPY_FICHINA_003;13;0;0;0;0;¡Se ha abierto la escotilla!;A escotilha se abriu!
+18;5D9C5469;PEPPY_FICHINA_003;13;0;0;1;1;¡Destruye el núcleo!;Destrua o núcleo!
+19;43F8C1CA;PEPPY_FICHINA_004;14;0;0;0;0;¡Eso es! ¡Sigue así!;Isso mesmo! Continue assim!
+20;34FFF15C;PEPPY_FICHINA_005;15;0;0;0;0;Pero qué rayos...;Mas que diabos...
+21;2DF6A0E6;PEPPY_FICHINA_006;16;0;0;0;0;Son muchísimas...;São muitas...
+22;2DF6A0E6;PEPPY_FICHINA_006;16;0;0;1;1;¡Habrá que ponerse serios!;Vamos ter que levar isso a sério!
+23;5AF19070;PEPPY_FICHINA_007;17;0;0;0;0;¡Fox, cuidado con las bombas!;Fox, cuidado com as bombas!
+24;4A4E8DE1;PEPPY_FICHINA_008;18;0;0;0;0;Te has convertido en un gran piloto, Fox.;Você se tornou um ótimo piloto, Fox.
+25;5D8E3492;PEPPY_FICHINA_010;19;0;0;0;0;Empiezo a pensar que no les gustamos...;Acho que eles não gostam da gente...
+26;2A890404;PEPPY_FICHINA_011;20;0;0;0;0;¡Cuidado con las llamas!;Cuidado com as chamas!
+27;1BE3607B;SLIPPY_FICHINA_001;21;0;0;0;0;Oh, oh... ¡Chicos, se acerca;Oh, oh... Pessoal, algo enorme está
+28;1BE3607B;SLIPPY_FICHINA_001;21;0;0;1;1;algo enorme!;se aproximando!
+29;75ED0157;SLIPPY_FICHINA_003;22;0;0;0;0;¡Nadie se libra de mí tan fácilmente!;Ninguém escapa de mim tão facilmente!
+30;6B8994F4;SLIPPY_FICHINA_004;23;0;0;0;0;¡Qué pasada, Fox!;Que loucura, Fox!
+31;1C8EA462;SLIPPY_FICHINA_005;24;0;0;0;0;¡Cómo odio las arañas!;Como eu odeio aranhas!
+32;0587F5D8;SLIPPY_FICHINA_006;25;0;0;0;0;¡El Gravmaster mola cantidad, Fox!;O Gravmaster é demais, Fox!
+33;6BCC268F;NAUS_FICHINA_001;26;0;0;0;0;Se ha añadido una nueva función;Foi adicionada uma nova função
+34;6BCC268F;NAUS_FICHINA_001;26;0;0;1;1;al Landmaster.;ao Landmaster.
+35;72C57735;NAUS_FICHINA_002;27;0;0;0;0;Ahora puede transformarse en nave,;Agora ele pode se transformar em nave,
+36;72C57735;NAUS_FICHINA_002;27;0;0;1;1;pero consume la barra de turbo.;mas consome a barra de turbo.
+37;21BE46DC;LEON_FICHINA_001;28;0;0;0;0;Andross quiere que acabe;Andross quer que eu acabe
+38;21BE46DC;LEON_FICHINA_001;28;0;0;1;1;con vosotros.;com vocês.
+39;38B71766;LEON_FICHINA_002;29;0;0;0;0;No sois tan buenos como pensaba.;Vocês não são tão bons quanto eu pensava.
+40;51D4B253;LEON_FICHINA_004;30;0;0;0;0;¡Derríbame si puedes!;Derrube-me se puder!
+41;26D382C5;LEON_FICHINA_005;31;0;0;0;0;¡No puede ser!;Não pode ser!
