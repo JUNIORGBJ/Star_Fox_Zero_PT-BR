@@ -1,0 +1,66 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;78FC04F0;FOX_TITANIA_001;0;0;0;0;0;¡El Landmaster está listo;O Landmaster está pronto
+1;78FC04F0;FOX_TITANIA_001;0;0;0;1;1;para la acción!;para a ação!
+2;61F5554A;FOX_TITANIA_002;1;0;0;0;0;¡¿Es Peppy?!;É o Peppy?!
+3;16F265DC;FOX_TITANIA_003;2;0;0;0;0;¡Peppy! ¡Menos mal!;Peppy! Que bom!
+4;16F265DC;FOX_TITANIA_003;2;0;0;1;1;¿Estás bien?;Você está bem?
+5;0896F07F;FOX_TITANIA_004;3;0;0;0;0;¡¿Qué está pasando?!;Como você está?!
+6;66989153;FOX_TITANIA_006;4;0;0;0;0;¡Te echábamos de menos, Peppy!;Sentimos sua falta, Peppy!
+7;119FA1C5;FOX_TITANIA_007;5;0;0;0;0;¡Peppy! ¡Menos mal!;Peppy! Que bom!
+8;21B64603;FALCO_TITANIA_001;6;0;0;0;0;Buscaremos a Peppy desde el aire.;Buscaremos a Peppy do alto
+9;38BF17B9;FALCO_TITANIA_002;7;0;0;0;0;Tranquilo, Slippy. Seguro que está bien.;Fica tranquilo, Slippy. Com certeza ele está bem.
+10;4FB8272F;FALCO_TITANIA_003;8;0;0;0;0;¿Te descuidas porque Peppy no está?;Você está se descuidando porque o Peppy não está aqui?
+11;4FB8272F;FALCO_TITANIA_003;8;0;0;1;1;¡Ese es un error de principiante!;Isso é um erro de principiante!
+12;51DCB28C;FALCO_TITANIA_004;9;0;0;0;0;¡Eh, hay algo ahí delante!;Ei, tem alguma coisa lá na frente!
+13;26DB821A;FALCO_TITANIA_005;10;0;0;0;0;¡Mi vista de pájaro no es tan aguda!;Minha visão de pássaro não é tão apurada assim!
+14;3FD2D3A0;FALCO_TITANIA_006;11;0;0;0;0;¡Se ha metido bajo tierra!;Ele se escondeu debaixo da terra!
+15;48D5E336;FALCO_TITANIA_007;12;0;0;0;0;¡Hay que acabar con ese gusano;Temos que acabar com esse verme
+16;48D5E336;FALCO_TITANIA_007;12;0;0;1;1;de una vez!;de uma vez por todas!
+17;586AFEA7;FALCO_TITANIA_008;13;0;0;0;0;¡Mantén la sangre fría y apunta a la boca!;Mantém a calma e mira na boca!
+18;2F6DCE31;FALCO_TITANIA_009;14;0;0;0;0;¡Déjate de cháchara! Por si no;Pára de tagarelar! Caso você
+19;2F6DCE31;FALCO_TITANIA_009;14;0;0;1;1;te has fijado, ¡tenemos compañía!;não tenha percebido, temos companhia!
+20;4FAA47D4;FALCO_TITANIA_010;15;0;0;0;0;Prefiero el Arwing mil veces.;Prefiro o Arwing mil vezes mais.
+21;38AD7742;FALCO_TITANIA_011;16;0;0;0;0;¡Hay que obligarlo a abrir la bocaza;Temos que forçá-lo a abrir a boca
+22;38AD7742;FALCO_TITANIA_011;16;0;0;1;1;para que exponga su punto débil!;para que exponha seu ponto fraco!
+23;56A3166E;FALCO_TITANIA_013;17;0;0;0;0;¿Sigues de una pieza, abuelo?;Você ainda está inteiro, vovô?
+24;4A4472EA;PEPPY_TITANIA_001;18;0;0;0;0;¡Cuidado con su rayo tractor!;Cuidado com o raio trator dele!
+25;4A4472EA;PEPPY_TITANIA_001;18;0;0;1;1;¡Puede atraparte con él!;Ele pode te prender!
+26;534D2350;PEPPY_TITANIA_002;19;0;0;0;0;Seguro que prepara un ataque.;Com certeza ele está preparando um ataque.
+27;534D2350;PEPPY_TITANIA_002;19;0;0;1;1;¡Mantente alerta!;Fique alerta!
+28;3A2E8665;PEPPY_TITANIA_004;20;0;0;0;0;¡Dispara al punto débil de la boca!;Atira no ponto fraco da boca!
+29;4D29B6F3;PEPPY_TITANIA_005;21;0;0;0;0;¡Fox, no te acerques!;Fox, não se aproxime!
+30;4D29B6F3;PEPPY_TITANIA_005;21;0;0;1;1;¡Es peligroso!;É perigoso!
+31;5420E749;PEPPY_TITANIA_006;22;0;0;0;0;¡Ah, gracias por la ayuda!;Ah, obrigado pela ajuda!
+32;2327D7DF;PEPPY_TITANIA_007;23;0;0;0;0;¡De buena me he librado!;Foi por pouco!
+33;2458733D;PEPPY_TITANIA_010;24;0;0;0;0;¡Así se hace, Fox!;É assim mesmo, Fox!
+34;535F43AB;PEPPY_TITANIA_011;25;0;0;0;0;¡Dispara a los puntos débiles!;Atire nos pontos fracos!
+35;4A561211;PEPPY_TITANIA_012;26;0;0;0;0;¡Gracias por salvarme!;Obrigado por me salvar!
+36;3D512287;PEPPY_TITANIA_013;27;0;0;0;0;¡Esta vieja liebre aún tiene cuerda para rato!;Esta velha lebre ainda tem fôlego pra um bom tempo!
+37;543287B2;PEPPY_TITANIA_015;28;0;0;0;0;Gracias por venir a buscarme.;Obrigado por vir me buscar.
+38;4D3BD608;PEPPY_TITANIA_016;29;0;0;0;0;¡Eh, parece que allí ocurre algo!;Ei, parece que está acontecendo alguma coisa ali!
+39;4D3BD608;PEPPY_TITANIA_016;29;0;0;1;1;Será mejor ir a echar un vistazo.;É melhor a gente dar uma olhada.
+40;3A3CE69E;PEPPY_TITANIA_017;30;0;0;0;0;¡Eh, parece que allí ocurre algo!;Ei, parece que está acontecendo alguma coisa ali!
+41;2A83FB0F;PEPPY_TITANIA_018;31;0;0;0;0;Será mejor ir a echar un vistazo.;É melhor a gente dar uma olhada.
+42;623527D4;SLIPPY_TITANIA_001;32;0;0;0;0;¿Dónde te has metido, Peppy?;Onde você foi parar, Peppy?
+43;7B3C766E;SLIPPY_TITANIA_002;33;0;0;0;0;¡Cuidado! ¡Haz un tonel!;Cuidado! Faça uma looping!
+44;0C3B46F8;SLIPPY_TITANIA_003;34;0;0;0;0;El Landmaster dispara misiles;O Landmaster dispara mísseis
+45;0C3B46F8;SLIPPY_TITANIA_003;34;0;0;1;1;cuando cargas el láser.;quando você carrega o laser.
+46;125FD35B;SLIPPY_TITANIA_004;35;0;0;0;0;¡Y puedes fijar la mirilla hasta;E dá pra mirar até em
+47;125FD35B;SLIPPY_TITANIA_004;35;0;0;1;1;en tres enemigos a la vez!;três inimigos ao mesmo tempo!
+48;6558E3CD;SLIPPY_TITANIA_005;36;0;0;0;0;¡Aaaaay, casi acabo hecho papilla!;Aaaaah, por pouco não virei purê!
+49;7C51B277;SLIPPY_TITANIA_006;37;0;0;0;0;¡Socorro! ¡Me ha atrapado!;Socorro! Ele me pegou!
+50;0B5682E1;SLIPPY_TITANIA_007;38;0;0;0;0;¡El radar detecta una señal cercana!;O radar detectou um sinal próximo!
+51;1BE99F70;SLIPPY_TITANIA_008;39;0;0;0;0;¡Tiene toda la pinta!;Parece mesmo ser ele!
+52;6CEEAFE6;SLIPPY_TITANIA_009;40;0;0;0;0;¡Uaaah! ¡Un terremoto!;Uaaah! Um terremoto!
+53;0C292603;SLIPPY_TITANIA_010;41;0;0;0;0;¡Uf, casi me merienda!;Ufa, ele quase me devorou!
+54;7B2E1695;SLIPPY_TITANIA_011;42;0;0;0;0;¡Qué asco de planeta!;Que planeta nojento!
+55;7B2E1695;SLIPPY_TITANIA_011;42;0;0;1;1;¡Tengo que largarme de aquí!;Tenho que dar o fora daqui!
+56;6227472F;SLIPPY_TITANIA_012;43;0;0;0;0;¡Rápido, aléjate!;Rápido, afasta-te!
+57;6227472F;SLIPPY_TITANIA_012;43;0;0;1;1;¡Intenta engullirte de nuevo!;Ele está tentando te engolir de novo!
+58;152077B9;SLIPPY_TITANIA_013;44;0;0;0;0;El Landmaster va como la seda,;O Landmaster funciona que é uma maravilha,
+59;152077B9;SLIPPY_TITANIA_013;44;0;0;1;1;¿verdad?;não é mesmo?
+60;0B44E21A;SLIPPY_TITANIA_014;45;0;0;0;0;Menudo blindaje... ¡Los ataques;Que blindagem... Os ataques
+61;0B44E21A;SLIPPY_TITANIA_014;45;0;0;1;1;no le hacen ni un rasguño!;nem arranham ele!
+62;7C43D28C;SLIPPY_TITANIA_015;46;0;0;0;0;¡Descansa, que ya no estás;Descansa, você já não tem mais
+63;7C43D28C;SLIPPY_TITANIA_015;46;0;0;1;1;para estos trotes!;forças para essas aventuras!
+64;654A8336;SLIPPY_TITANIA_016;47;0;0;0;0;¡Fox!;Fox!
