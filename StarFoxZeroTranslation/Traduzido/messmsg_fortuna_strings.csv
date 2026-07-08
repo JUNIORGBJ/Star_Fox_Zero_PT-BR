@@ -1,0 +1,54 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;3CE5B7F4;FOX_FORTUNA_001;0;0;0;0;0;¡Adelante, chicos! Volad bajo;Vamos lá, galera! Voeem baixo
+1;3CE5B7F4;FOX_FORTUNA_001;0;0;0;1;1;para evitar los radares.;para evitar os radares.
+2;52EBD6D8;FOX_FORTUNA_003;1;0;0;0;0;¡Informad de vuestro estado!;Informem a situação de vocês!
+3;65AFF507;FALCO_FORTUNA_001;2;0;0;0;0;¡Estoy harto de tanta enredadera!;Estou de saco cheio de tanta confusão!
+4;62C2311E;FALCO_FORTUNA_005;3;0;0;0;0;¡Deja de gritar!;Pare de gritar!
+5;7BCB60A4;FALCO_FORTUNA_006;4;0;0;0;0;Va armado hasta los dientes,;Ele está armado até os dentes,
+6;7BCB60A4;FALCO_FORTUNA_006;4;0;0;1;1;aunque no los tenga...;mesmo sem ter dentes...
+7;0CCC5032;FALCO_FORTUNA_007;5;0;0;0;0;Sí, y no le hace ni pizca;É, e ele não acha nem um pouquinho
+8;0CCC5032;FALCO_FORTUNA_007;5;0;0;1;1;de gracia...;engraçado...
+9;1C734DA3;FALCO_FORTUNA_008;6;0;0;0;0;¡No es familia mía, renacuajo!;Ele não é da minha família, garotinho!
+10;6B747D35;FALCO_FORTUNA_009;7;0;0;0;0;Como te pille te vas a enterar, Slippy.;Se eu te pegar, você vai se dar mal, Slippy.
+11;0BB3F4D0;FALCO_FORTUNA_010;8;0;0;0;0;¡Has salido de otras peores!;Você já passou por situações piores!
+12;7CB4C446;FALCO_FORTUNA_011;9;0;0;0;0;Grrr. Ella sí que es una pájara;Grrr. Ela sim é uma ave
+13;7CB4C446;FALCO_FORTUNA_011;9;0;0;1;1;de cuidado...;perigosa...
+14;12BAA56A;FALCO_FORTUNA_013;10;0;0;0;0;Eh, no lo has hecho mal, Fox.;Ei, você não se saiu mal, Fox.
+15;0CDE30C9;FALCO_FORTUNA_014;11;0;0;0;0;¡¿Katt?! ¿No tenías a nadie más;Katt?! Você não tinha mais ninguém
+16;0CDE30C9;FALCO_FORTUNA_014;11;0;0;1;1;a quien molestar?;para incomodar?
+17;17549054;PEPPY_FORTUNA_002;12;0;0;0;0;¡Rápido, refugiémonos en ese túnel!;Rápido, vamos nos refugiar naquele túnel!
+18;093005F7;PEPPY_FORTUNA_005;13;0;0;0;0;¡Procura esquivarlo!;Tenta desviar dele!
+19;1039544D;PEPPY_FORTUNA_006;14;0;0;0;0;¡La cola también es un arma!;A cauda também é uma arma!
+20;673E64DB;PEPPY_FORTUNA_007;15;0;0;0;0;Aguanta, Fox. ¡Se está;Aguenta firme, Fox. Ele está
+21;673E64DB;PEPPY_FORTUNA_007;15;0;0;1;1;quedando sin energía!;ficando sem energia!
+22;6041C039;PEPPY_FORTUNA_010;16;0;0;0;0;¡Todo bien!;Tudo bem!
+23;1746F0AF;PEPPY_FORTUNA_011;17;0;0;0;0;¡Tiene un punto débil en la espalda!;Ele tem um ponto fraco nas costas!
+24;1746F0AF;PEPPY_FORTUNA_011;17;0;0;1;1;¡Atácalo por detrás!;Ataca por trás!
+25;79489183;PEPPY_FORTUNA_013;18;0;0;0;0;Por fin un espacio abierto...;Finalmente, um espaço aberto...
+26;79489183;PEPPY_FORTUNA_013;18;0;0;1;1;¡Manteneos alerta, chicos!;Fiquem alertas, galera!
+27;5646605F;SLIPPY_FORTUNA_004;19;0;0;0;0;¡Ostras!;Nossa!
+28;214150C9;SLIPPY_FORTUNA_005;20;0;0;0;0;¡Mirad, ahí está otra vez!;Olhem, lá está ele de novo!
+29;4F4F31E5;SLIPPY_FORTUNA_007;21;0;0;0;0;¡Cuidado con su aliento de fuego!;Cuidado com seu sopro de fogo!
+30;5FF02C74;SLIPPY_FORTUNA_008;22;0;0;0;0;¡Va a por ti!;Ele está vindo atrás de você!
+31;28F71CE2;SLIPPY_FORTUNA_009;23;0;0;0;0;¡Dile a tu primo que se esté quieto,;Diga ao seu primo para ficar parado,
+32;28F71CE2;SLIPPY_FORTUNA_009;23;0;0;1;1;Falco!;Falco!
+33;48309507;SLIPPY_FORTUNA_010;24;0;0;0;0;¿Intenta decirnos algo?;Ele está tentando nos dizer alguma coisa?
+34;48309507;SLIPPY_FORTUNA_010;24;0;0;1;1;Falco, tú hablas su idioma, ¿no?;Falco, você fala a língua dele, não é?
+35;3F37A591;SLIPPY_FORTUNA_011;25;0;0;0;0;¡Lo estás haciendo genial, Fox!;Você está indo muito bem, Fox!
+36;4F5D511E;SLIPPY_FORTUNA_014;26;0;0;0;0;¡Estoy bien, estoy bien!;Estou bem, estou bem!
+37;385A6188;SLIPPY_FORTUNA_015;27;0;0;0;0;¡Ostras, estás rodeado de tornados!;Nossa, você está cercado por tornados!
+38;4C26E81C;KATT_FORTUNA_001;28;0;0;0;0;¡Hola, chicos! ¿Me echabais de menos?;Oi, galera! Sentiram minha falta?
+39;552FB9A6;KATT_FORTUNA_002;29;0;0;0;0;¿Qué forma es esa de saludar;Que jeito é esse de cumprimentar
+40;552FB9A6;KATT_FORTUNA_002;29;0;0;1;1;a una chica?;uma garota?
+41;22288930;KATT_FORTUNA_003;30;0;0;0;0;¡Esos tipos la tienen tomada conmigo!;Esses caras estão de olho em mim!
+42;3C4C1C93;KATT_FORTUNA_004;31;0;0;0;0;¡Oye! No querrás estropear una cara;Ei! Você não vai querer estragar um rosto
+43;3C4C1C93;KATT_FORTUNA_004;31;0;0;1;1;tan bonita como la mía...;tão bonito quanto o meu...
+44;4B4B2C05;KATT_FORTUNA_005;32;0;0;0;0;¡Magnífico! ¡Te daría un beso;Maravilhoso! Eu até te daria um beijo
+45;4B4B2C05;KATT_FORTUNA_005;32;0;0;1;1;y todo!;e tudo mais!
+46;25454D29;KATT_FORTUNA_007;33;0;0;0;0;Lo que nos faltaba: niebla.;Era só o que faltava: neblina.
+47;25454D29;KATT_FORTUNA_007;33;0;0;1;1;¡Seguidme, guapos!;Sigam-me, bonitões!
+48;35FA50B8;KATT_FORTUNA_008;34;0;0;0;0;Os dejo ese polluelo a vosotros.;Esse filhote fica por conta de você
+49;35FA50B8;KATT_FORTUNA_008;34;0;0;1;1;¡Hasta la vista, chicos!;Até mais, galera!
+50;42FD602E;KATT_FORTUNA_009;35;0;0;0;0;Hay un pajarraco merodeando;Tem um pássaro enorme rondando
+51;42FD602E;KATT_FORTUNA_009;35;0;0;1;1;por aquí que no me gusta ni un pelo.;por aqui que não me agrada nem um pouco.
+52;61E02CF4;WOLF_FORTUNA_001;36;0;0;0;0;¡Os haré picadillo, Star Fox!;Vou fazer picadinho de vocês, Star Fox!
