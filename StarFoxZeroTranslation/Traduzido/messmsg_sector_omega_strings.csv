@@ -1,0 +1,85 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;7EB8BFAD;FOX_SECTOR_OMEGA_001;0;0;0;0;0;Difusor de antigravitación-G;Difusor G-Antigravidade
+1;7EB8BFAD;FOX_SECTOR_OMEGA_001;0;0;0;1;1;al máximo. ¡A toda velocidad!;no máximo. A toda velocidade!
+2;67B1EE17;FOX_SECTOR_OMEGA_002;1;0;0;0;0;¡Siento salir disparado,;Desculpa por sair disparado,
+3;67B1EE17;FOX_SECTOR_OMEGA_002;1;0;0;1;1;pero tengo prisa!;mas estou com pressa!
+4;10B6DE81;FOX_SECTOR_OMEGA_003;2;0;0;0;0;¡Cambiando a modo abierto!;Mudando para o modo livre!
+5;0ED24B22;FOX_SECTOR_OMEGA_004;3;0;0;0;0;¡Recibido!;Entendido!
+6;6DC673D6;FALCO_SECTOR_OMEGA_001;4;0;0;0;0;¡Os voy a enseñar a pilotar de verdad!;Vou mostrar a vocês como se pilota de verdade!
+7;74CF226C;FALCO_SECTOR_OMEGA_002;5;0;0;0;0;¡Detrás de ti!;Estou atrás de você!
+8;03C812FA;FALCO_SECTOR_OMEGA_003;6;0;0;0;0;¡Esto es peor que volar cuando;É pior do que voar
+9;03C812FA;FALCO_SECTOR_OMEGA_003;6;0;0;1;1;hay niebla!;na neblina!
+10;73A2E675;FALCO_SECTOR_OMEGA_006;7;0;0;0;0;¿Qué locura es esta?;Que loucura é essa?
+11;141ACB72;FALCO_SECTOR_OMEGA_008;8;0;0;0;0;¡Ven a por nosotros!;Venham nos pegar!
+12;631DFBE4;FALCO_SECTOR_OMEGA_009;9;0;0;0;0;¡Bien! ¡Lo estás consiguiendo!;Ótimo! Você está conseguindo!
+13;03DA7201;FALCO_SECTOR_OMEGA_010;10;0;0;0;0;¡Cuidado, Fox!;Cuidado, Fox!
+14;74DD4297;FALCO_SECTOR_OMEGA_011;11;0;0;0;0;¡Me quedo el lado izquierdo!;Vou contornar pela esquerda!
+15;6DD4132D;FALCO_SECTOR_OMEGA_012;12;0;0;0;0;¡Yo cubriré el flanco derecho!;Estou contornando pela direita!
+16;04B7B618;FALCO_SECTOR_OMEGA_014;13;0;0;0;0;Reconozco que me has;Admito que você me
+17;04B7B618;FALCO_SECTOR_OMEGA_014;13;0;0;1;1;sorprendido, Fox.;surpreendeu, Fox.
+18;1E0BFDE6;PEPPY_SECTOR_OMEGA_002;14;0;0;0;0;¡Sigo por abajo!;Vou continuar por baixo!
+19;690CCD70;PEPPY_SECTOR_OMEGA_003;15;0;0;0;0;¡Fox, vuela hacia arriba!;Fox, voe para cima!
+20;776858D3;PEPPY_SECTOR_OMEGA_004;16;0;0;0;0;¡Cuidado con los bloques;Cuidado com os blocos
+21;776858D3;PEPPY_SECTOR_OMEGA_004;16;0;0;1;1;giratorios!;giratórios!
+22;006F6845;PEPPY_SECTOR_OMEGA_005;17;0;0;0;0;¿Estáis todos bien?;Vocês estão todos bem?
+23;196639FF;PEPPY_SECTOR_OMEGA_006;18;0;0;0;0;¡Algo se aproxima por arriba!;Algo está se aproximando por cima!
+24;196639FF;PEPPY_SECTOR_OMEGA_006;18;0;0;1;1;¡Atentos!;Fiquem atentos!
+25;7EDE14F8;PEPPY_SECTOR_OMEGA_008;19;0;0;0;0;¡Tenemos que abrirnos paso!;Temos que abrir caminho!
+26;09D9246E;PEPPY_SECTOR_OMEGA_009;20;0;0;0;0;Slippy, ¿qué pasa con ese análisis?;Slippy, e aquela análise?
+27;09D9246E;PEPPY_SECTOR_OMEGA_009;20;0;0;1;1;¡Date prisa!;Depressa!
+28;691EAD8B;PEPPY_SECTOR_OMEGA_010;21;0;0;0;0;¡Ahora, Fox! ¡Dispara!;Agora, Fox! Atire!
+29;1E199D1D;PEPPY_SECTOR_OMEGA_011;22;0;0;0;0;¡Cuidado, Fox!;Cuidado, Fox!
+30;0710CCA7;PEPPY_SECTOR_OMEGA_012;23;0;0;0;0;¡No podemos permitirnos;Não podemos nos dar ao luxo
+31;0710CCA7;PEPPY_SECTOR_OMEGA_012;23;0;0;1;1;el menor error!;de cometer o menor erro!
+32;7017FC31;PEPPY_SECTOR_OMEGA_013;24;0;0;0;0;¡Dispara a las aberturas!;Atire nas aberturas!
+33;6E736992;PEPPY_SECTOR_OMEGA_014;25;0;0;0;0;¡Aprovecha antes de que dispare!;Aproveita antes que ele atire!
+34;19745904;PEPPY_SECTOR_OMEGA_015;26;0;0;0;0;¡Eso es! ¡Sigue así!;É isso aí! Continua assim!
+35;007D08BE;PEPPY_SECTOR_OMEGA_016;27;0;0;0;0;¡De arriba me encargo yo!;De cima eu cuido!
+36;777A3828;PEPPY_SECTOR_OMEGA_017;28;0;0;0;0;¡Yo voy por abajo!;Eu vou por baixo!
+37;67C525B9;PEPPY_SECTOR_OMEGA_018;29;0;0;0;0;¡Frena!;Freia!
+38;4233FE48;PEPPY_SECTOR_OMEGA_020;30;0;0;0;0;¡Eso es! ¡Sigue así!;É isso aí! Continua assim!
+39;562D61AD;SLIPPY_SECTOR_OMEGA_001;31;0;0;0;0;¡Yuju! ¡Vamos a toda pastilla!;Uau! Vamos a toda velocidade!
+40;38230081;SLIPPY_SECTOR_OMEGA_003;32;0;0;0;0;¡Uf, qué mareo!;Ufa, que tontura!
+41;5140A5B4;SLIPPY_SECTOR_OMEGA_005;33;0;0;0;0;¿Soy yo o Venom ha desaparecido?;É impressão minha ou o Venom sumiu?
+42;4849F40E;SLIPPY_SECTOR_OMEGA_006;34;0;0;0;0;¡Seguidme si podéis!;Sigam-me, se conseguirem!
+43;2FF1D909;SLIPPY_SECTOR_OMEGA_008;35;0;0;0;0;¡Cuidado con los pedruscos!;Cuidado com as pedras!
+44;58F6E99F;SLIPPY_SECTOR_OMEGA_009;36;0;0;0;0;¡Hay enemigos para aburrir!;Tem inimigos aos montes!
+45;3831607A;SLIPPY_SECTOR_OMEGA_010;37;0;0;0;0;¡Un momento! Tengo;Espera aí! Estou com
+46;3831607A;SLIPPY_SECTOR_OMEGA_010;37;0;0;1;1;problemas técnicos...;problemas técnicos...
+47;4F3650EC;SLIPPY_SECTOR_OMEGA_011;38;0;0;0;0;¡Análisis de datos completado!;Análise de dados concluída!
+48;563F0156;SLIPPY_SECTOR_OMEGA_012;39;0;0;0;0;¡Genial, jefe!;Ótimo, chefe!
+49;213831C0;SLIPPY_SECTOR_OMEGA_013;40;0;0;0;0;¡Ostras!;Nossa!
+50;3F5CA463;SLIPPY_SECTOR_OMEGA_014;41;0;0;0;0;¡Me pido ir por la derecha!;Quero ir pela direita!
+51;485B94F5;SLIPPY_SECTOR_OMEGA_015;42;0;0;0;0;¡Me pido ir por la izquierda!;Quero ir pela esquerda!
+52;5152C54F;SLIPPY_SECTOR_OMEGA_016;43;0;0;0;0;¡Lo estás haciendo genial, Fox!;Você está indo muito bem, Fox!
+53;191034B6;SOLDIER_SECTOR_OMEGA_001;44;0;0;0;0;Ah... Me temo que por aquí;Ah... Acho que por aqui
+54;191034B6;SOLDIER_SECTOR_OMEGA_001;44;0;0;1;1;no se va a Venom...;não dá pra chegar ao Venom...
+55;0019650C;SOLDIER_SECTOR_OMEGA_002;45;0;0;0;0;Este camino va derechito...;Esse caminho leva direto...
+56;771E559A;SOLDIER_SECTOR_OMEGA_003;46;0;0;0;0;¡a vuestra perdición! ¡Ja, ja, ja, ja!;à sua perdição! Ha, ha, ha, ha!
+57;697AC039;SOLDIER_SECTOR_OMEGA_004;47;0;0;0;0;¡Malditas sabandijas!;Malditos vermes!
+58;1E7DF0AF;SOLDIER_SECTOR_OMEGA_005;48;0;0;0;0;¡Tomad esto!;Tomem isso!
+59;0774A115;SOLDIER_SECTOR_OMEGA_006;49;0;0;0;0;¡Ja, ja, ja! ¡No podréis conmigo!;Hah! Vocês não vão conseguir me derrotar!
+60;17CBBC84;SOLDIER_SECTOR_OMEGA_009;50;0;0;0;0;¡Tomad esto!;Tomem isso!
+61;770C3561;SOLDIER_SECTOR_OMEGA_010;51;0;0;0;0;Os creéis muy listos, ¿verdad?;Acham que são muito espertos, não é?
+62;000B05F7;SOLDIER_SECTOR_OMEGA_011;52;0;0;0;0;¡Jamás venceréis a Andross!;Vocês nunca vão derrotar o Andross!
+63;724B70B1;NAUS_SECTOR_OMEGA_001;53;0;0;0;0;El Great Fox requiere apoyo aéreo;A Great Fox precisa de apoio aéreo
+64;724B70B1;NAUS_SECTOR_OMEGA_001;53;0;0;1;1;para atravesar esta ruta.;para atravessar esta rota.
+65;1C45119D;NAUS_SECTOR_OMEGA_003;54;0;0;0;0;El enemigo nos ha detectado.;O inimigo nos detectou.
+66;0221843E;NAUS_SECTOR_OMEGA_004;55;0;0;0;0;Alerta. Un objeto no identificado;Alerta. Um objeto não identificado
+67;0221843E;NAUS_SECTOR_OMEGA_004;55;0;0;1;1;se acerca a gran velocidad.;se aproxima em alta velocidade.
+68;7526B4A8;NAUS_SECTOR_OMEGA_005;56;0;0;0;0;Preparando el cañón del Great Fox.;Preparando o canhão da Great Fox.
+69;7526B4A8;NAUS_SECTOR_OMEGA_005;56;0;0;1;1;Acerca al enemigo a la línea de fuego.;Aproximando o inimigo da linha de tiro.
+70;6C2FE512;NAUS_SECTOR_OMEGA_006;57;0;0;0;0;Fuego.;Fogo.
+71;1B28D584;NAUS_SECTOR_OMEGA_007;58;0;0;0;0;Tomar esta ruta fue un error...;Seguir por esta rota foi um erro...
+72;0B97C815;NAUS_SECTOR_OMEGA_008;59;0;0;0;0;No se detectan más amenazas.;Não há mais ameaças detectadas.
+73;0B97C815;NAUS_SECTOR_OMEGA_008;59;0;0;1;1;Corrigiendo el rumbo...;Corrigindo o rumo...
+74;7C90F883;NAUS_SECTOR_OMEGA_009;60;0;0;0;0;Algo se acerca al Great Fox.;Algo está se aproximando da Great Fox.
+75;1C577166;NAUS_SECTOR_OMEGA_010;61;0;0;0;0;Hay robots de ataque en la cubierta;Há robôs de ataque no convés
+76;1C577166;NAUS_SECTOR_OMEGA_010;61;0;0;1;1;de la nave. Solicito ayuda.;da nave. Solicito ajuda.
+77;6B5041F0;NAUS_SECTOR_OMEGA_011;62;0;0;0;0;Todos los robots han sido destruidos.;Todos os robôs foram destruídos.
+78;6B5041F0;NAUS_SECTOR_OMEGA_011;62;0;0;1;1;El Great Fox está a salvo.;A Great Fox está a salvo.
+79;7259104A;NAUS_SECTOR_OMEGA_012;63;0;0;0;0;El Great Fox ha sufrido;A Great Fox sofreu
+80;7259104A;NAUS_SECTOR_OMEGA_012;63;0;0;1;1;cuantiosos daños.;danos consideráveis.
+81;055E20DC;NAUS_SECTOR_OMEGA_013;64;0;0;0;0;El escudo de la nave;O escudo da nave
+82;055E20DC;NAUS_SECTOR_OMEGA_013;64;0;0;1;1;no resistirá mucho más.;não vai resistir por muito mais tempo.
+83;1B3AB57F;NAUS_SECTOR_OMEGA_014;65;0;0;0;0;Nueva amenaza detectada.;Nova ameaça detectada.
