@@ -1,0 +1,175 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;5752031C;FOX_SECTOR_B_001;0;0;0;0;0;¿Bill? ¿Eres tú? ¡Qué sorpresa!;Bill? É você? Que surpresa!
+1;4E5B52A6;FOX_SECTOR_B_002;1;0;0;0;0;Sigues igual que en la academia, ¿eh?;Você continua igualzinho à época da academia, né?
+2;4E5B52A6;FOX_SECTOR_B_002;1;0;0;1;1;¡Acepto el desafío!;Aceito o desafio!
+3;2738F793;FOX_SECTOR_B_004;2;0;0;0;0;¡Recibido!;Entendido!
+4;503FC705;FOX_SECTOR_B_005;3;0;0;0;0;¡Estoy dentro!;Estou dentro!
+5;493696BF;FOX_SECTOR_B_006;4;0;0;0;0;¡Ey! Je, je. ¡Sabes que me debes una!;Ei! He, he. Você sabe que me deve uma!
+6;3E31A629;FOX_SECTOR_B_007;5;0;0;0;0;¡Venga, vamos a echarle una mano;Vamos lá, vamos dar uma mãozinha
+7;3E31A629;FOX_SECTOR_B_007;5;0;0;1;1;al general!;ao general!
+8;2E8EBBB8;FOX_SECTOR_B_008;6;0;0;0;0;¡Peppy!;Peppy!
+9;59898B2E;FOX_SECTOR_B_009;7;0;0;0;0;¡Informad de vuestro estado!;Informem a posição de vocês!
+10;394E02CB;FOX_SECTOR_B_010;8;0;0;0;0;ROB, ¿tienes la posición de Peppy?;ROB, você tem a posição do Peppy?
+11;4E49325D;FOX_SECTOR_B_011;9;0;0;0;0;El que faltaba...;Faltava só ele...
+12;574063E7;FOX_SECTOR_B_012;10;0;0;0;0;¡Katt! ¡Me alegro de verte!;Katt! Que bom te ver!
+13;733FEAF8;FALCO_SECTOR_B_001;11;0;0;0;0;Slippy, ¿estos dos han sido;Slippy, esses dois sempre foram
+14;733FEAF8;FALCO_SECTOR_B_001;11;0;0;1;1;siempre así de plastas?;chatos assim?
+15;6A36BB42;FALCO_SECTOR_B_002;12;0;0;0;0;¡Mirad! ¡Ahí llega el plato fuerte!;Olhem! Lá vem o prato principal!
+16;1D318BD4;FALCO_SECTOR_B_003;13;0;0;0;0;¡Usa el turbo para colarte dentro!;Use o turbo pra se infiltrar lá dentro!
+17;03551E77;FALCO_SECTOR_B_004;14;0;0;0;0;No cantéis victoria aún.;Não comemorem ainda.
+18;03551E77;FALCO_SECTOR_B_004;14;0;0;1;1;¡Tenemos visita!;Temos visita!
+19;74522EE1;FALCO_SECTOR_B_005;15;0;0;0;0;¡No dejan de aparecer enemigos!;Os inimigos não param de aparecer!
+20;6D5B7F5B;FALCO_SECTOR_B_006;16;0;0;0;0;¡Esas naves no son moco de pavo!;Essas naves não são brincadeira!
+21;1A5C4FCD;FALCO_SECTOR_B_007;17;0;0;0;0;¡Uno menos!;Um a menos!
+22;0AE3525C;FALCO_SECTOR_B_008;18;0;0;0;0;¡Nadie puede con Falco!;Ninguém consegue derrotar o Falco!
+23;7DE462CA;FALCO_SECTOR_B_009;19;0;0;0;0;¡Ja, les hemos dado un buen escarmiento!;Ha, demos uma boa lição neles!
+24;1D23EB2F;FALCO_SECTOR_B_010;20;0;0;0;0;¡Tenemos que encontrarlo!;Precisamos encontrá-lo!
+25;732D8A03;FALCO_SECTOR_B_012;21;0;0;0;0;¿Adónde vas, Fox?;Aonde você vai, Fox?
+26;732D8A03;FALCO_SECTOR_B_012;21;0;0;1;1;¡Los enemigos están por aquí!;Os inimigos estão por aqui!
+27;042ABA95;FALCO_SECTOR_B_013;22;0;0;0;0;¡No te relajes, Fox!;Não relaxe, Fox!
+28;1A4E2F36;FALCO_SECTOR_B_014;23;0;0;0;0;¡¿Katt?! ¿Qué estás haciendo aquí?;Katt?! O que você está fazendo aqui?
+29;74404E1A;FALCO_SECTOR_B_016;24;0;0;0;0;¡Fox! ¡Nos atacan desde arriba!;Fox! Estão nos atacando de cima!
+30;2A824210;PEPPY_SECTOR_B_001;25;0;0;0;0;¡¿Cómo?!;Como assim?!
+31;338B13AA;PEPPY_SECTOR_B_002;26;0;0;0;0;¡Fija el objetivo para ver mejor!;Fixe o alvo para enxergar melhor!
+32;448C233C;PEPPY_SECTOR_B_003;27;0;0;0;0;¡¿Star Wolf?! ¿Qué hacen aquí?;Star Wolf?! O que estão fazendo aqui?
+33;5AE8B69F;PEPPY_SECTOR_B_004;28;0;0;0;0;¡Y son un montón!;E são muitos!
+34;5AE8B69F;PEPPY_SECTOR_B_004;28;0;0;1;1;¡Preparaos para lo peor!;Preparem-se para o pior!
+35;34E6D7B3;PEPPY_SECTOR_B_006;29;0;0;0;0;¡Un enemigo menos!;Um inimigo a menos!
+36;43E1E725;PEPPY_SECTOR_B_007;30;0;0;0;0;¡Me apunto un tanto!;Marquei um ponto!
+37;535EFAB4;PEPPY_SECTOR_B_008;31;0;0;0;0;¡Tu padre estaría muy orgulloso;Seu pai ficaria muito orgulhoso
+38;535EFAB4;PEPPY_SECTOR_B_008;31;0;0;1;1;de ti, Fox!;de você, Fox!
+39;2459CA22;PEPPY_SECTOR_B_009;32;0;0;0;0;¡Fija el objetivo para ver;Fixe o alvo para ver
+40;2459CA22;PEPPY_SECTOR_B_009;32;0;0;1;1;cuándo ataca la fragata!;quando a fragata vai atacar!
+41;449E43C7;PEPPY_SECTOR_B_010;33;0;0;0;0;¡Vuelve aquí, Fox!;Volte pra cá, Fox!
+42;449E43C7;PEPPY_SECTOR_B_010;33;0;0;1;1;¡Estamos en plena batalla!;Estamos no meio da batalha!
+43;33997351;PEPPY_SECTOR_B_011;34;0;0;0;0;¡No!;Não!
+44;2A9022EB;PEPPY_SECTOR_B_012;35;0;0;0;0;¡Aaahhh!;Aaahhh!
+45;5D97127D;PEPPY_SECTOR_B_013;36;0;0;0;0;¡Atento, Fox!;Cuidado, Fox!
+46;6B4B2EEE;SLIPPY_SECTOR_B_001;37;0;0;0;0;Son lo peor. En cuanto se juntan,;Eles são os piores. Quando se juntam,
+47;6B4B2EEE;SLIPPY_SECTOR_B_001;37;0;0;1;1;no hay quien los aguante...;ninguém consegue aguentar...
+48;72427F54;SLIPPY_SECTOR_B_002;38;0;0;0;0;¡No le ha hecho ni un rasguño!;Não causou nem um arranhão nela!
+49;72427F54;SLIPPY_SECTOR_B_002;38;0;0;1;1;¡Menudo escudo!;Que escudo incrível!
+50;05454FC2;SLIPPY_SECTOR_B_003;39;0;0;0;0;¡Aprovecha cuando dispare el láser!;Aproveita quando ele disparar o laser!
+51;1B21DA61;SLIPPY_SECTOR_B_004;40;0;0;0;0;¡Análisis completado! ¡El generador;Análise concluída! O gerador
+52;1B21DA61;SLIPPY_SECTOR_B_004;40;0;0;1;1;de escudo está en la parte trasera!;do escudo está na parte traseira!
+53;6C26EAF7;SLIPPY_SECTOR_B_005;41;0;0;0;0;¡Es difícil distinguir quiénes;É difícil distinguir quem
+54;6C26EAF7;SLIPPY_SECTOR_B_005;41;0;0;1;1;son los malos!;são os vilões!
+55;02288BDB;SLIPPY_SECTOR_B_007;42;0;0;0;0;¡Bah, puedo con todas ellas yo solito!;Bah, eu dou conta de todas elas sozinho!
+56;1297964A;SLIPPY_SECTOR_B_008;43;0;0;0;0;¡Me has dejado alucinado, Fox!;Você me deixou de queixo caído, Fox!
+57;6590A6DC;SLIPPY_SECTOR_B_009;44;0;0;0;0;¡Te cacé!;Eu te peguei!
+58;05572F39;SLIPPY_SECTOR_B_010;45;0;0;0;0;¡Nadie se mete con Star Fox!;Ninguém mexe com o Star Fox!
+59;72501FAF;SLIPPY_SECTOR_B_011;46;0;0;0;0;Espero que no le haya pasado nada...;Espero que nada tenha acontecido com ele...
+60;516B37AD;NAUS_SECTOR_B_001;47;0;0;0;0;He localizado la señal de Peppy;Localizei o sinal do Peppy
+61;516B37AD;NAUS_SECTOR_B_001;47;0;0;1;1;en Titania.;em Titânia.
+62;7E24B723;PEPPER_SECTOR_B_001;48;0;0;0;0;La situación es muy delicada,;A situação está muito delicada,
+63;7E24B723;PEPPER_SECTOR_B_001;48;0;0;1;1;Star Fox. ¡Os necesitamos!;Star Fox. Precisamos de vocês!
+64;672DE699;PEPPER_SECTOR_B_002;49;0;0;0;0;Cañón principal listo para disparar.;Canhão principal pronto para disparar.
+65;672DE699;PEPPER_SECTOR_B_002;49;0;0;1;1;¡Alejaos de ahí!;Afastem-se daí!
+66;102AD60F;PEPPER_SECTOR_B_003;50;0;0;0;0;¡Fuego!;Fogo!
+67;0E4E43AC;PEPPER_SECTOR_B_004;51;0;0;0;0;Vamos a disparar el cañón.;Vamos disparar o canhão.
+68;0E4E43AC;PEPPER_SECTOR_B_004;51;0;0;1;1;¡Que todo el mundo se aparte!;Todo mundo se afaste!
+69;7949733A;PEPPER_SECTOR_B_005;52;0;0;0;0;¡A todas las unidades:;A todas as unidades:
+70;7949733A;PEPPER_SECTOR_B_005;52;0;0;1;1;hay que atravesar ese escudo!;precisamos atravessar esse escudo!
+71;60402280;PEPPER_SECTOR_B_006;53;0;0;0;0;¡Abrid fuego!;Abram fogo!
+72;17471216;PEPPER_SECTOR_B_007;54;0;0;0;0;¡A este ritmo, perderemos la batalla!;Nesse ritmo, vamos perder a batalha!
+73;07F80F87;PEPPER_SECTOR_B_008;55;0;0;0;0;No resistiremos mucho más.;Não vamos aguentar por muito mais tempo.
+74;07F80F87;PEPPER_SECTOR_B_008;55;0;0;1;1;¡Daos prisa, Star Fox!;Depressa, Star Fox!
+75;70FF3F11;PEPPER_SECTOR_B_009;56;0;0;0;0;Han llegado los refuerzos, Star Fox.;Os reforços chegaram, Star Fox.
+76;70FF3F11;PEPPER_SECTOR_B_009;56;0;0;1;1;¡Dejad que se ocupen del resto!;Deixem que eles cuidem do resto!
+77;3556C009;BILL_SECTOR_B_001;57;0;0;0;0;¡Fox! ¡Has venido!;Fox! Você chegou!
+78;2C5F91B3;BILL_SECTOR_B_002;58;0;0;0;0;Me alegra oírte, viejo amigo.;Que bom ouvir sua voz, velho amigo.
+79;2C5F91B3;BILL_SECTOR_B_002;58;0;0;1;1;¡Pero ahora tenemos trabajo!;Mas agora temos que trabalhar!
+80;5B58A125;BILL_SECTOR_B_003;59;0;0;0;0;¡Apuesto a que me cargo más;Aposto que vou derrubar mais
+81;5B58A125;BILL_SECTOR_B_003;59;0;0;1;1;enemigos que tú, Fox!;inimigos do que você, Fox!
+82;2B3255AA;BILL_SECTOR_B_006;60;0;0;0;0;¡Estamos en tus manos, Fox!;Estamos nas suas mãos, Fox!
+83;5C35653C;BILL_SECTOR_B_007;61;0;0;0;0;Me alegro de que estemos;Que bom que estamos
+84;5C35653C;BILL_SECTOR_B_007;61;0;0;1;1;en el mismo equipo, Fox.;no mesmo time, Fox.
+85;4C8A78AD;BILL_SECTOR_B_008;62;0;0;0;0;¡Fox, ese era compañero nuestro!;Fox, aquele era um companheiro nosso!
+86;3B8D483B;BILL_SECTOR_B_009;63;0;0;0;0;¿Qué tal si disparas a los enemigos,;Que tal atirar nos inimigos,
+87;3B8D483B;BILL_SECTOR_B_009;63;0;0;1;1;Fox?;Fox?
+88;5B4AC1DE;BILL_SECTOR_B_010;64;0;0;0;0;Unidad Husky, ¡fuego de cobertura!;Unidade Husky, nos deem cobertura!
+89;2C4DF148;BILL_SECTOR_B_011;65;0;0;0;0;Unidad Bulldog, ¡que no escape nadie!;Unidade Bulldog, não deixem ninguém escapar!
+90;42439064;BILL_SECTOR_B_013;66;0;0;0;0;¡Fox, vamos allá!;Fox, vamos lá!
+91;5C2705C7;BILL_SECTOR_B_014;67;0;0;0;0;¡Fox, pretenden derribar la nave;Fox, eles estão tentando derrubar a nave
+92;5C2705C7;BILL_SECTOR_B_014;67;0;0;1;1;del general!;do general!
+93;2B203551;BILL_SECTOR_B_015;68;0;0;0;0;¡Hay que proteger la flota!;Precisamos proteger a frota!
+94;322964EB;BILL_SECTOR_B_016;69;0;0;0;0;¡Usa el turbo, Fox! ¡Es el único modo;Use o turbo, Fox! É a única maneira
+95;322964EB;BILL_SECTOR_B_016;69;0;0;1;1;de atravesar el escudo!;de atravessar o escudo!
+96;452E547D;BILL_SECTOR_B_017;70;0;0;0;0;¡Enemigo neutralizado!;Inimigo neutralizado!
+97;2296797A;BILL_SECTOR_B_019;71;0;0;0;0;¡Un enemigo menos!;Um inimigo a menos!
+98;1E69F331;BILL_SECTOR_B_022;72;0;0;0;0;¡Fox, que soy Bill!;Fox, sou o Bill!
+99;696EC3A7;BILL_SECTOR_B_023;73;0;0;0;0;¡Fox! ¡¿Te has vuelto loco?!;Fox! Você enlouqueceu?!
+100;770A5604;BILL_SECTOR_B_024;74;0;0;0;0;¡No tiene gracia, Fox!;Isso não tem graça, Fox!
+101;130C2EF2;C_SOLDIER_SECTOR_B_001;75;0;0;0;0;Comenzando la cuenta atrás.;Iniciando a contagem regressiva.
+102;0A057F48;C_SOLDIER_SECTOR_B_002;76;0;0;0;0;¡Tres!;Três!
+103;7D024FDE;C_SOLDIER_SECTOR_B_003;77;0;0;0;0;¡Dos!;Dois!
+104;6366DA7D;C_SOLDIER_SECTOR_B_004;78;0;0;0;0;¡Uno!;Um!
+105;1461EAEB;C_SOLDIER_SECTOR_B_005;79;0;0;0;0;¡Preparaos para el impacto!;Preparem-se para o impacto!
+106;0D68BB51;C_SOLDIER_SECTOR_B_006;80;0;0;0;0;¡Escudo enemigo neutralizado!;Escudo inimigo neutralizado!
+107;7A6F8BC7;C_SOLDIER_SECTOR_B_007;81;0;0;0;0;¡Aaarrrggghh!;Aaarrrggghh!
+108;6AD09656;C_SOLDIER_SECTOR_B_008;82;0;0;0;0;¡Uaaaah!;Uaaaah!
+109;1DD7A6C0;C_SOLDIER_SECTOR_B_009;83;0;0;0;0;¡Uuuugggghhh!;Uuuugggghhh!
+110;7D102F25;C_SOLDIER_SECTOR_B_010;84;0;0;0;0;¡Aaaagh!;Aaaagh!
+111;0A171FB3;C_SOLDIER_SECTOR_B_011;85;0;0;0;0;¡Yaaargh!;Yaaargh!
+112;64197E9F;C_SOLDIER_SECTOR_B_013;86;0;0;0;0;¡Fuego!;Fogo!
+113;7A7DEB3C;C_SOLDIER_SECTOR_B_014;87;0;0;0;0;¡Hemos sufrido daños a estribor!;Sofremos danos a estibordo!
+114;7A7DEB3C;C_SOLDIER_SECTOR_B_014;87;0;0;1;1;¡Maniobras evasivas!;Manobras evasivas!
+115;73CBA717;C_SOLDIER_SECTOR_B_018;88;0;0;0;0;¡Gracias, Star Fox!;Obrigado, Star Fox!
+116;04CC9781;C_SOLDIER_SECTOR_B_019;89;0;0;0;0;¡Os debo una, Star Fox!;Estou em dívida com você, Star Fox!
+117;3C49C8E8;SOLDIER_SECTOR_B_001;90;0;0;0;0;¡Ja, ja, ja! Patético...;Ha, ha, ha! Patético...
+118;3C49C8E8;SOLDIER_SECTOR_B_001;90;0;0;1;1;¡Ahora veréis!;Agora vocês vão ver!
+119;25409952;SOLDIER_SECTOR_B_002;91;0;0;0;0;¡Se ha colado un intruso!;Um intruso se infiltrou!
+120;25409952;SOLDIER_SECTOR_B_002;91;0;0;1;1;¡Derribadlo!;Derrubem-no!
+121;5247A9C4;SOLDIER_SECTOR_B_003;92;0;0;0;0;¡Aaarrrggghh!;Aaarrrggghh!
+122;3B240CF1;SOLDIER_SECTOR_B_005;93;0;0;0;0;¡Yaaarrrggggh!;Yaaarrrggggh!
+123;222D5D4B;SOLDIER_SECTOR_B_006;94;0;0;0;0;¡Maldicióoon!;Drogaaa!
+124;552A6DDD;SOLDIER_SECTOR_B_007;95;0;0;0;0;¡Nooooo!;Nãooooo!
+125;4595704C;SOLDIER_SECTOR_B_008;96;0;0;0;0;¡Aaaaaahhh!;Aaaaaahhh!
+126;329240DA;SOLDIER_SECTOR_B_009;97;0;0;0;0;¡Acabemos con este circo!;Vamos acabar com esse circo!
+127;329240DA;SOLDIER_SECTOR_B_009;97;0;0;1;1;¡Cargad el cañón principal!;Carreguem o canhão principal!
+128;5255C93F;SOLDIER_SECTOR_B_010;98;0;0;0;0;¡Todo listo!;Tudo pronto!
+129;2552F9A9;SOLDIER_SECTOR_B_011;99;0;0;0;0;¡Recibido!;Recebido!
+130;3C5BA813;SOLDIER_SECTOR_B_012;100;0;0;0;0;¡Energía al 30 %!;Energia a 30 %!
+131;4B5C9885;SOLDIER_SECTOR_B_013;101;0;0;0;0;¡Energía al 50 %!;Energia a 50 %!
+132;55380D26;SOLDIER_SECTOR_B_014;102;0;0;0;0;¡Energía al 90 %!;Energia a 90 %!
+133;223F3DB0;SOLDIER_SECTOR_B_015;103;0;0;0;0;¡Energía al 100 %!;Energia a 100 %!
+134;3B366C0A;SOLDIER_SECTOR_B_016;104;0;0;0;0;¡Energía al 120 %!;Energia a 120 %!
+135;570F0687;WOLF_SECTOR_B_001;105;0;0;0;0;¡Se acabó el juego, Star Fox!;O jogo acabou, Star Fox!
+136;390167AB;WOLF_SECTOR_B_003;106;0;0;0;0;¡Te tengo en el punto de mira!;Estou mirando em você!
+137;390167AB;WOLF_SECTOR_B_003;106;0;0;1;1;¡Acabaré contigo!;Vou acabar com você!
+138;2765F208;WOLF_SECTOR_B_004;107;0;0;0;0;¡No tienes nada que hacer;Você não tem chance alguma
+139;2765F208;WOLF_SECTOR_B_004;107;0;0;1;1;contra mí!;contra mim!
+140;5062C29E;WOLF_SECTOR_B_005;108;0;0;0;0;¡¿Cómo te atreves?!;Como você ousa?!
+141;496B9324;WOLF_SECTOR_B_006;109;0;0;0;0;No... ¡No puedo perder!;Não... Não posso perder!
+142;3E6CA3B2;WOLF_SECTOR_B_007;110;0;0;0;0;Ya estoy harto. ¡Me largo de aquí!;Já estou farto. Vou dar o fora daqui!
+143;23434583;LEON_SECTOR_B_001;111;0;0;0;0;Andross nos ha ordenado;Andross nos ordenou
+144;23434583;LEON_SECTOR_B_001;111;0;0;1;1;que acabemos con vosotros.;que acabássemos com vocês.
+145;3A4A1439;LEON_SECTOR_B_002;112;0;0;0;0;Ja, no sois tan buenos como pensaba.;Ha, vocês não são tão bons quanto eu pensava.
+146;4D4D24AF;LEON_SECTOR_B_003;113;0;0;0;0;Qué pájaro más irritante.;Que pássaro mais irritante.
+147;4D4D24AF;LEON_SECTOR_B_003;113;0;0;1;1;¡Haz frente al gran Leon!;Enfrente o grande Leon!
+148;5329B10C;LEON_SECTOR_B_004;114;0;0;0;0;¡Derríbame si puedes!;Derrube-me se puder!
+149;242E819A;LEON_SECTOR_B_005;115;0;0;0;0;¡No puede ser!;Não pode ser!
+150;3D27D020;LEON_SECTOR_B_006;116;0;0;0;0;¡Me he cansado de jugar;Cansei de brincar
+151;3D27D020;LEON_SECTOR_B_006;116;0;0;1;1;con vosotros, Star Fox!;com vocês, Star Fox!
+152;49C323B3;PIGMA_SECTOR_B_001;117;0;0;0;0;¡Je, je! Y vamos a cobrar;Vou ficar rico,
+153;49C323B3;PIGMA_SECTOR_B_001;117;0;0;1;1;una fortuna cuando lo hagamos.;graças a você!
+154;50CA7209;PIGMA_SECTOR_B_002;118;0;0;0;0;¡Esa recompensa es prácticamente mía!;Essa recompensa já é praticamente minha!
+155;27CD429F;PIGMA_SECTOR_B_003;119;0;0;0;0;Peppy, viejo amigo,;Peppy, velho amigo,
+156;27CD429F;PIGMA_SECTOR_B_003;119;0;0;1;1;¡acabaré contigo personalmente!;vou acabar com você pessoalmente!
+157;39A9D73C;PIGMA_SECTOR_B_004;120;0;0;0;0;¡Vamos, chaval! ¡Dispárame!;Vamos lá, garoto! Atire em mim!
+158;4EAEE7AA;PIGMA_SECTOR_B_005;121;0;0;0;0;¡No! ¡Mi recompensa! ¡Aaaah!;Não! Minha recompensa! Aaaah!
+159;57A7B610;PIGMA_SECTOR_B_006;122;0;0;0;0;¡Te echaré de menos, Peppy!;Vou sentir sua falta, Peppy!
+160;20098AA3;ANDREW_SECTOR_B_001;123;0;0;0;0;¡Quien ose desafiar a Andross;Quem ousar desafiar Andross
+161;20098AA3;ANDREW_SECTOR_B_001;123;0;0;1;1;se las verá conmigo!;vai ter que lidar comigo!
+162;3900DB19;ANDREW_SECTOR_B_002;124;0;0;0;0;¡Sentid la furia del gran Andross!;Sinta a fúria do grande Andross!
+163;4E07EB8F;ANDREW_SECTOR_B_003;125;0;0;0;0;¡Vuelve a la charca, renacuajo!;Volte para a lagoa, girino!
+164;50637E2C;ANDREW_SECTOR_B_004;126;0;0;0;0;¡No me dais ningún miedo!;Vocês não me assustam nem um pouco!
+165;27644EBA;ANDREW_SECTOR_B_005;127;0;0;0;0;¡Tío Andross!;Tio Andross!
+166;3E6D1F00;ANDREW_SECTOR_B_006;128;0;0;0;0;¡Esto no quedará así!;Isso não vai ficar assim!
+167;79F3AA09;KATT_SECTOR_B_001;129;0;0;0;0;Hola, Falco... No te hagas ilusiones.;Oi, Falco... Não se iluda.
+168;79F3AA09;KATT_SECTOR_B_001;129;0;0;1;1;Solo he venido a devolver un favor.;Só vim retribuir um favor.
+169;60FAFBB3;KATT_SECTOR_B_002;130;0;0;0;0;¡Anda, Fox! ¿Falco y tú sois amigos?;Ora, Fox! Você e o Falco são amigos?
+170;60FAFBB3;KATT_SECTOR_B_002;130;0;0;1;1;¡La galaxia es un pañuelo!;A galáxia é pequena!
+171;17FDCB25;KATT_SECTOR_B_003;131;0;0;0;0;¿Qué forma es esa de saludar;Que jeito é esse de cumprimentar
+172;17FDCB25;KATT_SECTOR_B_003;131;0;0;1;1;a una chica?;uma garota?
+173;7E9E6E10;KATT_SECTOR_B_005;132;0;0;0;0;¡Eh, mi preciosa nave!;Ei, minha linda nave!
