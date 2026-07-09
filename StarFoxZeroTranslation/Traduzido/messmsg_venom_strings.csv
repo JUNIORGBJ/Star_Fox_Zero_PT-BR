@@ -1,0 +1,107 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;0FF56E57;FOX_VENOM_002;0;0;0;0;0;Eso habrá que verlo, Star Wolf.;Veremos isso, Star Wolf.
+1;78F25EC1;FOX_VENOM_003;1;0;0;0;0;¡No puede ser!;Não pode ser!
+2;6696CB62;FOX_VENOM_004;2;0;0;0;0;¡¿Padre?!;Pai?!
+3;1191FBF4;FOX_VENOM_005;3;0;0;0;0;Nada, nada... Todo va bien.;Nada, nada... Está tudo bem.
+4;0898AA4E;FOX_VENOM_006;4;0;0;0;0;¡Tu fin está cerca, Andross!;Seu fim está próximo, Andross!
+5;7F9F9AD8;FOX_VENOM_007;5;0;0;0;0;¿General? ¿Me puede decir;General? O senhor pode me dizer
+6;7F9F9AD8;FOX_VENOM_007;5;0;0;1;1;qué pasa aquí?;o que está acontecendo aqui?
+7;6F208749;FOX_VENOM_008;6;0;0;0;0;Por supuesto, general.;Claro, general.
+8;6F208749;FOX_VENOM_008;6;0;0;1;1;¡Le pararé los pies a Andross!;Vou deter o Andross!
+9;1827B7DF;FOX_VENOM_009;7;0;0;0;0;¡Padre!;Pai!
+10;07D57F29;FALCO_VENOM_001;8;0;0;0;0;¡Reconozco que te has lucido,;Tenho que admitir que você se saiu muito bem,
+11;07D57F29;FALCO_VENOM_001;8;0;0;1;1;Fox!;Fox!
+12;6B99952A;PEPPY_VENOM_001;9;0;0;0;0;¡Fox! ¡Estás a salvo!;Fox! Você está a salvo!
+13;7290C490;PEPPY_VENOM_002;10;0;0;0;0;¿Qué te pasa, Fox?;O que está acontecendo, Fox?
+14;0D3D7DF5;SLIPPY_VENOM_001;11;0;0;0;0;¡Yuju! ¡Bien hecho, Fox!;Uhuuu! Muito bem, Fox!
+15;5D93F463;PEPPER_VENOM_004;12;0;0;0;0;Así que Venom era en realidad;Então, Venom era na verdade um
+16;5D93F463;PEPPER_VENOM_004;12;0;0;1;1;un inmenso portal dimensional...;portal dimensional gigantesco...
+17;2A94C4F5;PEPPER_VENOM_005;13;0;0;0;0;¡Debemos dar con el paradero;Precisamos descobrir o paradeiro
+18;2A94C4F5;PEPPER_VENOM_005;13;0;0;1;1;de Andross!;de Andross!
+19;339D954F;PEPPER_VENOM_006;14;0;0;0;0;Deprisa, Fox. ¡El tiempo apremia!;Depressa, Fox. O tempo está se esgotando!
+20;449AA5D9;PEPPER_VENOM_007;15;0;0;0;0;Contamos contigo, Fox.;Contamos com você, Fox.
+21;5425B848;PEPPER_VENOM_008;16;0;0;0;0;Ese pilar de luz...;Aquele pilar de luz...
+22;5425B848;PEPPER_VENOM_008;16;0;0;1;1;¿Qué será?;O que será?
+23;232288DE;PEPPER_VENOM_009;17;0;0;0;0;¡La luz se está apagando!;A luz está se apagando!
+24;232288DE;PEPPER_VENOM_009;17;0;0;1;1;¡Sigue así, Fox!;Continue assim, Fox!
+25;2A86A40E;PEPPER_VENOM_016;18;0;0;0;0;¿Me recibes, Fox?;Você está me ouvindo, Fox?
+26;5D819498;PEPPER_VENOM_017;19;0;0;0;0;Sí, a eso iba. Andross nos ayudó;Sim, era isso mesmo. Andross nos ajudou
+27;5D819498;PEPPER_VENOM_017;19;0;0;1;1;a desarrollar un sistema de;a desenvolver um sistema de
+28;5D819498;PEPPER_VENOM_017;19;0;0;2;2;teletransporte con fines pacíficos.;teletransporte para fins pacíficos.
+29;4D3E8909;PEPPER_VENOM_018;20;0;0;0;0;Pero, cegado por el poder y;Mas, cego pelo poder e
+30;4D3E8909;PEPPER_VENOM_018;20;0;0;1;1;la avaricia, intentó usar esa tecnología;pela ganância, ele tentou usar essa tecnologia
+31;4D3E8909;PEPPER_VENOM_018;20;0;0;2;2;para su propio beneficio.;para seu próprio benefício.
+32;3A39B99F;PEPPER_VENOM_019;21;0;0;0;0;Cuando lo descubrimos, decidimos;Quando descobrimos isso, decidimos
+33;3A39B99F;PEPPER_VENOM_019;21;0;0;1;1;teleportar a Andross a otra dimensión.;teletransportar Andross para outra dimensão.
+34;3A39B99F;PEPPER_VENOM_019;21;0;0;2;2;Ese fue su castigo.;Esse foi o castigo dele.
+35;68C852F8;PEPPER_VENOM_020;22;0;0;0;0;De no haber sido por tu padre...;Se não fosse pelo seu pai...
+36;68C852F8;PEPPER_VENOM_020;22;0;0;1;1;habríamos fracasado.;teríamos fracassado.
+37;1FCF626E;PEPPER_VENOM_021;23;0;0;0;0;Pero ahora Andross ha vuelto con más;Mas agora Andross voltou com armas
+38;1FCF626E;PEPPER_VENOM_021;23;0;0;1;1;y mejores armas. E incluso se ha hecho;ainda mais poderosas. E ainda conseguiu
+39;1FCF626E;PEPPER_VENOM_021;23;0;0;2;2;con el control de los teleportadores.;o controle dos teletransportadores.
+40;06C633D4;PEPPER_VENOM_022;24;0;0;0;0;Si nadie se interpone en su;Se ninguém se interpor em seu
+41;06C633D4;PEPPER_VENOM_022;24;0;0;1;1;camino, ¡todo el sistema Lylat;caminho, todo o sistema Lylat
+42;06C633D4;PEPPER_VENOM_022;24;0;0;2;2;caerá en sus manos!;cairá em suas mãos!
+43;71C10342;PEPPER_VENOM_023;25;0;0;0;0;¡Debemos detener a Andross;Precisamos deter Andross
+44;71C10342;PEPPER_VENOM_023;25;0;0;1;1;a cualquier precio y destruir;a qualquer custo e destruir
+45;71C10342;PEPPER_VENOM_023;25;0;0;2;2;esa tecnología para siempre!;essa tecnologia para sempre!
+46;6FA596E1;PEPPER_VENOM_024;26;0;0;0;0;Te necesitamos más que nunca, Fox.;Precisamos de você mais do que nunca, Fox.
+47;6FA596E1;PEPPER_VENOM_024;26;0;0;1;1;¿Nos ayudarás?;Você vai nos ajudar?
+48;4B1A2EF8;WOLF_VENOM_001;27;0;0;0;0;¡Se acabó el juego, Star Fox!;O jogo acabou, Star Fox!
+49;52137F42;WOLF_VENOM_002;28;0;0;0;0;¿No sabes hacerlo mejor?;Você não sabe fazer melhor do que isso?
+50;25144FD4;WOLF_VENOM_003;29;0;0;0;0;Eres bueno, ¡pero yo soy mejor!;Você é bom, mas eu sou melhor!
+51;3B70DA77;WOLF_VENOM_004;30;0;0;0;0;¡Nooo! ¡No puede ser!;Nãooo! Não pode ser!
+52;4C77EAE1;WOLF_VENOM_005;31;0;0;0;0;¡También soy mejor que tú en tierra!;Eu sou melhor que você em terra também!
+53;15927CEA;LEON_VENOM_001;32;0;0;0;0;Veamos qué puedes hacer;Vamos ver o que você consegue fazer
+54;15927CEA;LEON_VENOM_001;32;0;0;1;1;contra nuestras nuevas naves.;contra nossas novas naves.
+55;0C9B2D50;LEON_VENOM_002;33;0;0;0;0;¡Despídete de este mundo!;Diga adeus a este mundo!
+56;7B9C1DC6;LEON_VENOM_003;34;0;0;0;0;No te será tan fácil acabar conmigo.;Não vai ser tão fácil assim acabar comigo.
+57;65F88865;LEON_VENOM_004;35;0;0;0;0;¡Es demasiado fuerte!;Ele é forte demais!
+58;0E9A6D19;PIGMA_VENOM_001;36;0;0;0;0;¡Qué pena que tu padre no vaya;Que pena que seu pai não vai
+59;0E9A6D19;PIGMA_VENOM_001;36;0;0;1;1;a ver tu derrota!;ver a sua derrota!
+60;17933CA3;PIGMA_VENOM_002;37;0;0;0;0;¡Qué rollo! Y yo que pensaba;Que chatice! E eu que achava
+61;17933CA3;PIGMA_VENOM_002;37;0;0;1;1;que nos darías algo de guerra...;que você ia dar um pouco de trabalho...
+62;60940C35;PIGMA_VENOM_003;38;0;0;0;0;¡Eres un incordio!;Você é um incômodo!
+63;60940C35;PIGMA_VENOM_003;38;0;0;1;1;¡Déjame en paz de una vez!;Me deixa em paz!
+64;7EF09996;PIGMA_VENOM_004;39;0;0;0;0;¡Aaagghh! ¡Soy carne de barbacoa!;Aaagghh! Sou carne para churrasco!
+65;5557A363;ANDREW_VENOM_001;40;0;0;0;0;¡Nos aseguraremos de que;Vamos garantir que
+66;5557A363;ANDREW_VENOM_001;40;0;0;1;1;no llegues hasta Andross!;você não chegue até Andross!
+67;4C5EF2D9;ANDREW_VENOM_002;41;0;0;0;0;¡Te aplastaré como a un insecto!;Vou te esmagar como um inseto!
+68;3B59C24F;ANDREW_VENOM_003;42;0;0;0;0;¡Es inútil! ¡Jamás me vencerás!;É inútil! Você nunca vai me derrotar!
+69;253D57EC;ANDREW_VENOM_004;43;0;0;0;0;¡Aaaah!;Aaaah!
+70;5302150A;ANDROSS_VENOM_001;44;0;0;0;0;Te estaba esperando, Fox McCloud.;Eu estava esperando por você, Fox McCloud.
+71;4A0B44B0;ANDROSS_VENOM_002;45;0;0;0;0;¡Solo yo tengo el cerebro necesario;Só eu tenho a inteligência necessária
+72;4A0B44B0;ANDROSS_VENOM_002;45;0;0;1;1;para gobernar la galaxia!;para governar a galáxia!
+73;3D0C7426;ANDROSS_VENOM_003;46;0;0;0;0;¡Quienes se oponen a mí;Quem se opõe a mim
+74;3D0C7426;ANDROSS_VENOM_003;46;0;0;1;1;firman su sentencia de muerte!;assina sua sentença de morte!
+75;2368E185;ANDROSS_VENOM_004;47;0;0;0;0;Tu padre lo sabe bien... ¡Ja, ja, ja, ja, ja!;Seu pai sabe disso muito bem... Ha, ha, ha!
+76;546FD113;ANDROSS_VENOM_005;48;0;0;0;0;¡Nooooo!;Nãooooo!
+77;4D6680A9;ANDROSS_VENOM_006;49;0;0;0;0;Si yo caigo, ¡te arrastraré conmigo!;Se eu cair, vou te arrastar comigo!
+78;3A61B03F;ANDROSS_VENOM_007;50;0;0;0;0;Pepper te lleva de la correa;Pepper te leva na coleira
+79;3A61B03F;ANDROSS_VENOM_007;50;0;0;1;1;adonde le place, ¿eh?;para onde bem entender, não é?
+80;2ADEADAE;ANDROSS_VENOM_008;51;0;0;0;0;¿Un zorro obedeciendo a un perro?;Uma raposa obedecendo a um cachorro?
+81;2ADEADAE;ANDROSS_VENOM_008;51;0;0;1;1;¿Dónde está tu orgullo, chico?;Onde está o seu orgulho, garoto?
+82;5DD99D38;ANDROSS_VENOM_009;52;0;0;0;0;Afirmas luchar por la justicia, pero;Você diz que luta pela justiça, mas
+83;5DD99D38;ANDROSS_VENOM_009;52;0;0;1;1;¿tienes idea de lo que eso supone?;tem ideia do que isso significa?
+84;3D1E14DD;ANDROSS_VENOM_010;53;0;0;0;0;¿Hasta cuándo vas a bailar;Até quando você vai dançar
+85;3D1E14DD;ANDROSS_VENOM_010;53;0;0;1;1;al son de Pepper?;ao som de Pepper?
+86;4A19244B;ANDROSS_VENOM_011;54;0;0;0;0;¡Es inútil! ¡¿Por qué insistes;É inútil! Por que você insiste
+87;4A19244B;ANDROSS_VENOM_011;54;0;0;1;1;en desafiarme?!;em me desafiar?!
+88;531075F1;ANDROSS_VENOM_012;55;0;0;0;0;¡No vivirás para lamentar este día!;Você não vai viver para se arrepender deste dia!
+89;24174567;ANDROSS_VENOM_013;56;0;0;0;0;¡Maldito seas, James McCloud!;Maldito James McCloud!
+90;24174567;ANDROSS_VENOM_013;56;0;0;1;1;¿Por qué te resistes a morir?;Por que você se recusa a morrer?
+91;5467FCA4;JAMES_VENOM_001;57;0;0;0;0;Sígueme, Fox.;Siga-me, Fox.
+92;4D6EAD1E;JAMES_VENOM_002;58;0;0;0;0;Por aquí, Fox.;Por aqui, Fox.
+93;3A699D88;JAMES_VENOM_003;59;0;0;0;0;¡Cuidado!;Cuidado!
+94;240D082B;JAMES_VENOM_004;60;0;0;0;0;No te quedes atrás, Fox.;Não fique para trás, Fox.
+95;530A38BD;JAMES_VENOM_005;61;0;0;0;0;Confía en tu instinto.;Confie no seu instinto.
+96;4A036907;JAMES_VENOM_006;62;0;0;0;0;No te rindas nunca, hijo mío.;Nunca desista, meu filho.
+97;3D045991;JAMES_VENOM_007;63;0;0;0;0;¡Presta atención a lo que ves!;Preste atenção ao que você vê!
+98;2DBB4400;JAMES_VENOM_008;64;0;0;0;0;¡Encuentra el camino!;Encontre o caminho!
+99;5ABC7496;JAMES_VENOM_009;65;0;0;0;0;No te dejes engañar por sus ilusiones.;Não se deixe enganar pelas ilusões dele.
+100;5ABC7496;JAMES_VENOM_009;65;0;0;1;1;¡Confía en ti mismo!;Confie em si mesmo!
+101;3A7BFD73;JAMES_VENOM_010;66;0;0;0;0;Te has vuelto muy fuerte, Fox.;Você ficou muito forte, Fox.
+102;4D7CCDE5;JAMES_VENOM_011;67;0;0;0;0;Si continúas, no habrá vuelta atrás.;Se continuar, não haverá mais volta.
+103;54759C5F;JAMES_VENOM_012;68;0;0;0;0;Veo que estás decidido.;Vejo que você está decidido.
+104;54759C5F;JAMES_VENOM_012;68;0;0;1;1;Muy bien, ¡sígueme!;Muito bem, siga-me!
+105;2372ACC9;JAMES_VENOM_013;69;0;0;0;0;Regresa con tus amigos, Fox.;Volte para seus amigos, Fox.
