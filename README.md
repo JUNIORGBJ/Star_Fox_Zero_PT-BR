@@ -8,16 +8,16 @@
 
 ### 🟢 Progresso Geral
 
-**79.17%**
+**83.33%**
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜
 
-<progress value="19" max="24"></progress>
+<progress value="20" max="24"></progress>
 
 | 📁 Estatística | Quantidade |
 |---------------|-----------:|
-| ✅ Traduzidos | **19** |
-| ⏳ Restantes | **5** |
+| ✅ Traduzidos | **20** |
+| ⏳ Restantes | **4** |
 | 📦 Total | **24** |
 
 <!-- PROGRESS_END -->
