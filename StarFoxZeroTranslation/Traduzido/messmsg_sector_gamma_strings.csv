@@ -1,0 +1,114 @@
+INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
+0;00BB65FB;FOX_SECTOR_GAMMA_001;0;0;0;0;0;Nos encargaremos de ellos;Vamos cuidar deles
+1;00BB65FB;FOX_SECTOR_GAMMA_001;0;0;0;1;1;con mucho gusto.;com prazer.
+2;6EB504D7;FOX_SECTOR_GAMMA_003;1;0;0;0;0;ROB, ¿todo en orden?;ROB, está tudo certo?
+3;07D6A1E2;FOX_SECTOR_GAMMA_005;2;0;0;0;0;Uno menos. ¡A por el siguiente!;Um a menos. Vamos para o próximo!
+4;1EDFF058;FOX_SECTOR_GAMMA_006;3;0;0;0;0;Ya van dos. ¡Solo queda uno!;Já são dois. Falta só um!
+5;69D8C0CE;FOX_SECTOR_GAMMA_007;4;0;0;0;0;¡Aguantad, chicos!;Aguentem firme, pessoal!
+6;7967DD5F;FOX_SECTOR_GAMMA_008;5;0;0;0;0;¡Bien! ¡Esos misiles ya no son;Ótimo! Esses mísseis já não são
+7;7967DD5F;FOX_SECTOR_GAMMA_008;5;0;0;1;1;una amenaza!;uma ameaça!
+8;0E60EDC9;FOX_SECTOR_GAMMA_009;6;0;0;0;0;Me encantan los desafíos.;Adoro desafios.
+9;0E60EDC9;FOX_SECTOR_GAMMA_009;6;0;0;1;1;¡A por ellos, chicos!;Vamos lá, pessoal!
+10;6EA7642C;FOX_SECTOR_GAMMA_010;7;0;0;0;0;¡Misil destruido!;Míssil destruído!
+11;19A054BA;FOX_SECTOR_GAMMA_011;8;0;0;0;0;¡A por el siguiente!;Vamos para o próximo!
+12;00A90500;FOX_SECTOR_GAMMA_012;9;0;0;0;0;¡Bien! ¿Cuántos quedan?;Ótimo! Quantos ainda restam?
+13;77AE3596;FOX_SECTOR_GAMMA_013;10;0;0;0;0;¿Cuál es el estado del Great Fox?;Como está a situação da Great Fox?
+14;69CAA035;FOX_SECTOR_GAMMA_014;11;0;0;0;0;Solo queda uno.;Só falta um.
+15;69CAA035;FOX_SECTOR_GAMMA_014;11;0;0;1;1;¡Vamos, un último esfuerzo!;Vamos lá, um último esforço!
+16;1ECD90A3;FOX_SECTOR_GAMMA_015;12;0;0;0;0;Este es el último.;Este é o último.
+17;1ECD90A3;FOX_SECTOR_GAMMA_015;12;0;0;1;1;¡A por todas, chicos!;Vamos com tudo, galera!
+18;07C4C119;FOX_SECTOR_GAMMA_016;13;0;0;0;0;Creo que ya no quedan más.;Acho que não sobrou mais nenhum.
+19;70C3F18F;FOX_SECTOR_GAMMA_017;14;0;0;0;0;¿Todo bien, ROB?;Tudo bem, ROB?
+20;607CEC1E;FOX_SECTOR_GAMMA_018;15;0;0;0;0;Recibido. ¡A terminar el trabajo, chicos!;Entendido. Vamos terminar o trabalho, galera!
+21;177BDC88;FOX_SECTOR_GAMMA_019;16;0;0;0;0;¡¿Dónde estamos?!;Onde estamos?!
+22;458A37EF;FOX_SECTOR_GAMMA_020;17;0;0;0;0;Entendido. ¡No hagas locuras!;Entendido. Não faça loucuras!
+23;328D0779;FOX_SECTOR_GAMMA_021;18;0;0;0;0;Menuda exhibición, Peppy.;Ei, Peppy... Estou impressionado!
+24;328D0779;FOX_SECTOR_GAMMA_021;18;0;0;1;1;¡Podrías con Andross tú solo!;Você daria conta do Andross sozinho!
+25;7AA60CB5;FALCO_SECTOR_GAMMA_007;19;0;0;0;0;¡No consigo librarme de este moscón!;Não consigo me livrar desse chato!
+26;6A191124;FALCO_SECTOR_GAMMA_008;20;0;0;0;0;Cómo odio deberte un favor...;Como eu odeio te dever um favor...
+27;1D1E21B2;FALCO_SECTOR_GAMMA_009;21;0;0;0;0;¡Me apunto!;Conta comigo!
+28;7DD9A857;FALCO_SECTOR_GAMMA_010;22;0;0;0;0;¿Por qué nunca aprenden los malos?;Por que os vilões nunca aprendem?
+29;0ADE98C1;FALCO_SECTOR_GAMMA_011;23;0;0;0;0;Voy a acabar con un misil.;Vou finalizar com um míssil.
+30;13D7C97B;FALCO_SECTOR_GAMMA_012;24;0;0;0;0;¿Tienes algún pasajero indeseado,;Você um passageiro indesejado,
+31;13D7C97B;FALCO_SECTOR_GAMMA_012;24;0;0;1;1;Fox? ¡Haz un tonel!;Fox? Faça looping!
+32;64D0F9ED;FALCO_SECTOR_GAMMA_013;25;0;0;0;0;¡Ahí le duele!;Parece que está funcionando!
+33;7AB46C4E;FALCO_SECTOR_GAMMA_014;26;0;0;0;0;No lancemos las campanas al vuelo.;Não vamos nos precipitar.
+34;0DB35CD8;FALCO_SECTOR_GAMMA_015;27;0;0;0;0;Ha faltado muy poco.;Faltou muito pouco.
+35;14BA0D62;FALCO_SECTOR_GAMMA_016;28;0;0;0;0;¡Yo me encargo de esos incordios!;Deixa que eu cuido desses chatos!
+36;63BD3DF4;FALCO_SECTOR_GAMMA_017;29;0;0;0;0;Reconozco que me has;Admito que você me
+37;63BD3DF4;FALCO_SECTOR_GAMMA_017;29;0;0;1;1;sorprendido, Fox.;surpreendeu, Fox.
+38;040510F3;FALCO_SECTOR_GAMMA_019;30;0;0;0;0;¡De esto me ocupo yo!;Deixa comigo!
+39;7E6CB213;PEPPY_SECTOR_GAMMA_005;31;0;0;0;0;¡Ayúdame, Fox! ¡No me lo puedo;Me ajude, Fox! Não consigo
+40;7E6CB213;PEPPY_SECTOR_GAMMA_005;31;0;0;1;1;quitar de encima!;me livrar dele!
+41;6765E3A9;PEPPY_SECTOR_GAMMA_006;32;0;0;0;0;¡Me has salvado el pellejo!;Você me salvou!
+42;6765E3A9;PEPPY_SECTOR_GAMMA_006;32;0;0;1;1;¡Ahora vamos a por los misiles!;Agora vamos pegar os mísseis!
+43;1062D33F;PEPPY_SECTOR_GAMMA_007;33;0;0;0;0;¡Son enormes!;São enormes!
+44;00DDCEAE;PEPPY_SECTOR_GAMMA_008;34;0;0;0;0;Mal asunto. ¡No os despistéis!;Situação complicada. Não se distraiam!
+45;77DAFE38;PEPPY_SECTOR_GAMMA_009;35;0;0;0;0;¡Voy a por un misil!;Vou atrás de um míssil!
+46;171D77DD;PEPPY_SECTOR_GAMMA_010;36;0;0;0;0;¡Fox, haz un tonel para zafarte!;Fox, dê um looping para escapar!
+47;601A474B;PEPPY_SECTOR_GAMMA_011;37;0;0;0;0;¡Tiene que haber algún punto débil!;Tem que ter algum ponto fraco!
+48;791316F1;PEPPY_SECTOR_GAMMA_012;38;0;0;0;0;¡Dispara a los cañones giratorios!;Atire nos canhões giratórios!
+49;0E142667;PEPPY_SECTOR_GAMMA_013;39;0;0;0;0;¡Bien! ¡Se está desmoronando!;Ótimo! Está desmoronando!
+50;1070B3C4;PEPPY_SECTOR_GAMMA_014;40;0;0;0;0;Esta vez ha faltado poco...;Desta vez foi por pouco...
+51;67778352;PEPPY_SECTOR_GAMMA_015;41;0;0;0;0;Fox, tú ocúpate de los misiles;Fox, cuida dos mísseis
+52;67778352;PEPPY_SECTOR_GAMMA_015;41;0;0;1;1;que queden, ¿vale?;que sobraram, tá?
+53;7E7ED2E8;PEPPY_SECTOR_GAMMA_016;42;0;0;0;0;¡Vámonos de aquí!;Vamos dar o fora daqui!
+54;19C6FFEF;PEPPY_SECTOR_GAMMA_018;43;0;0;0;0;¡Yo me ocupo, Fox!;Deixa comigo, Fox!
+55;6EC1CF79;PEPPY_SECTOR_GAMMA_019;44;0;0;0;0;Con ese vehículo no podrás luchar;Com esse veículo você não vai conseguir lutar
+56;6EC1CF79;PEPPY_SECTOR_GAMMA_019;44;0;0;1;1;en el espacio. ¡Yo me ocupo!;no espaço. Deixa comigo!
+57;3C30241E;PEPPY_SECTOR_GAMMA_020;45;0;0;0;0;Bien, ya llevo la mitad.;Ótimo, já acertei metade.
+58;4B371488;PEPPY_SECTOR_GAMMA_021;46;0;0;0;0;Ya solo queda un cañón.;Só resta mais um canhão.
+59;4B371488;PEPPY_SECTOR_GAMMA_021;46;0;0;1;1;Uf, menos mal...;Ufa, que bom...
+60;523E4532;PEPPY_SECTOR_GAMMA_022;47;0;0;0;0;¡Aaaaaah!;Aaaaaah!
+61;253975A4;PEPPY_SECTOR_GAMMA_023;48;0;0;0;0;¡Ja! ¡Nunca subestimes a Star Fox!;Ha! Nunca subestime o Star Fox!
+62;3B5DE007;PEPPY_SECTOR_GAMMA_024;49;0;0;0;0;Je, je. Aún me queda para jubilarme.;He, he. Ainda tenho um tempinho até me aposentar.
+63;3B5DE007;PEPPY_SECTOR_GAMMA_024;49;0;0;1;1;¡Vámonos de aquí, Fox!;Vamos dar o fora daqui, Fox!
+64;4C5AD091;PEPPY_SECTOR_GAMMA_025;50;0;0;0;0;¡Usa el turbo para acelerar!;Usa o turbo para acelerar!
+65;5553812B;PEPPY_SECTOR_GAMMA_026;51;0;0;0;0;¡No!;Não!
+66;2254B1BD;PEPPY_SECTOR_GAMMA_027;52;0;0;0;0;¡Un enemigo menos!;Um inimigo a menos!
+67;2F437FE2;SLIPPY_SECTOR_GAMMA_005;53;0;0;0;0;¡No! ¡Está atravesando mi escudo!;Não! Ele está atravessando meu escudo!
+68;364A2E58;SLIPPY_SECTOR_GAMMA_006;54;0;0;0;0;¡Gracias, Fox! ¡Creía que era mi fin!;Obrigado, Fox! Achei que fosse minha hora!
+69;414D1ECE;SLIPPY_SECTOR_GAMMA_007;55;0;0;0;0;¡Esos misiles son historia!;Esses mísseis já são história!
+70;51F2035F;SLIPPY_SECTOR_GAMMA_008;56;0;0;0;0;¡Necesito un respiro!;Preciso de uma pausa!
+71;26F533C9;SLIPPY_SECTOR_GAMMA_009;57;0;0;0;0;¡Yo me encargo de un misil!;Eu cuido de um míssil!
+72;4632BA2C;SLIPPY_SECTOR_GAMMA_010;58;0;0;0;0;¡Haz un tonel para sacudirte;Faça dê um giro para se livrar
+73;4632BA2C;SLIPPY_SECTOR_GAMMA_010;58;0;0;1;1;al robot de encima!;do robô!
+74;31358ABA;SLIPPY_SECTOR_GAMMA_011;59;0;0;0;0;¡Le han salido más cañones!;Surgiram mais canhões!
+75;283CDB00;SLIPPY_SECTOR_GAMMA_012;60;0;0;0;0;¡Conmigo aquí, no había;Comigo aqui, não havia
+76;283CDB00;SLIPPY_SECTOR_GAMMA_012;60;0;0;1;1;de qué preocuparse!;com o que se preocupar!
+77;5F3BEB96;SLIPPY_SECTOR_GAMMA_013;61;0;0;0;0;¡Fox! ¡Los misiles son cosa tuya!;Fox! Os mísseis ficam por sua conta!
+78;415F7E35;SLIPPY_SECTOR_GAMMA_014;62;0;0;0;0;¡Has estado increíble!;Você foi incrível!
+79;2F511F19;SLIPPY_SECTOR_GAMMA_016;63;0;0;0;0;¡Lo tengo controlado, Fox!;Estou no controle, Fox!
+80;7C225E68;NAUS_SECTOR_GAMMA_004;64;0;0;0;0;Distancia restante: 50.;Míssil em aproximação. Distância: 50.
+81;0B256EFE;NAUS_SECTOR_GAMMA_005;65;0;0;0;0;Distancia restante: 20.;Míssil em aproximação. Distância: 20.
+82;15539BA6;NAUS_SECTOR_GAMMA_011;66;0;0;0;0;Objetos no identificados;Objetos não identificados
+83;15539BA6;NAUS_SECTOR_GAMMA_011;66;0;0;1;1;se aproximan al Great Fox.;se aproximam da Great Fox.
+84;0C5ACA1C;NAUS_SECTOR_GAMMA_012;67;0;0;0;0;Hay robots de ataque en la cubierta;Há robôs de ataque no convés
+85;0C5ACA1C;NAUS_SECTOR_GAMMA_012;67;0;0;1;1;de la nave. Solicito ayuda.;da nave. Solicito ajuda.
+86;0B370E05;NAUS_SECTOR_GAMMA_016;68;0;0;0;0;Situación crítica. No queda otra opción;Situação crítica. Não resta outra opção
+87;0B370E05;NAUS_SECTOR_GAMMA_016;68;0;0;1;1;que sacrificar el Great Fox.;a não ser sacrificar a Great Fox.
+88;7C303E93;NAUS_SECTOR_GAMMA_017;69;0;0;0;0;Destrucción... inevitable.;Destruição... inevitável.
+89;4979F8F3;NAUS_SECTOR_GAMMA_020;70;0;0;0;0;Todos los robots han sido destruidos.;Todos os robôs foram destruídos.
+90;4979F8F3;NAUS_SECTOR_GAMMA_020;70;0;0;1;1;El Great Fox está a salvo.;A Great Fox está a salvo.
+91;201A5DC6;NAUS_SECTOR_GAMMA_026;71;0;0;0;0;Distancia: 100.;Distância: 100.
+92;2765F924;NAUS_SECTOR_GAMMA_031;72;0;0;0;0;Distancia: 50.;Distância: 50.
+93;496B9808;NAUS_SECTOR_GAMMA_033;73;0;0;0;0;Distancia: 30.;Distância: 30.
+94;570F0DAB;NAUS_SECTOR_GAMMA_034;74;0;0;0;0;Distancia: 20.;Distância: 20.
+95;20083D3D;NAUS_SECTOR_GAMMA_035;75;0;0;0;0;Distancia: 10.;Distância: 10.
+96;6F49ABFA;NAUS_SECTOR_GAMMA_045;76;0;0;0;0;La nave funciona con normalidad.;A nave está funcionando normalmente.
+97;7640FA40;NAUS_SECTOR_GAMMA_046;77;0;0;0;0;Misiles a la vista. Hay que destruirlos;Mísseis à vista. Precisamos destruí-los
+98;7640FA40;NAUS_SECTOR_GAMMA_046;77;0;0;1;1;antes de que lleguen al portal.;antes que cheguem ao portal.
+99;0147CAD6;NAUS_SECTOR_GAMMA_047;78;0;0;0;0;Ya solo queda ocuparnos;Agora só nos resta lidar
+100;0147CAD6;NAUS_SECTOR_GAMMA_047;78;0;0;1;1;de los misiles.;com os mísseis.
+101;11F8D747;NAUS_SECTOR_GAMMA_048;79;0;0;0;0;El Great Fox ha sufrido;A Great Fox sofreu
+102;11F8D747;NAUS_SECTOR_GAMMA_048;79;0;0;1;1;cuantiosos daños.;danos consideráveis.
+103;66FFE7D1;NAUS_SECTOR_GAMMA_049;80;0;0;0;0;El escudo de la nave;O escudo da nave
+104;66FFE7D1;NAUS_SECTOR_GAMMA_049;80;0;0;1;1;no resistirá mucho más.;não vai resistir por muito mais tempo.
+105;06386E34;NAUS_SECTOR_GAMMA_050;81;0;0;0;0;Nueva amenaza detectada.;Nova ameaça detectada.
+106;51739DDC;PEPPER_SECTOR_GAMMA_001;82;0;0;0;0;¡Star Fox! ¡Hemos localizado;Star Fox! Localizamos
+107;51739DDC;PEPPER_SECTOR_GAMMA_001;82;0;0;1;1;un portal en ese sector!;um portal nesse setor!
+108;487ACC66;PEPPER_SECTOR_GAMMA_002;83;0;0;0;0;¡Planean usarlo para atacar Corneria!;Eles planejam usá-lo para atacar Corneria!
+109;6713EEE0;SOLDIER_SECTOR_GAMMA_001;84;0;0;0;0;¿Una sola nave contra nosotros?;Uma única nave contra nós?
+110;6713EEE0;SOLDIER_SECTOR_GAMMA_001;84;0;0;1;1;¡Qué insulto! ¡Derribadla de un cañonazo!;Que insulto! Derrubem-na com um tiro de canhão!
+111;7E1ABF5A;SOLDIER_SECTOR_GAMMA_002;85;0;0;0;0;¡¿Cómo ha podido vencernos;Como essa velharia
+112;7E1ABF5A;SOLDIER_SECTOR_GAMMA_002;85;0;0;1;1;este vejestorio?!;conseguiu nos derrotar?!
