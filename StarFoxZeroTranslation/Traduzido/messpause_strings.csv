@@ -68,7 +68,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 66;1DFD1045;PAU_CONTROLS_001;43;1;1;0;0;Controles del Arwing;Controles da Arwing
 67;04F441FF;PAU_CONTROLS_002;44;0;0;0;0;Láser;lazer
 68;73F37169;PAU_CONTROLS_003;45;0;0;0;0;Fijar objetivo;Visualizar objetivo
-69;6D97E4CA;PAU_CONTROLS_004;46;0;0;0;0;Rizo;Loop
+69;6D97E4CA;PAU_CONTROLS_004;46;0;0;0;0;Rizo;Looping
 70;1A90D45C;PAU_CONTROLS_005;47;0;0;0;0;Cambio de sentido;Retorno
 71;039985E6;PAU_CONTROLS_006;48;0;0;0;0;Turbo;Turbo
 72;749EB570;PAU_CONTROLS_007;49;0;0;0;0;Frenar;Freio
@@ -87,7 +87,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 85;7D3A99A0;PAU_CONTROLS_018;60;0;0;0;0;Láser simple;Laser único
 86;0A3DA936;PAU_CONTROLS_019;61;0;0;0;0;o {button:29} Bomba;ou {button:29} Bomba
 87;58CC4251;PAU_CONTROLS_020;62;0;0;0;0;Recalibrar mirilla;Recalibrar o visor
-88;0E96E5D7;PAU_CONTROLS_040;63;0;0;0;0;Rizo;Loop
+88;0E96E5D7;PAU_CONTROLS_040;63;0;0;0;0;Rizo;Looping
 89;7991D541;PAU_CONTROLS_041;64;0;0;0;0;Cambio de sentido;Retorno
 90;609884FB;PAU_CONTROLS_042;65;0;0;0;0;Tonel;Girar
 91;178DD496;PAU_CONTROLS_050;66;0;0;0;0;(Rápidamente);(Rapidamente)
@@ -99,7 +99,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 97;3BCD434C;PAU_CONTROLS_064;72;0;0;0;0;{button:39}{button:100} + {button:200}{button:40};{button:39}{button:100} + {button:200}{button:40}
 98;25BBB614;PAU_CONTROLS_070;73;0;0;0;0;Sorprende a tus;Surpreenda seus
 99;25BBB614;PAU_CONTROLS_070;73;0;0;1;1;perseguidores;perseguidores
-100;25BBB614;PAU_CONTROLS_070;73;0;0;2;2;haciendo un rizo.;fazendo um loop.
+100;25BBB614;PAU_CONTROLS_070;73;0;0;2;2;haciendo un rizo.;fazendo um Looping.
 101;52BC8682;PAU_CONTROLS_071;74;0;0;0;0;Usa esta maniobra para;Use esta manobra para
 102;52BC8682;PAU_CONTROLS_071;74;0;0;1;1;cambiar de sentido;mudar de direcão
 103;52BC8682;PAU_CONTROLS_071;74;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
@@ -112,9 +112,9 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 110;6B2A2A1F;PAU_CONTROLS_113;79;0;0;0;0;Paso lateral;Desviar
 111;754EBFBC;PAU_CONTROLS_114;80;0;0;0;0;Girar;Girar
 112;02498F2A;PAU_CONTROLS_115;81;0;0;0;0;Moverse;Mover
-113;1B40DE90;PAU_CONTROLS_116;82;0;0;0;0;Voltereta;Loop
+113;1B40DE90;PAU_CONTROLS_116;82;0;0;0;0;Voltereta;Looping
 114;0F548FE0;PAU_CONTROLS_140;83;0;0;0;0;Paso lateral;Desviar
-115;7853BF76;PAU_CONTROLS_141;84;0;0;0;0;Voltereta;Loop
+115;7853BF76;PAU_CONTROLS_141;84;0;0;0;0;Voltereta;Looping
 116;615AEECC;PAU_CONTROLS_142;85;0;0;0;0;Tonel;Girar
 117;164FBEA1;PAU_CONTROLS_150;86;0;0;0;0;;
 118;3D62ED62;PAU_CONTROLS_160;87;0;0;0;0;{button:L} + {button:41}{button:100}{button:42};{button:L} + {button:41}{button:100}{button:42}
@@ -242,12 +242,12 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 240;18B206C0;PAU_CONTROLS_701;160;1;1;0;0;Controles del Arwing negro;Controles da Arwing preto
 241;276CBC5E;PAU_CONTROLS_780;161;0;0;0;0;Funciones del Arwing negro;Recursos do Arwing preto
 242;276CBC5E;PAU_CONTROLS_780;161;1;1;0;0;Funciones del Arwing negro;Recursos do Arwing preto
-243;0BD9F352;PAU_CONTROLS_740;162;0;0;0;0;Rizo;Loop
+243;0BD9F352;PAU_CONTROLS_740;162;0;0;0;0;Rizo;Looping
 244;39EF91D0;PAU_CONTROLS_760;163;0;0;0;0;{button:40}{button:100} + {button:200}{button:43};{button:40}{button:100} + {button:200}{button:43}
 245;20E6C06A;PAU_CONTROLS_763;164;0;0;0;0;{button:39}{button:100} + {button:200}{button:43};{button:39}{button:100} + {button:200}{button:43}
 246;20F4A091;PAU_CONTROLS_770;165;0;0;0;0;Sorprende a tus;Surpreenda seus
 247;20F4A091;PAU_CONTROLS_770;165;0;0;1;1;perseguidores;inimigos fazendo
-248;20F4A091;PAU_CONTROLS_770;165;0;0;2;2;haciendo un rizo.;um loop.
+248;20F4A091;PAU_CONTROLS_770;165;0;0;2;2;haciendo un rizo.;um Looping.
 249;7CDEC3C4;PAU_CONTROLS_741;166;0;0;0;0;Cambio de sentido;Retorno
 250;4EE8A146;PAU_CONTROLS_761;167;0;0;0;0;{button:40}{button:100} + {button:200}{button:40};{button:40}{button:100} + {button:200}{button:40}
 251;3E8255C9;PAU_CONTROLS_764;168;0;0;0;0;{button:39}{button:100} + {button:200}{button:40};{button:39}{button:100} + {button:200}{button:40}
@@ -262,12 +262,12 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 260;13EE41FD;PAU_CONTROLS_801;173;1;1;0;0;Controles del Arwing retro;Controles da Arwing clássica
 261;2C30FB63;PAU_CONTROLS_880;174;0;0;0;0;Funciones del Arwing retro;Recursos da Arwing clássica
 262;2C30FB63;PAU_CONTROLS_880;174;1;1;0;0;Funciones del Arwing retro;Recursos da Arwing clássica
-263;0085B46F;PAU_CONTROLS_840;175;0;0;0;0;Rizo;Loop
+263;0085B46F;PAU_CONTROLS_840;175;0;0;0;0;Rizo;Looping
 264;32B3D6ED;PAU_CONTROLS_860;176;0;0;0;0;{button:40}{button:100} + {button:200}{button:43};{button:40}{button:100} + {button:200}{button:43}
 265;2BBA8757;PAU_CONTROLS_863;177;0;0;0;0;{button:39}{button:100} + {button:200}{button:43};{button:39}{button:100} + {button:200}{button:43}
 266;2BA8E7AC;PAU_CONTROLS_870;178;0;0;0;0;Sorprende a tus;Surpreenda seus
 267;2BA8E7AC;PAU_CONTROLS_870;178;0;0;1;1;perseguidores;inimigos fazendo
-268;2BA8E7AC;PAU_CONTROLS_870;178;0;0;2;2;haciendo un rizo.;um loop.
+268;2BA8E7AC;PAU_CONTROLS_870;178;0;0;2;2;haciendo un rizo.;um Looping.
 269;778284F9;PAU_CONTROLS_841;179;0;0;0;0;Cambio de sentido;Retorno
 270;45B4E67B;PAU_CONTROLS_861;180;0;0;0;0;{button:40}{button:100} + {button:200}{button:40};{button:40}{button:100} + {button:200}{button:40}
 271;35DE12F4;PAU_CONTROLS_864;181;0;0;0;0;{button:39}{button:100} + {button:200}{button:40};{button:39}{button:100} + {button:200}{button:40}
