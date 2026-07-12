@@ -72,14 +72,14 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 70;1A90D45C;PAU_CONTROLS_005;47;0;0;0;0;Cambio de sentido;Retorno
 71;039985E6;PAU_CONTROLS_006;48;0;0;0;0;Turbo;Turbo
 72;749EB570;PAU_CONTROLS_007;49;0;0;0;0;Frenar;Freio
-73;6421A8E1;PAU_CONTROLS_008;50;0;0;0;0;Tonel;Barril
+73;6421A8E1;PAU_CONTROLS_008;50;0;0;0;0;Tonel;Girar
 74;13269877;PAU_CONTROLS_009;51;0;0;0;0;Transformarse;Transformar
 75;73E11192;PAU_CONTROLS_010;52;0;0;0;0;Cambiar vista;Alterar visualizacão
 76;04E62104;PAU_CONTROLS_011;53;0;0;0;0;Moverse;Mover
 77;1DEF70BE;PAU_CONTROLS_012;54;0;0;0;0;Mantener pulsado y soltar:;Segure e solte:
 78;1DEF70BE;PAU_CONTROLS_012;54;0;0;1;1;disparo cargado;disparo carregado
 79;6AE84028;PAU_CONTROLS_013;55;0;0;0;0;Inclinar;Inclinar
-80;748CD58B;PAU_CONTROLS_014;56;0;0;0;0;Tonel;Barril
+80;748CD58B;PAU_CONTROLS_014;56;0;0;0;0;Tonel;Girar
 81;038BE51D;PAU_CONTROLS_015;57;0;0;0;0;o {button:Y} Recalibrar mirilla;o {button:Y} Recalibrar o visor
 82;1A82B4A7;PAU_CONTROLS_016;58;0;0;0;0;Controles por movimiento:;Controles de movimento:
 83;1A82B4A7;PAU_CONTROLS_016;58;0;0;1;1;mover la mirilla;mova a mira
@@ -89,7 +89,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 87;58CC4251;PAU_CONTROLS_020;62;0;0;0;0;Recalibrar mirilla;Recalibrar o visor
 88;0E96E5D7;PAU_CONTROLS_040;63;0;0;0;0;Rizo;Loop
 89;7991D541;PAU_CONTROLS_041;64;0;0;0;0;Cambio de sentido;Retorno
-90;609884FB;PAU_CONTROLS_042;65;0;0;0;0;Tonel;Barril
+90;609884FB;PAU_CONTROLS_042;65;0;0;0;0;Tonel;Girar
 91;178DD496;PAU_CONTROLS_050;66;0;0;0;0;(Rápidamente);(Rapidamente)
 92;608AE400;PAU_CONTROLS_051;67;0;0;0;0;(Rápidamente);(Rapidamente)
 93;3CA08755;PAU_CONTROLS_060;68;0;0;0;0;{button:40}{button:100} + {button:200}{button:43};{button:40}{button:100} + {button:200}{button:43}
@@ -115,7 +115,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 113;1B40DE90;PAU_CONTROLS_116;82;0;0;0;0;Voltereta;Loop
 114;0F548FE0;PAU_CONTROLS_140;83;0;0;0;0;Paso lateral;Desviar
 115;7853BF76;PAU_CONTROLS_141;84;0;0;0;0;Voltereta;Loop
-116;615AEECC;PAU_CONTROLS_142;85;0;0;0;0;Tonel;Barril
+116;615AEECC;PAU_CONTROLS_142;85;0;0;0;0;Tonel;Girar
 117;164FBEA1;PAU_CONTROLS_150;86;0;0;0;0;;
 118;3D62ED62;PAU_CONTROLS_160;87;0;0;0;0;{button:L} + {button:41}{button:100}{button:42};{button:L} + {button:41}{button:100}{button:42}
 119;4A65DDF4;PAU_CONTROLS_161;88;0;0;0;0;{button:40}{button:100} + {button:200}{button:43};{button:40}{button:100} + {button:200}{button:43}
@@ -183,7 +183,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 181;1AE6D862;PAU_CONTROLS_412;125;0;0;1;1;misil;míssil
 182;6DE1E8F4;PAU_CONTROLS_413;126;0;0;0;0;Moverse;Mover
 183;6DE1E8F4;PAU_CONTROLS_413;126;0;0;1;1;de lado;Desviar
-184;099F4D0B;PAU_CONTROLS_440;127;0;0;0;0;Tonel;Barril
+184;099F4D0B;PAU_CONTROLS_440;127;0;0;0;0;Tonel;Girar
 185;7E987D9D;PAU_CONTROLS_441;128;0;0;0;0;Multiobjetivo;Multi-alvo
 186;67912C27;PAU_CONTROLS_442;129;0;0;0;0;Transformarse;Transformar
 187;10847C4A;PAU_CONTROLS_450;130;0;0;0;0;;
@@ -254,7 +254,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 252;57F39007;PAU_CONTROLS_771;169;0;0;0;0;Usa esta maniobra para;Utilize esta manobra
 253;57F39007;PAU_CONTROLS_771;169;0;0;1;1;cambiar de sentido;para mudar de direcão
 254;57F39007;PAU_CONTROLS_771;169;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
-255;65D7927E;PAU_CONTROLS_742;170;0;0;0;0;Tonel;Barril
+255;65D7927E;PAU_CONTROLS_742;170;0;0;0;0;Tonel;Girar
 256;57E1F0FC;PAU_CONTROLS_762;171;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
 257;4EFAC1BD;PAU_CONTROLS_772;172;0;0;0;0;Haz girar la nave para;Gire anave para
 258;4EFAC1BD;PAU_CONTROLS_772;172;0;0;1;1;repeler el fuego enemigo.;repelir o fogo inimigo.
@@ -274,7 +274,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 272;5CAFD73A;PAU_CONTROLS_871;182;0;0;0;0;Usa esta maniobra para;Utilize esta manobra
 273;5CAFD73A;PAU_CONTROLS_871;182;0;0;1;1;cambiar de sentido;para mudar de direcão
 274;5CAFD73A;PAU_CONTROLS_871;182;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
-275;6E8BD543;PAU_CONTROLS_842;183;0;0;0;0;Tonel;Barril
+275;6E8BD543;PAU_CONTROLS_842;183;0;0;0;0;Tonel;Girar
 276;5CBDB7C1;PAU_CONTROLS_862;184;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
 277;45A68680;PAU_CONTROLS_872;185;0;0;0;0;Haz girar la nave para;Gire a nave para
 278;45A68680;PAU_CONTROLS_872;185;0;0;1;1;repeler el fuego enemigo.;repelir o fogo inimigo.
@@ -294,7 +294,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 292;5D6DBD0D;PAU_CONTROLS_971;195;0;0;0;0;Usa esta maniobra para;Utilize esta manobra
 293;5D6DBD0D;PAU_CONTROLS_971;195;0;0;1;1;cambiar de sentido;para mudar de direcão
 294;5D6DBD0D;PAU_CONTROLS_971;195;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
-295;6F49BF74;PAU_CONTROLS_942;196;0;0;0;0;Tonel;Barril
+295;6F49BF74;PAU_CONTROLS_942;196;0;0;0;0;Tonel;Girar
 296;5D7FDDF6;PAU_CONTROLS_962;197;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
 297;4464ECB7;PAU_CONTROLS_972;198;0;0;0;0;Haz girar la nave para;Gire a nave para
 298;4464ECB7;PAU_CONTROLS_972;198;0;0;1;1;repeler el fuego enemigo.;repelir o fogo inimigo.
@@ -314,7 +314,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 312;6B91675B;PAU_CONTROLS_1071;208;0;0;0;0;Usa esta maniobra para;Utilize esta manobra
 313;6B91675B;PAU_CONTROLS_1071;208;0;0;1;1;cambiar de sentido;para mudar de direcão
 314;6B91675B;PAU_CONTROLS_1071;208;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
-315;59B56522;PAU_CONTROLS_1042;209;0;0;0;0;Tonel;Barril
+315;59B56522;PAU_CONTROLS_1042;209;0;0;0;0;Tonel;Girar
 316;6B8307A0;PAU_CONTROLS_1062;210;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
 317;729836E1;PAU_CONTROLS_1072;211;0;0;0;0;Haz girar la nave para;Gire a nave para
 318;729836E1;PAU_CONTROLS_1072;211;0;0;1;1;repeler el fuego enemigo.;repelir o fogo inimigo.
