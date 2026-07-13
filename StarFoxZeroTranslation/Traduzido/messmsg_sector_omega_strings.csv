@@ -5,7 +5,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 3;67B1EE17;FOX_SECTOR_OMEGA_002;1;0;0;1;1;pero tengo prisa!;mas estou com pressa!
 4;10B6DE81;FOX_SECTOR_OMEGA_003;2;0;0;0;0;¡Cambiando a modo abierto!;Mudando para o modo livre!
 5;0ED24B22;FOX_SECTOR_OMEGA_004;3;0;0;0;0;¡Recibido!;Entendido!
-6;6DC673D6;FALCO_SECTOR_OMEGA_001;4;0;0;0;0;¡Os voy a enseñar a pilotar de verdad!;Vou mostrar a vocês como se pilota de verdade!
+6;6DC673D6;FALCO_SECTOR_OMEGA_001;4;0;0;0;0;¡Os voy a enseñar a pilotar de verdad!;Vou mostrar a vocês como se pilota na boa!
 7;74CF226C;FALCO_SECTOR_OMEGA_002;5;0;0;0;0;¡Detrás de ti!;Estou atrás de você!
 8;03C812FA;FALCO_SECTOR_OMEGA_003;6;0;0;0;0;¡Esto es peor que volar cuando;É pior do que voar
 9;03C812FA;FALCO_SECTOR_OMEGA_003;6;0;0;1;1;hay niebla!;na neblina!
@@ -58,7 +58,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 56;771E559A;SOLDIER_SECTOR_OMEGA_003;46;0;0;0;0;¡a vuestra perdición! ¡Ja, ja, ja, ja!;à sua perdição! Ha, ha, ha, ha!
 57;697AC039;SOLDIER_SECTOR_OMEGA_004;47;0;0;0;0;¡Malditas sabandijas!;Malditos vermes!
 58;1E7DF0AF;SOLDIER_SECTOR_OMEGA_005;48;0;0;0;0;¡Tomad esto!;Tomem isso!
-59;0774A115;SOLDIER_SECTOR_OMEGA_006;49;0;0;0;0;¡Ja, ja, ja! ¡No podréis conmigo!;Hah! Vocês não vão conseguir me derrotar!
+59;0774A115;SOLDIER_SECTOR_OMEGA_006;49;0;0;0;0;¡Ja, ja, ja! ¡No podréis conmigo!;Vocês não vão conseguir me derrotar!
 60;17CBBC84;SOLDIER_SECTOR_OMEGA_009;50;0;0;0;0;¡Tomad esto!;Tomem isso!
 61;770C3561;SOLDIER_SECTOR_OMEGA_010;51;0;0;0;0;Os creéis muy listos, ¿verdad?;Acham que são muito espertos, não é?
 62;000B05F7;SOLDIER_SECTOR_OMEGA_011;52;0;0;0;0;¡Jamás venceréis a Andross!;Vocês nunca vão derrotar o Andross!
