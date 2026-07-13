@@ -10,45 +10,45 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 8;4947F90D;PAU_MENU_INFO_002;8;0;0;0;0;Quieres volver a empezar;Deseja reiniciar
 9;4947F90D;PAU_MENU_INFO_002;8;0;0;1;1;la misión?;a missão?
 10;4754A8B5;PAU_MENU_INFO_802;9;0;0;0;0;Quieres volver a empezar;Deseja reiniciar
-11;4754A8B5;PAU_MENU_INFO_802;9;0;0;1;1;la simulación?;a simulacão?
+11;4754A8B5;PAU_MENU_INFO_802;9;0;0;1;1;la simulación?;a simulação?
 12;3E40C99B;PAU_MENU_INFO_003;10;0;0;0;0;Quieres abandonar la misión?;Deseja abandonar a missão?
-13;3E40C99B;PAU_MENU_INFO_003;10;0;0;1;1;Se perderán los datos no guardados.;Dados não salvos serão perdidos.
+13;3E40C99B;PAU_MENU_INFO_003;10;0;0;1;1;Se perderán los datos no guardados.;Os dados não salvos serão perdidos.
 14;3DC41DF5;PAU_MENU_INFO_203;11;0;0;0;0;Quieres regresar a;Deseja voltar para
 15;3DC41DF5;PAU_MENU_INFO_203;11;0;0;1;1;la pantalla de récords?;a tela de salvamento?
-16;3DC41DF5;PAU_MENU_INFO_203;11;0;0;2;2;Se perderán los datos no guardados.;Dados não salvos serão perdidos.
+16;3DC41DF5;PAU_MENU_INFO_203;11;0;0;2;2;Se perderán los datos no guardados.;Os dados não salvos serão perdidos.
 17;30539823;PAU_MENU_INFO_803;12;0;0;0;0;Quieres salir del modo Entrenamiento?;Deseja sair do modo Treinamento?
 18;3B0FDF1E;PAU_MENU_INFO_703;13;0;0;0;0;Quieres regresar a la pantalla;Deseja retornar a tela
-19;3B0FDF1E;PAU_MENU_INFO_703;13;0;0;1;1;de selección de misión?;de selecão de missão?
+19;3B0FDF1E;PAU_MENU_INFO_703;13;0;0;1;1;de selección de misión?;de seleção de missão?
 20;3B0FDF1E;PAU_MENU_INFO_703;13;0;0;2;2;Se perderán los datos no guardados.;Dados não salvos serão perdidos.
 21;3191F214;PAU_MENU_INFO_903;14;0;0;0;0;Quieres regresar a la pantalla;Deseja retornar a tela
-22;3191F214;PAU_MENU_INFO_903;14;0;0;1;1;de selección de misión?;de selecão de missão?
+22;3191F214;PAU_MENU_INFO_903;14;0;0;1;1;de selección de misión?;de seleção de missão?
 23;3191F214;PAU_MENU_INFO_903;14;0;0;2;2;Se perderán los datos no guardados.;Dadosnão salvos serão perdidos.
 24;0E8F90F4;PAU_MENU_BASE_303;15;0;0;0;0;Salir;Sair
-25;4B014754;PAU_MENU_INFO_302;16;0;0;0;0;Quieres utilizar los tres;Deseja usar os 3 anéis de
+25;4B014754;PAU_MENU_INFO_302;16;0;0;0;0;Quieres utilizar los tres;Deseja usar os três anéis de
 26;4B014754;PAU_MENU_INFO_302;16;0;0;1;1;aros dorados y volver;de ouro e comecar a
 27;4B014754;PAU_MENU_INFO_302;16;0;0;2;2;a empezar la misión?;missão novamente?
 28;3C0677C2;PAU_MENU_INFO_303;17;0;0;0;0;Quieres abandonar la partida?;Deseja abandonar o jogo?
-29;3C0677C2;PAU_MENU_INFO_303;17;0;0;1;1;No se guardará la puntuación actual.;A pontuacão atual não será salva.
+29;3C0677C2;PAU_MENU_INFO_303;17;0;0;1;1;No se guardará la puntuación actual.;A pontuação atual não será salva.
 30;21825ACA;PAU_MENU_INFO_500;18;0;0;0;0;Quieres repetir la misión?;Deseja repetir a missão?
 31;56856A5C;PAU_MENU_INFO_501;19;0;0;0;0;Sí;Sim
 32;4F8C3BE6;PAU_MENU_INFO_502;20;0;0;0;0;No;Não
 33;388B0B70;PAU_MENU_INFO_503;21;0;0;0;0;Se te va a enviar una caja de suministros;Receberá um pacote de suprimentos contendo 
 34;388B0B70;PAU_MENU_INFO_503;21;0;0;1;1;que contiene un emblema dorado. Al recogerlo,;um emblema dourado. Coletá-lo lhe dará
 35;388B0B70;PAU_MENU_INFO_503;21;0;0;2;2;serás invencible durante la misión,;invencibilidade durante a missão, mas
-36;388B0B70;PAU_MENU_INFO_503;21;0;0;3;3;pero no se guardará la puntuación.;sua pontuacão não será salva.
+36;388B0B70;PAU_MENU_INFO_503;21;0;0;3;3;pero no se guardará la puntuación.;sua pontuação não será salva.
 37;26EF9ED3;PAU_MENU_INFO_504;22;0;0;0;0;No;Não
 38;54C3D405;PAU_MENU_INFO_601;23;0;0;0;0;El mando del jugador 2 se ha desconectado.;Controle do jogador 2 foi desconectado.
 39;54C3D405;PAU_MENU_INFO_601;23;0;0;1;1;Puede que la batería se haya agotado.;A bateria pode estar descarregada.
 40;54C3D405;PAU_MENU_INFO_601;23;0;0;2;2;Compruébalo, conecta de nuevo el mando;Verifique, reconecte o controle
 41;54C3D405;PAU_MENU_INFO_601;23;0;0;3;3;"y selecciona ""Aceptar"" para continuar.";"e selecione ""Aceitar"" para continuar."
 42;4DCA85BF;PAU_MENU_INFO_602;24;0;0;0;0;Continuar;Continuar
-43;3ACDB529;PAU_MENU_INFO_603;25;0;0;0;0;El jugador 2 necesita un mando Pro de;Jogador 2 precisa de um Pro Controller
+43;3ACDB529;PAU_MENU_INFO_603;25;0;0;0;0;El jugador 2 necesita un mando Pro de;jogador 2 precisa de um Pro Controller
 44;3ACDB529;PAU_MENU_INFO_603;25;0;0;1;1;Wii U o un mando de Wii y un Nunchuk.;Wii U ou um Wii Remote e um Nunchuk.
 45;3ACDB529;PAU_MENU_INFO_603;25;0;0;2;2;Pulsa {button:A} en el que quieras utilizar.;Aperte {button:A} naquele que deseja usar.
 46;53AE101C;PAU_MENU_INFO_605;26;0;0;0;0;Voltar;Voltar
 47;3DA07130;PAU_MENU_INFO_607;27;0;0;0;0;Sair;Sair
-48;4AA741A6;PAU_MENU_INFO_606;28;0;0;0;0;Quieres abandonar la misión?;Deseja abandonar a missão? Seu progresso e pontuacão não serão salvos.
-49;4AA741A6;PAU_MENU_INFO_606;28;0;0;1;1;No se guardarán el progreso;Seu progresso e pontuacão
+48;4AA741A6;PAU_MENU_INFO_606;28;0;0;0;0;Quieres abandonar la misión?;Deseja abandonar a missão? Seu progresso e pontuação não serão salvos.
+49;4AA741A6;PAU_MENU_INFO_606;28;0;0;1;1;No se guardarán el progreso;Seu progresso e pontuação
 50;4AA741A6;PAU_MENU_INFO_606;28;0;0;2;2;ni la puntuación.;não serão salvos.
 51;4DD8E544;PAU_MENU_INFO_611;29;0;0;0;0;Mando del jugador 2 detectado.;Controle do jogador 2 detectado.
 52;063897D4;PAU_BUTTON_001;30;0;0;0;0;Controles;Controles
@@ -74,7 +74,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 72;749EB570;PAU_CONTROLS_007;49;0;0;0;0;Frenar;Freio
 73;6421A8E1;PAU_CONTROLS_008;50;0;0;0;0;Tonel;Girar
 74;13269877;PAU_CONTROLS_009;51;0;0;0;0;Transformarse;Transformar
-75;73E11192;PAU_CONTROLS_010;52;0;0;0;0;Cambiar vista;Alterar visualizacão
+75;73E11192;PAU_CONTROLS_010;52;0;0;0;0;Cambiar vista;Alterar visualização
 76;04E62104;PAU_CONTROLS_011;53;0;0;0;0;Moverse;Mover
 77;1DEF70BE;PAU_CONTROLS_012;54;0;0;0;0;Mantener pulsado y soltar:;Segure e solte:
 78;1DEF70BE;PAU_CONTROLS_012;54;0;0;1;1;disparo cargado;disparo carregado
@@ -101,7 +101,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 99;25BBB614;PAU_CONTROLS_070;73;0;0;1;1;perseguidores;perseguidores
 100;25BBB614;PAU_CONTROLS_070;73;0;0;2;2;haciendo un rizo.;fazendo um Looping.
 101;52BC8682;PAU_CONTROLS_071;74;0;0;0;0;Usa esta maniobra para;Use esta manobra para
-102;52BC8682;PAU_CONTROLS_071;74;0;0;1;1;cambiar de sentido;mudar de direcão
+102;52BC8682;PAU_CONTROLS_071;74;0;0;1;1;cambiar de sentido;mudar de direção
 103;52BC8682;PAU_CONTROLS_071;74;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
 104;4BB5D738;PAU_CONTROLS_072;75;0;0;0;0;Haz girar la nave para;Gire a nave para
 105;4BB5D738;PAU_CONTROLS_072;75;0;0;1;1;repeler el fuego enemigo.;repelir o fogo inimigo.
@@ -124,9 +124,9 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 122;3A0F297B;PAU_CONTROLS_164;91;0;0;0;0;{button:39}{button:100} + {button:200}{button:43};{button:39}{button:100} + {button:200}{button:43}
 123;2479DC23;PAU_CONTROLS_170;92;0;0;0;0;Movimiento útil para;Movimento útil para  
 124;2479DC23;PAU_CONTROLS_170;92;0;0;1;1;esquivar ataques y;esquivar-se de ataques e
-125;2479DC23;PAU_CONTROLS_170;92;0;0;2;2;cambiar de posición.;mudar de posicão.
+125;2479DC23;PAU_CONTROLS_170;92;0;0;2;2;cambiar de posición.;mudar de posição.
 126;537EECB5;PAU_CONTROLS_171;93;0;0;0;0;Usa esta maniobra para;Use esta manobra para
-127;537EECB5;PAU_CONTROLS_171;93;0;0;1;1;cambiar de sentido;mudar de direcão
+127;537EECB5;PAU_CONTROLS_171;93;0;0;1;1;cambiar de sentido;mudar de direção
 128;537EECB5;PAU_CONTROLS_171;93;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
 129;4A77BD0F;PAU_CONTROLS_172;94;0;0;0;0;Haz girar el vehículo para;Gire a nave para
 130;4A77BD0F;PAU_CONTROLS_172;94;0;0;1;1;repeler el fuego enemigo.;repelir o fogo inimigo.
@@ -147,7 +147,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 145;3F24533B;PAU_CONTROLS_260;107;0;0;0;0;{button:9} (Mantener/soltar);{button:9}  (segure/solte)
 146;482363AD;PAU_CONTROLS_261;108;0;0;0;0;{button:L} (Mantener);{button:L} (segure)
 147;512A3217;PAU_CONTROLS_262;109;0;0;0;0;{button:A};{button:A}
-148;263F627A;PAU_CONTROLS_270;110;0;0;0;0;Los misiles causan;Os mísseis causam
+148;263F627A;PAU_CONTROLS_270;110;0;0;0;0;Los misiles causan;Mísseis causam
 149;263F627A;PAU_CONTROLS_270;110;0;0;1;1;mayor dano a los;mais danos aos
 150;263F627A;PAU_CONTROLS_270;110;0;0;2;2;enemigos que son;inimigos resistente
 151;263F627A;PAU_CONTROLS_270;110;0;0;3;3;resistentes al láser.;ao laser.
@@ -174,7 +174,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 172;50FA38DB;PAU_CONTROLS_371;122;0;0;0;0;Sitúate sobre una bomba;Suba em uma bomba
 173;50FA38DB;PAU_CONTROLS_371;122;0;0;1;1;y baja el Direct-i para;e desca o Direct-i para
 174;50FA38DB;PAU_CONTROLS_371;122;0;0;2;2;cogerla y llevártela.;pegá-la e levá-la.
-175;49F36961;PAU_CONTROLS_372;123;0;0;0;0;Direct-i puede recorrer;O Direct-i consegue  descobrir
+175;49F36961;PAU_CONTROLS_372;123;0;0;0;0;Direct-i puede recorrer;Direct-i consegue  descobrir
 176;49F36961;PAU_CONTROLS_372;123;0;0;1;1;pasadizos estrechos y;navegar por passagens estreitas e
 177;49F36961;PAU_CONTROLS_372;123;0;0;2;2;descubrir zonas ocultas.;áreas escondidas.
 178;20651482;PAU_CONTROLS_380;124;0;0;0;0;Funciones del Direct-i;Recursos do Direct-i
@@ -195,7 +195,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 193;22B21EC8;PAU_CONTROLS_470;134;0;0;2;2;hacia un lado.;para um dos lados
 194;55B52E5E;PAU_CONTROLS_471;135;0;0;0;0;Con el láser cargado,;Com o laser carregado, 
 195;55B52E5E;PAU_CONTROLS_471;135;0;0;1;1;pasa la mirilla por;passe a mira
-196;55B52E5E;PAU_CONTROLS_471;135;0;0;2;2;hasta tres objetivos;sobre até 3 alvos
+196;55B52E5E;PAU_CONTROLS_471;135;0;0;2;2;hasta tres objetivos;sobre até três alvos
 197;55B52E5E;PAU_CONTROLS_471;135;0;0;3;3;para fijarla en ellos.;para travá-los.
 198;4CBC7FE4;PAU_CONTROLS_472;136;0;0;0;0;Transforma el vehículo;Transforme o veículo
 199;4CBC7FE4;PAU_CONTROLS_472;136;0;0;1;1;en el Gravmaster.;no Gravamaster.
@@ -218,7 +218,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 216;237074FF;PAU_CONTROLS_570;146;0;0;1;1;de turbo.;de turbo.
 217;54774469;PAU_CONTROLS_571;147;0;0;0;0;Con el láser cargado,;Com o laser carregado, 
 218;54774469;PAU_CONTROLS_571;147;0;0;1;1;pasa la mirilla por;passe a mira
-219;54774469;PAU_CONTROLS_571;147;0;0;2;2;hasta tres objetivos;sobre até 3 alvos
+219;54774469;PAU_CONTROLS_571;147;0;0;2;2;hasta tres objetivos;sobre até três alvos
 220;54774469;PAU_CONTROLS_571;147;0;0;3;3;para fijarla en ellos.;para travá-los.
 221;24E86830;PAU_CONTROLS_580;148;0;0;0;0;Funciones del Gravmaster;Recursos do Gravamaster
 222;24E86830;PAU_CONTROLS_580;148;1;1;0;0;Funciones del Gravmaster;Recursos do Gravamaster
@@ -252,7 +252,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 250;4EE8A146;PAU_CONTROLS_761;167;0;0;0;0;{button:40}{button:100} + {button:200}{button:40};{button:40}{button:100} + {button:200}{button:40}
 251;3E8255C9;PAU_CONTROLS_764;168;0;0;0;0;{button:39}{button:100} + {button:200}{button:40};{button:39}{button:100} + {button:200}{button:40}
 252;57F39007;PAU_CONTROLS_771;169;0;0;0;0;Usa esta maniobra para;Utilize esta manobra
-253;57F39007;PAU_CONTROLS_771;169;0;0;1;1;cambiar de sentido;para mudar de direcão
+253;57F39007;PAU_CONTROLS_771;169;0;0;1;1;cambiar de sentido;para mudar de direção
 254;57F39007;PAU_CONTROLS_771;169;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
 255;65D7927E;PAU_CONTROLS_742;170;0;0;0;0;Tonel;Girar
 256;57E1F0FC;PAU_CONTROLS_762;171;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
@@ -272,7 +272,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 270;45B4E67B;PAU_CONTROLS_861;180;0;0;0;0;{button:40}{button:100} + {button:200}{button:40};{button:40}{button:100} + {button:200}{button:40}
 271;35DE12F4;PAU_CONTROLS_864;181;0;0;0;0;{button:39}{button:100} + {button:200}{button:40};{button:39}{button:100} + {button:200}{button:40}
 272;5CAFD73A;PAU_CONTROLS_871;182;0;0;0;0;Usa esta maniobra para;Utilize esta manobra
-273;5CAFD73A;PAU_CONTROLS_871;182;0;0;1;1;cambiar de sentido;para mudar de direcão
+273;5CAFD73A;PAU_CONTROLS_871;182;0;0;1;1;cambiar de sentido;para mudar de direção
 274;5CAFD73A;PAU_CONTROLS_871;182;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
 275;6E8BD543;PAU_CONTROLS_842;183;0;0;0;0;Tonel;Girar
 276;5CBDB7C1;PAU_CONTROLS_862;184;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
@@ -287,12 +287,12 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 285;431B4855;PAU_CONTROLS_965;190;0;0;0;0;{button:300} {button:41}{button:200}{button:42};{button:300} {button:41}{button:200}{button:42}
 286;2A6A8D9B;PAU_CONTROLS_970;191;0;0;0;0;Movimiento útil para;Movimento útil para  
 287;2A6A8D9B;PAU_CONTROLS_970;191;0;0;1;1;esquivar ataques y;esquivar-se de ataques
-288;2A6A8D9B;PAU_CONTROLS_970;191;0;0;2;2;cambiar de posición.;e mudar de posicão.
+288;2A6A8D9B;PAU_CONTROLS_970;191;0;0;2;2;cambiar de posición.;e mudar de posição.
 289;7640EECE;PAU_CONTROLS_941;192;0;0;0;0;Voltereta;Retorno Rápido
 290;44768C4C;PAU_CONTROLS_961;193;0;0;0;0;{button:40}{button:100} + {button:200}{button:43};{button:40}{button:100} + {button:200}{button:43}
 291;341C78C3;PAU_CONTROLS_964;194;0;0;0;0;{button:39}{button:100} + {button:200}{button:43};{button:39}{button:100} + {button:200}{button:43}
 292;5D6DBD0D;PAU_CONTROLS_971;195;0;0;0;0;Usa esta maniobra para;Utilize esta manobra
-293;5D6DBD0D;PAU_CONTROLS_971;195;0;0;1;1;cambiar de sentido;para mudar de direcão
+293;5D6DBD0D;PAU_CONTROLS_971;195;0;0;1;1;cambiar de sentido;para mudar de direção
 294;5D6DBD0D;PAU_CONTROLS_971;195;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
 295;6F49BF74;PAU_CONTROLS_942;196;0;0;0;0;Tonel;Girar
 296;5D7FDDF6;PAU_CONTROLS_962;197;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
@@ -307,12 +307,12 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 305;75E79203;PAU_CONTROLS_1065;203;0;0;0;0;{button:300} {button:41}{button:200}{button:42};{button:300} {button:41}{button:200}{button:42}
 306;1C9657CD;PAU_CONTROLS_1070;204;0;0;0;0;Movimiento útil para;Movimento útil para  
 307;1C9657CD;PAU_CONTROLS_1070;204;0;0;1;1;esquivar ataques y;esquivar-se de ataques
-308;1C9657CD;PAU_CONTROLS_1070;204;0;0;2;2;cambiar de posición.;e mudar de posicão.
+308;1C9657CD;PAU_CONTROLS_1070;204;0;0;2;2;cambiar de posición.;e mudar de posição.
 309;40BC3498;PAU_CONTROLS_1041;205;0;0;0;0;Voltereta;Retorno Rápido
 310;728A561A;PAU_CONTROLS_1061;206;0;0;0;0;{button:40}{button:100} + {button:200}{button:43};{button:40}{button:100} + {button:200}{button:43}
 311;02E0A295;PAU_CONTROLS_1064;207;0;0;0;0;{button:39}{button:100} + {button:200}{button:43};{button:39}{button:100} + {button:200}{button:43}
 312;6B91675B;PAU_CONTROLS_1071;208;0;0;0;0;Usa esta maniobra para;Utilize esta manobra
-313;6B91675B;PAU_CONTROLS_1071;208;0;0;1;1;cambiar de sentido;para mudar de direcão
+313;6B91675B;PAU_CONTROLS_1071;208;0;0;1;1;cambiar de sentido;para mudar de direção
 314;6B91675B;PAU_CONTROLS_1071;208;0;0;2;2;(solo en modo abierto).;(somente no modo livre).
 315;59B56522;PAU_CONTROLS_1042;209;0;0;0;0;Tonel;Girar
 316;6B8307A0;PAU_CONTROLS_1062;210;0;0;0;0;{button:300} {button:41}{button:41}{button:200}{button:42}{button:42};{button:300} {button:41}{button:41}{button:200}{button:42}{button:42}
