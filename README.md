@@ -22,7 +22,7 @@
 
 <!-- PROGRESS_END -->
 
-## 📥 Downloads
+## 📥 Downloads :link: [v1.0](https://github.com/JUNIORGBJ/Star_Fox_Zero_PT-BR/releases/download/v1.0/Star.Fox.Zero.Pt-Br.zip)
 
 ## 🔹 Sobre a Tradução
 
