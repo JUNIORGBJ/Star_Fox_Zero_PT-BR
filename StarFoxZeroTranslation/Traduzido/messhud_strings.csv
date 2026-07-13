@@ -1,34 +1,34 @@
 INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
 0;180AFAD6;HUD_BASE_01;0;0;0;0;0;+;+
-1;0103AB6C;HUD_BASE_02;1;0;0;0;0;Transmisión;Transmissão
+1;0103AB6C;HUD_BASE_02;1;0;0;0;0;Transmisiï¿½n;Transmissï¿½o
 2;1F673ECF;HUD_BASE_05;2;0;0;0;0;JEFE;CHEFE
 3;066E6F75;HUD_BASE_06;3;0;0;0;0;;
 4;71695FE3;HUD_BASE_07;4;0;0;0;0;!;!
 5;61D64272;HUD_BASE_08;5;0;0;0;0;Volumen;Volume
 6;16D172E4;HUD_BASE_09;6;0;0;0;0;+;+
-7;7616FB01;HUD_BASE_10;7;0;0;0;0;Récord;Recorde
+7;7616FB01;HUD_BASE_10;7;0;0;0;0;Rï¿½cord;Recorde
 8;0111CB97;HUD_BASE_11;8;0;0;0;0;ZL;ZL
 9;18189A2D;HUD_BASE_12;9;0;0;0;0;Z;Z
 10;036E5BFF;HUD_RESULT_BASE_02;10;0;0;0;0;p.;p.
-11;6A0DFECA;HUD_RESULT_BASE_04;11;0;0;0;0;superada;concluído
+11;6A0DFECA;HUD_RESULT_BASE_04;11;0;0;0;0;superada;concluï¿½do
 12;1D0ACE5C;HUD_RESULT_BASE_05;12;0;0;0;0;Total;Total
 13;1D0ACE5C;HUD_RESULT_BASE_05;12;1;1;0;0;Total;Total
 14;7304AF70;HUD_RESULT_BASE_07;13;0;0;0;0;Nuevo;Novo
-15;6D725A28;HUD_RESULT_BASE_13;14;0;0;0;0;Clasificación;Classificação
+15;6D725A28;HUD_RESULT_BASE_13;14;0;0;0;0;Clasificaciï¿½n;Classificaï¿½ï¿½o
 16;285168C7;HUD_RESULT_BASE_21;15;0;0;0;0;Fase 1;Fase 1
 17;3158397D;HUD_RESULT_BASE_22;16;0;0;0;0;Fase 2;Fase 2
 18;465F09EB;HUD_RESULT_BASE_23;17;0;0;0;0;Fase 3;Fase 3
-19;583B9C48;HUD_RESULT_BASE_24;18;0;0;0;0;Récord;Recorde
-20;2F3CACDE;HUD_RESULT_BASE_25;19;0;0;0;0;Bonificación:;Bônus:
+19;583B9C48;HUD_RESULT_BASE_24;18;0;0;0;0;Rï¿½cord;Recorde
+20;2F3CACDE;HUD_RESULT_BASE_25;19;0;0;0;0;Bonificaciï¿½n:;Bï¿½nus:
 21;518DD063;HUD_RESULT_BASE_28;20;0;0;0;0;Tus resultados;Seus resultados
 22;518DD063;HUD_RESULT_BASE_28;20;1;1;0;0;Tus resultados;Seus resultados
 23;268AE0F5;HUD_RESULT_BASE_29;21;0;0;0;0;Total:;Total:
-24;7316CF8B;HUD_RESULT_BASE_14;22;0;0;0;0;Récord:;Recorde:
+24;7316CF8B;HUD_RESULT_BASE_14;22;0;0;0;0;Rï¿½cord:;Recorde:
 25;0411FF1D;HUD_RESULT_BASE_15;23;0;0;0;0;Mejor tiempo:;Melhor tempo:
 26;1D18AEA7;HUD_RESULT_BASE_16;24;0;0;0;0;Tiempo:;Tempo:
-27;6A1F9E31;HUD_RESULT_BASE_17;25;0;0;0;0;Récord;Recorde
+27;6A1F9E31;HUD_RESULT_BASE_17;25;0;0;0;0;Rï¿½cord;Recorde
 28;6A1F9E31;HUD_RESULT_BASE_17;25;0;0;1;1;actual:;atual:
-29;2843083C;HUD_RESULT_BASE_32;26;0;0;0;0;Puntuación actual:;Pontuação atual:
+29;2843083C;HUD_RESULT_BASE_32;26;0;0;0;0;Puntuaciï¿½n actual:;Pontuaï¿½ï¿½o atual:
 30;5F4438AA;HUD_RESULT_BASE_33;27;0;0;0;0;Tiempo actual:;Tempo atual:
 31;12632C27;HUD_CHARA_NAME_00;28;0;0;0;0;Fox;Fox
 32;65641CB1;HUD_CHARA_NAME_01;29;0;0;0;0;Falco;Falco
@@ -40,28 +40,28 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 38;79D139DD;HUD_CORNERIA_BOSS_CLASS_000;35;0;0;0;0;Fortaleza flotante armada;Fortaleza flutuante armada
 39;73985A54;HUD_S_ALPHA_BOSS_CLASS_001;36;0;0;0;0;Star Wolf;Star Wolf
 40;6EE82379;HUD_AREA_3_BOSS_CLASS_001;37;0;0;0;0;Star Wolf;Star Wolf
-41;071808A7;HUD_TITANIA_BOSS_CLASS_000;38;0;0;0;0;Arma subterránea;Arma subterrânea
-42;2C8FF6F8;HUD_FORTUNA_BOSS_CLASS_000;39;0;0;0;0;Ave de presa mecánica;Ave de caça mecânica
-43;1E311857;HUD_S_GAMMA_BOSS_CLASS_000;40;0;0;0;0;Misiles de alcance interplanetario;Mísseis de alcance interplanetário
+41;071808A7;HUD_TITANIA_BOSS_CLASS_000;38;0;0;0;0;Arma subterrï¿½nea;Arma subterrï¿½nea
+42;2C8FF6F8;HUD_FORTUNA_BOSS_CLASS_000;39;0;0;0;0;Ave de presa mecï¿½nica;Ave de caï¿½a mecï¿½nica
+43;1E311857;HUD_S_GAMMA_BOSS_CLASS_000;40;0;0;0;0;Misiles de alcance interplanetario;Mï¿½sseis de alcance interplanetï¿½rio
 44;693628C1;HUD_S_GAMMA_BOSS_CLASS_001;41;0;0;0;0;Superacorazado;Supercorveta
-45;1EC26D22;HUD_FICHINA_BOSS_CLASS_000;42;0;0;0;0;Araña gigante;Aranha gigante
+45;1EC26D22;HUD_FICHINA_BOSS_CLASS_000;42;0;0;0;0;Araï¿½a gigante;Aranha gigante
 46;69C55DB4;HUD_FICHINA_BOSS_CLASS_001;43;0;0;0;0;Star Wolf;Star Wolf
 47;70CC0C0E;HUD_FICHINA_BOSS_CLASS_002;44;0;0;0;0;Star Wolf;Star Wolf
-48;465EAFD7;HUD_S_OMEGA_BOSS_CLASS_000;45;0;0;0;0;Nave interplanetaria de combate;Nave de combate interplanetária
-49;31599F41;HUD_S_OMEGA_BOSS_CLASS_001;46;0;0;0;0;Ave de presa interestelar;Ave de caça interestelar
-50;4576984B;HUD_CORNERIA_2_BOSS_CLASS_000;47;0;0;0;0;Robot titánico de combate;Robô titânico de combate
+48;465EAFD7;HUD_S_OMEGA_BOSS_CLASS_000;45;0;0;0;0;Nave interplanetaria de combate;Nave de combate interplanetï¿½ria
+49;31599F41;HUD_S_OMEGA_BOSS_CLASS_001;46;0;0;0;0;Ave de presa interestelar;Ave de caï¿½a interestelar
+50;4576984B;HUD_CORNERIA_2_BOSS_CLASS_000;47;0;0;0;0;Robot titï¿½nico de combate;Robï¿½ titï¿½nico de combate
 51;0F24C172;HUD_S_BETA_BOSS_CLASS_000;48;0;0;0;0;Naves de alto rendimiento;Naves de alto desempenho
 52;7823F1E4;HUD_S_BETA_BOSS_CLASS_001;49;0;0;0;0;Destructor ultracorazado;Destruidor ultra-blindado
 53;3271A8DD;HUD_CORNERIA_2_BOSS_CLASS_001;50;0;0;0;0;Fortaleza armada;Fortaleza armada
-54;6CA6F78E;HUD_VENOM_BOSS_CLASS_000;51;0;0;0;0;Malvado científico loco;Cientista maluco e malvado
-55;1BA1C718;HUD_VENOM_BOSS_CLASS_001;52;0;0;0;0;Vehículos cuadrúpedos;Veículos quadrúpedes
-56;749B5770;HUD_GYROWING_CLASS_001;53;0;0;0;0;Vehículo multifuncional;Veículo multifuncional
-57;112E78CD;HUD_ARWING_CLASS_001;54;0;0;0;0;Naves de caza de élite;Caçador de elite
-58;1662A4CC;HUD_WALKER_CLASS_001;55;0;0;0;0;Vehículo de asalto bípedo;Veículo de assalto bípede
-59;5B9C3FE0;HUD_LANDMASTER_CLASS_001;56;0;0;0;0;Tanque de artillería tierra-aire;Tanque de artilharia terra-ar
-60;6CE8B4E9;HUD_GRAVMASTER_CLASS_001;57;0;0;0;0;Función de vuelo del Landmaster;Tanque de voo antigravitacional
-61;40A06D5C;HUD_ROADMASTER_CLASS_001;58;0;0;0;0;Todoterreno de reconocimiento;Veículo de exploração blindado
-62;5EFB340A;HUD_GIGARILLA_CLASS_001;59;0;0;0;0;Robot titánico de combate;Robô titânico de combate
+54;6CA6F78E;HUD_VENOM_BOSS_CLASS_000;51;0;0;0;0;Malvado cientï¿½fico loco;Cientista maluco e malvado
+55;1BA1C718;HUD_VENOM_BOSS_CLASS_001;52;0;0;0;0;Vehï¿½culos cuadrï¿½pedos;Veï¿½culos quadrï¿½pedes
+56;749B5770;HUD_GYROWING_CLASS_001;53;0;0;0;0;Vehï¿½culo multifuncional;Veï¿½culo multifuncional
+57;112E78CD;HUD_ARWING_CLASS_001;54;0;0;0;0;Naves de caza de ï¿½lite;Caï¿½ador de elite
+58;1662A4CC;HUD_WALKER_CLASS_001;55;0;0;0;0;Vehï¿½culo de asalto bï¿½pedo;Veï¿½culo de assalto bï¿½pede
+59;5B9C3FE0;HUD_LANDMASTER_CLASS_001;56;0;0;0;0;Tanque de artillerï¿½a tierra-aire;Tanque de artilharia terra-ar
+60;6CE8B4E9;HUD_GRAVMASTER_CLASS_001;57;0;0;0;0;Funciï¿½n de vuelo del Landmaster;Tanque de voo antigravitacional
+61;40A06D5C;HUD_ROADMASTER_CLASS_001;58;0;0;0;0;Todoterreno de reconocimiento;Veï¿½culo de exploraï¿½ï¿½o blindado
+62;5EFB340A;HUD_GIGARILLA_CLASS_001;59;0;0;0;0;Robot titï¿½nico de combate;Robï¿½ titï¿½nico de combate
 63;2C538859;HUD_CORNERIA_BOSS_NAME_000;60;0;0;0;0;Androsa;Androsa
 64;77FEDDD5;HUD_S_ALPHA_BOSS_NAME_001;61;0;0;0;0;Pigma;Pigma
 65;77FEDDD5;HUD_S_ALPHA_BOSS_NAME_001;61;0;0;1;1;Andrew;Andrew
@@ -84,18 +84,18 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 82;7C502B44;HUD_GYROWING_NAME_001;78;0;0;0;0;Gyrowing;Gyrowing
 83;79A6501C;HUD_ARWING_NAME_001;79;0;0;0;0;Arwing;Arwing
 84;58BE4818;HUD_WALKER_NAME_001;80;0;0;0;0;Walker;Walker
-85;41B719A2;HUD_WALKER_NAME_002;81;0;0;0;0;Walker retro;Walker clássico
+85;41B719A2;HUD_WALKER_NAME_002;81;0;0;0;0;Walker retro;Walker clï¿½ssico
 86;36B02934;HUD_WALKER_NAME_003;82;0;0;0;0;Walker negro;Walker preto
 87;14443C78;HUD_LANDMASTER_NAME_001;83;0;0;0;0;Landmaster;Landmaster
 88;5D930E06;HUD_GRAVMASTER_NAME_001;84;0;0;0;0;Gravmaster;Gravmaster
 89;4CD430B8;HUD_ROADMASTER_NAME_001;85;0;0;0;0;Roadmaster;Roadmaster
-90;60AF01A6;HUD_ARWING_NAME_002;86;0;0;0;0;Arwing retro;Arwing clássico
+90;60AF01A6;HUD_ARWING_NAME_002;86;0;0;0;0;Arwing retro;Arwing clï¿½ssico
 91;17A83130;HUD_ARWING_NAME_003;87;0;0;0;0;Arwing negro;Arwing preto
 92;7318C5BF;HUD_GIGARILLA_NAME_001;88;0;0;0;0;Gigarila;Gigarila
 93;63ED205E;HUD_MESS_ORDER_000;89;0;0;0;0;Mueve el Wii U GamePad para ver;Mova o Wii U GamePad para olhar para
-94;63ED205E;HUD_MESS_ORDER_000;89;0;0;1;1;a los demás con la vista de cabina.;os outros a partir da visão do cockpit.
+94;63ED205E;HUD_MESS_ORDER_000;89;0;0;1;1;a los demï¿½s con la vista de cabina.;os outros a partir da visï¿½o do cockpit.
 95;2ABB72A8;HUD_MESS_GUIDE_000;90;0;0;0;0;{special:0xC_0}{button:105}{button:106}{special:0xD_0} o {button:Y} Recalibrar la mirilla;{special:0xC_0}{button:105}{button:106}{special:0xD_0} ou {button:Y} Recalibrar a mira
-96;5DBC423E;HUD_MESS_GUIDE_001;91;0;0;0;0;{button:9} Láser principal;{button:9} Laser principal
+96;5DBC423E;HUD_MESS_GUIDE_001;91;0;0;0;0;{button:9} Lï¿½ser principal;{button:9} Laser principal
 97;44B51384;HUD_MESS_GUIDE_002;92;0;0;0;0;{special:0xC_0}{button:200}{button:201}{special:0xD_0}{button:43} Turbo;{special:0xC_0}{button:200}{button:201}{special:0xD_0}{button:43} Turbo
 98;427ED16F;HUD_MESS_GUIDE_502;93;0;0;0;0;{special:0xC_0}{button:30}{button:31}{special:0xD_0}{button:43} Turbo;{special:0xC_0}{button:30}{button:31}{special:0xD_0}{button:43} Turbo
 99;33B22312;HUD_MESS_GUIDE_003;94;0;0;0;0;{special:0xC_0}{button:200}{button:202}{special:0xD_0}{button:40} Frenar;{special:0xC_0}{button:200}{button:202}{special:0xD_0}{button:40} Frear
@@ -104,10 +104,10 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 102;2C14DC86;HUD_MESS_GUIDE_104;97;0;0;0;0;{button:39}{special:0xC_0}{button:100}{button:101}{special:0xD_0} + {special:0xC_0}{button:200}{button:201}{special:0xD_0}{button:43} o {button:X} Rizo;{button:39}{special:0xC_0}{button:100}{button:101}{special:0xD_0} + {special:0xC_0}{button:200}{button:201}{special:0xD_0}{button:43} ou {button:X} Looping
 103;2B1D745A;HUD_MESS_GUIDE_504;98;0;0;0;0;{button:40}{special:0xC_0}{button:54}{button:56}{special:0xD_0} + {special:0xC_0}{button:30}{button:31}{special:0xD_0}{button:43} Rizo ({button:57});{button:40}{special:0xC_0}{button:54}{button:56}{special:0xD_0} + {special:0xC_0}{button:30}{button:31}{special:0xD_0}{button:43} Cacho ({button:57})
 104;295BCA03;HUD_MESS_GUIDE_604;99;0;0;0;0;{button:39}{special:0xC_0}{button:54}{button:55}{special:0xD_0} + {special:0xC_0}{button:30}{button:31}{special:0xD_0}{button:43} Rizo ({button:57});{button:39}{special:0xC_0}{button:54}{button:55}{special:0xD_0} + {special:0xC_0}{button:30}{button:31}{special:0xD_0}{button:43} Cacho ({button:57})
-105;5AD18627;HUD_MESS_GUIDE_005;100;0;0;0;0;{button:40}{special:0xC_0}{button:100}{button:102}{special:0xD_0} + {special:0xC_0}{button:200}{button:202}{special:0xD_0}{button:40} o {button:B} Cambio de sentido;{button:40}{special:0xC_0}{button:100}{button:102}{special:0xD_0} + {special:0xC_0}{button:200}{button:202}{special:0xD_0}{button:40} ou {button:B} Mudar de direção
-106;5B13EC10;HUD_MESS_GUIDE_105;101;0;0;0;0;{button:39}{special:0xC_0}{button:100}{button:101}{special:0xD_0} + {special:0xC_0}{button:200}{button:202}{special:0xD_0}{button:40} o {button:B} Cambio de sentido;{button:39}{special:0xC_0}{button:100}{button:101}{special:0xD_0} + {special:0xC_0}{button:200}{button:202}{special:0xD_0}{button:40} ou {button:B} Mudar de direção
-107;5C1A44CC;HUD_MESS_GUIDE_505;102;0;0;0;0;{button:40}{special:0xC_0}{button:54}{button:56}{special:0xD_0} + {special:0xC_0}{button:30}{button:32}{special:0xD_0}{button:40} Cambio de sentido ({button:58});{button:40}{special:0xC_0}{button:54}{button:56}{special:0xD_0} + {special:0xC_0}{button:30}{button:32}{special:0xD_0}{button:40} Mudar de direção ({button:58})
-108;5E5CFA95;HUD_MESS_GUIDE_605;103;0;0;0;0;{button:39}{special:0xC_0}{button:54}{button:55}{special:0xD_0}+{special:0xC_0}{button:30}{button:32}{special:0xD_0}{button:40} Cambio de sentido ({button:58});{button:39}{special:0xC_0}{button:54}{button:55}{special:0xD_0}+{special:0xC_0}{button:30}{button:32}{special:0xD_0}{button:40} Mudar de direção ({button:58})
+105;5AD18627;HUD_MESS_GUIDE_005;100;0;0;0;0;{button:40}{special:0xC_0}{button:100}{button:102}{special:0xD_0} + {special:0xC_0}{button:200}{button:202}{special:0xD_0}{button:40} o {button:B} Cambio de sentido;{button:40}{special:0xC_0}{button:100}{button:102}{special:0xD_0} + {special:0xC_0}{button:200}{button:202}{special:0xD_0}{button:40} ou {button:B} Mudar de direï¿½ï¿½o
+106;5B13EC10;HUD_MESS_GUIDE_105;101;0;0;0;0;{button:39}{special:0xC_0}{button:100}{button:101}{special:0xD_0} + {special:0xC_0}{button:200}{button:202}{special:0xD_0}{button:40} o {button:B} Cambio de sentido;{button:39}{special:0xC_0}{button:100}{button:101}{special:0xD_0} + {special:0xC_0}{button:200}{button:202}{special:0xD_0}{button:40} ou {button:B} Mudar de direï¿½ï¿½o
+107;5C1A44CC;HUD_MESS_GUIDE_505;102;0;0;0;0;{button:40}{special:0xC_0}{button:54}{button:56}{special:0xD_0} + {special:0xC_0}{button:30}{button:32}{special:0xD_0}{button:40} Cambio de sentido ({button:58});{button:40}{special:0xC_0}{button:54}{button:56}{special:0xD_0} + {special:0xC_0}{button:30}{button:32}{special:0xD_0}{button:40} Mudar de direï¿½ï¿½o ({button:58})
+108;5E5CFA95;HUD_MESS_GUIDE_605;103;0;0;0;0;{button:39}{special:0xC_0}{button:54}{button:55}{special:0xD_0}+{special:0xC_0}{button:30}{button:32}{special:0xD_0}{button:40} Cambio de sentido ({button:58});{button:39}{special:0xC_0}{button:54}{button:55}{special:0xD_0}+{special:0xC_0}{button:30}{button:32}{special:0xD_0}{button:40} Mudar de direï¿½ï¿½o ({button:58})
 109;43D8D79D;HUD_MESS_GUIDE_006;104;0;0;0;0;{button:L} (Mantener) Fijar el objetivo;{button:L} (Segure) Fixar o alvo
 110;45131576;HUD_MESS_GUIDE_506;105;0;0;0;0;{button:53} (Mantener) Fijar el objetivo;{button:53} (Segure) Fixar o alvo
 111;4697C118;HUD_MESS_GUIDE_706;106;0;0;0;0;{button:50} (Mantener) Fijar el objetivo;{button:50} (Segure) Fixar o alvo
@@ -121,132 +121,132 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 119;426CB194;HUD_MESS_GUIDE_511;114;0;0;0;0;{special:0xC_0}{button:30}{button:32}{button:32}{button:32}{button:32}{button:32}{special:0xD_0}{button:40} Volar;{special:0xC_0}{button:30}{button:32}{button:32}{button:32}{button:32}{button:32}{special:0xD_0}{button:40} Voar
 120;5DAE22C5;HUD_MESS_GUIDE_012;115;0;0;0;0;{special:0xC_0}{button:200}{button:201}{button:201}{button:201}{button:201}{button:201}{special:0xD_0}{button:43} Correr;{special:0xC_0}{button:200}{button:201}{button:201}{button:201}{button:201}{button:201}{special:0xD_0}{button:43} Correr
 121;5B65E02E;HUD_MESS_GUIDE_512;116;0;0;0;0;{special:0xC_0}{button:30}{button:31}{button:31}{button:31}{button:31}{button:31}{special:0xD_0}{button:43} Correr;{special:0xC_0}{button:30}{button:31}{button:31}{button:31}{button:31}{button:31}{special:0xD_0}{button:43} Correr
-122;2AA91253;HUD_MESS_GUIDE_013;117;0;0;0;0;{button:41}{button:41}{special:0xC_0}{button:205}{button:203}{button:205}{button:203}{button:205}{button:204}{button:205}{button:204}{special:0xD_0}{button:42}{button:42} Tonel;{button:41}{button:41}{special:0xC_0}{button:205}{button:203}{button:205}{button:203}{button:205}{button:204}{button:205}{button:204}{special:0xD_0}{button:42}{button:42} Barril
-123;2C62D0B8;HUD_MESS_GUIDE_513;118;0;0;0;0;{button:41}{button:41}{special:0xC_0}{button:30}{button:33}{button:30}{button:33}{button:30}{button:34}{button:30}{button:34}{special:0xD_0}{button:42}{button:42} Tonel;{button:41}{button:41}{special:0xC_0}{button:30}{button:33}{button:30}{button:33}{button:30}{button:34}{button:30}{button:34}{special:0xD_0}{button:42}{button:42} Barril
+122;2AA91253;HUD_MESS_GUIDE_013;117;0;0;0;0;{button:41}{button:41}{special:0xC_0}{button:205}{button:203}{button:205}{button:203}{button:205}{button:204}{button:205}{button:204}{special:0xD_0}{button:42}{button:42} Tonel;{button:41}{button:41}{special:0xC_0}{button:205}{button:203}{button:205}{button:203}{button:205}{button:204}{button:205}{button:204}{special:0xD_0}{button:42}{button:42} Girar
+123;2C62D0B8;HUD_MESS_GUIDE_513;118;0;0;0;0;{button:41}{button:41}{special:0xC_0}{button:30}{button:33}{button:30}{button:33}{button:30}{button:34}{button:30}{button:34}{special:0xD_0}{button:42}{button:42} Tonel;{button:41}{button:41}{special:0xC_0}{button:30}{button:33}{button:30}{button:33}{button:30}{button:34}{button:30}{button:34}{special:0xD_0}{button:42}{button:42} Girar
 124;34CD87F0;HUD_MESS_GUIDE_014;119;0;0;0;0;{button:A} Transformarse;{button:A} Transformar-se
 125;43CAB766;HUD_MESS_GUIDE_015;120;0;0;0;0;{button:9} (Mantener) Disparo cargado;{button:9} (Segure) Disparo carregado
 126;5AC3E6DC;HUD_MESS_GUIDE_016;121;0;0;0;0;Ascender {button:40}{special:0xC_0}{button:100}{button:102}{button:100}{button:101}{special:0xD_0}{button:43} Descender;Subir {button:40}{special:0xC_0}{button:100}{button:102}{button:100}{button:101}{special:0xD_0}{button:43} Descer
 127;5B018CEB;HUD_MESS_GUIDE_116;122;0;0;0;0;Ascender {button:39}{special:0xC_0}{button:100}{button:101}{button:100}{button:102}{special:0xD_0}{button:44} Descender;Subir {button:39}{special:0xC_0}{button:100}{button:101}{button:100}{button:102}{special:0xD_0}{button:44} Descer
 128;2DC4D64A;HUD_MESS_GUIDE_017;123;0;0;0;0;{button:10} Controles;{button:10} Controles
-129;3D7BCBDB;HUD_MESS_GUIDE_018;124;0;0;0;0;El control por movimiento está disponible al disparar con {button:9}.;O controle por movimento está disponível ao disparar com {button:9}.
+129;3D7BCBDB;HUD_MESS_GUIDE_018;124;0;0;0;0;El control por movimiento estï¿½ disponible al disparar con {button:9}.;O controle por movimento estï¿½ disponï¿½vel ao disparar com {button:9}.
 130;4A7CFB4D;HUD_MESS_GUIDE_019;125;0;0;0;0;{button:A} (Mantener al situarse por encima de una bomba);{button:A} (Segure ao passar sobre uma bomba)
 131;188D102A;HUD_MESS_GUIDE_020;126;0;0;0;0;{button:9} Soltar la bomba;{button:9} Soltar uma bomba
 132;6F8A20BC;HUD_MESS_GUIDE_021;127;0;0;0;0;{special:0xC_0}{button:250}{button:253}{button:254}{button:250}{button:251}{button:252}{special:0xD_0} Apuntar;{special:0xC_0}{button:250}{button:253}{button:254}{button:250}{button:251}{button:252}{special:0xD_0} Mirar
 133;6E484A8B;HUD_MESS_GUIDE_121;128;0;0;0;0;{button:9} + {special:0xC_0}{button:250}{button:253}{button:254}{button:250}{button:251}{button:252}{special:0xD_0} Apuntar;{button:9} + {special:0xC_0}{button:250}{button:253}{button:254}{button:250}{button:251}{button:252}{special:0xD_0} Mirar
-134;76837106;HUD_MESS_GUIDE_022;129;0;0;0;0;{button:250} Vista de cabina;{button:250} Visão do cockpit
-135;77411B31;HUD_MESS_GUIDE_122;130;0;0;0;0;{button:500} Vista de cabina;{button:500} Visão do cockpit
+134;76837106;HUD_MESS_GUIDE_022;129;0;0;0;0;{button:250} Vista de cabina;{button:250} Visï¿½o do cockpit
+135;77411B31;HUD_MESS_GUIDE_122;130;0;0;0;0;{button:500} Vista de cabina;{button:500} Visï¿½o do cockpit
 136;7507A568;HUD_MESS_GUIDE_222;131;0;0;0;0;{button:250} Perspectiva del Direct-i;{button:250} Perspectiva do Direct-i
 137;74C5CF5F;HUD_MESS_GUIDE_322;132;0;0;0;0;{button:500} Perspectiva del Direct-i;{button:500} Perspectiva do Direct-i
 138;01844190;HUD_MESS_GUIDE_023;133;0;0;0;0;{button:L} (Mantener) Dirigir al Gigarila;{button:L} (Segure) Controlar o Gigarila
 139;074F837B;HUD_MESS_GUIDE_523;134;0;0;0;0;{button:53} (Mantener) Dirigir al Gigarila;{button:53} (Segure) Controlar o Gigarila
 140;04CB5715;HUD_MESS_GUIDE_723;135;0;0;0;0;{button:50} (Mantener) Dirigir al Gigarila;{button:50} (Segure)  Controlar o Gigarila
-141;1FE0D433;HUD_MESS_GUIDE_024;136;0;0;0;0;{button:9} (Mantener y soltar) Disparar misiles;{button:9} (Segure e Solte) Disparar mísseis
+141;1FE0D433;HUD_MESS_GUIDE_024;136;0;0;0;0;{button:9} (Mantener y soltar) Disparar misiles;{button:9} (Segure e Solte) Disparar mï¿½sseis
 142;68E7E4A5;HUD_MESS_GUIDE_025;137;0;0;0;0;{special:0xC_0}{button:200}{button:201}{special:0xD_0}{button:43} Ascender;{special:0xC_0}{button:200}{button:201}{special:0xD_0}{button:43} Subir
 143;6E2C264E;HUD_MESS_GUIDE_525;138;0;0;0;0;{special:0xC_0}{button:30}{button:31}{special:0xD_0}{button:43} Ascender;{special:0xC_0}{button:30}{button:31}{special:0xD_0}{button:43} Subir
-144;06E98589;HUD_MESS_GUIDE_027;139;0;0;0;0;{button:7} (o pulsar {button:29}) Lanzar una bomba;{button:7} (ou pressione {button:29}) Lançar uma bomba
+144;06E98589;HUD_MESS_GUIDE_027;139;0;0;0;0;{button:7} (o pulsar {button:29}) Lanzar una bomba;{button:7} (ou pressione {button:29}) Lanï¿½ar uma bomba
 145;16569818;HUD_MESS_GUIDE_028;140;0;0;0;0;{button:501} (Tocar) Acceder al sistema;{button:501} (Toque) Acessar o sistema
 146;6151A88E;HUD_MESS_GUIDE_029;141;0;0;0;0;{button:41}{special:0xC_0}{button:205}{button:203}{button:205}{button:204}{special:0xD_0}{button:42} Girar;{button:41}{special:0xC_0}{button:205}{button:203}{button:205}{button:204}{special:0xD_0}{button:42} Girar
 147;679A6A65;HUD_MESS_GUIDE_529;142;0;0;0;0;{button:41}{special:0xC_0}{button:30}{button:33}{button:30}{button:33}{button:30}{button:34}{button:30}{button:34}{special:0xD_0}{button:42} Girar;{button:41}{special:0xC_0}{button:30}{button:33}{button:30}{button:33}{button:30}{button:34}{button:30}{button:34}{special:0xD_0}{button:42} Girar
-148;65314428;HUD_CORNERIA_PHASE_TITLE_001;143;0;0;0;0;¡A la torre de Corneria!;Para a torre de Corneria!
-149;65314428;HUD_CORNERIA_PHASE_TITLE_001;143;1;1;0;0;¡A la torre de Corneria!;Para a torre de Corneria!
-150;7C381592;HUD_CORNERIA_PHASE_TITLE_002;144;0;0;0;0;¡Proteged al general!;Protejam o general!
-151;7C381592;HUD_CORNERIA_PHASE_TITLE_002;144;1;1;0;0;¡Proteged al general!;Protejam o general!
-152;0B3F2504;HUD_CORNERIA_PHASE_TITLE_003;145;0;0;0;0;¡Destruid la fortaleza!;Destruam a fortaleza!
-153;0B3F2504;HUD_CORNERIA_PHASE_TITLE_003;145;1;1;0;0;¡Destruid la fortaleza!;Destruam a fortaleza!
-154;64F32E1F;HUD_CORNERIA_PHASE_TITLE_101;146;0;0;0;0;La invasión;A invasão
-155;64F32E1F;HUD_CORNERIA_PHASE_TITLE_101;146;1;1;0;0;La invasión;A invasão
+148;65314428;HUD_CORNERIA_PHASE_TITLE_001;143;0;0;0;0;ï¿½A la torre de Corneria!;Para a torre de Corneria!
+149;65314428;HUD_CORNERIA_PHASE_TITLE_001;143;1;1;0;0;ï¿½A la torre de Corneria!;Para a torre de Corneria!
+150;7C381592;HUD_CORNERIA_PHASE_TITLE_002;144;0;0;0;0;ï¿½Proteged al general!;Protejam o general!
+151;7C381592;HUD_CORNERIA_PHASE_TITLE_002;144;1;1;0;0;ï¿½Proteged al general!;Protejam o general!
+152;0B3F2504;HUD_CORNERIA_PHASE_TITLE_003;145;0;0;0;0;ï¿½Destruid la fortaleza!;Destruam a fortaleza!
+153;0B3F2504;HUD_CORNERIA_PHASE_TITLE_003;145;1;1;0;0;ï¿½Destruid la fortaleza!;Destruam a fortaleza!
+154;64F32E1F;HUD_CORNERIA_PHASE_TITLE_101;146;0;0;0;0;La invasiï¿½n;A invasï¿½o
+155;64F32E1F;HUD_CORNERIA_PHASE_TITLE_101;146;1;1;0;0;La invasiï¿½n;A invasï¿½o
 156;7DFA7FA5;HUD_CORNERIA_PHASE_TITLE_102;147;0;0;0;0;El secreto de la torre;O segredo da torre
 157;7DFA7FA5;HUD_CORNERIA_PHASE_TITLE_102;147;1;1;0;0;El secreto de la torre;O segredo da torre
 158;0AFD4F33;HUD_CORNERIA_PHASE_TITLE_103;148;0;0;0;0;El regreso del Gigarila;O retorno do Gigarila
 159;0AFD4F33;HUD_CORNERIA_PHASE_TITLE_103;148;1;1;0;0;El regreso del Gigarila;O retorno do Gigarila
-160;66B59046;HUD_CORNERIA_PHASE_TITLE_201;149;0;0;0;0;¡Protege la torre!;Proteja a torre!
-161;66B59046;HUD_CORNERIA_PHASE_TITLE_201;149;0;0;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-162;66B59046;HUD_CORNERIA_PHASE_TITLE_201;149;1;1;0;0;¡Protege la torre!;Proteja a torre!
-163;66B59046;HUD_CORNERIA_PHASE_TITLE_201;149;1;1;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-164;7FBCC1FC;HUD_CORNERIA_PHASE_TITLE_202;150;0;0;0;0;¡Destruye la fortaleza armada!;Destrua a fortaleza armada!
-165;7FBCC1FC;HUD_CORNERIA_PHASE_TITLE_202;150;0;0;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-166;7FBCC1FC;HUD_CORNERIA_PHASE_TITLE_202;150;1;1;0;0;¡Destruye la fortaleza armada!;Destrua a fortaleza armada!
-167;7FBCC1FC;HUD_CORNERIA_PHASE_TITLE_202;150;1;1;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-168;69F4672F;HUD_SECTOR_A_PHASE_TITLE_001;151;0;0;0;0;¡Destruid la flota enemiga!;Destruam a frota inimiga!
-169;69F4672F;HUD_SECTOR_A_PHASE_TITLE_001;151;1;1;0;0;¡Destruid la flota enemiga!;Destruam a frota inimiga!
-170;70FD3695;HUD_SECTOR_A_PHASE_TITLE_002;152;0;0;0;0;¡Infiltración en la fragata!;Infiltração na fragata!
-171;70FD3695;HUD_SECTOR_A_PHASE_TITLE_002;152;1;1;0;0;¡Infiltración en la fragata!;Infiltração na fragata!
-172;6A70B341;HUD_SECTOR_A_PHASE_TITLE_201;153;0;0;0;0;¡Derrota a todos los enemigos!;Derrote todos os inimigos!
-173;6A70B341;HUD_SECTOR_A_PHASE_TITLE_201;153;0;0;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-174;6A70B341;HUD_SECTOR_A_PHASE_TITLE_201;153;1;1;0;0;¡Derrota a todos los enemigos!;Derrote todos os inimigos!
-175;6A70B341;HUD_SECTOR_A_PHASE_TITLE_201;153;1;1;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-176;2D862B82;HUD_AREA_3_PHASE_TITLE_001;154;0;0;0;0;¡Proteged la colonia!;Protejam a colônia!
-177;2D862B82;HUD_AREA_3_PHASE_TITLE_001;154;1;1;0;0;¡Proteged la colonia!;Protejam a colônia!
-178;348F7A38;HUD_AREA_3_PHASE_TITLE_002;155;0;0;0;0;¡Activad el Gigarila!;Ativem o Gigarila!
-179;348F7A38;HUD_AREA_3_PHASE_TITLE_002;155;1;1;0;0;¡Activad el Gigarila!;Ativem o Gigarila!
-180;2E02FFEC;HUD_AREA_3_PHASE_TITLE_201;156;0;0;0;0;¡Escapa de la colonia!;Fujam da colônia!
-181;2E02FFEC;HUD_AREA_3_PHASE_TITLE_201;156;1;1;0;0;¡Escapa de la colonia!;Fujam da colônia!
-182;370BAE56;HUD_AREA_3_PHASE_TITLE_202;157;0;0;0;0;¡Derrota a todos los enemigos!;Derrote todos os inimigos!
-183;370BAE56;HUD_AREA_3_PHASE_TITLE_202;157;0;0;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-184;370BAE56;HUD_AREA_3_PHASE_TITLE_202;157;1;1;0;0;¡Derrota a todos los enemigos!;Derrote todos os inimigos!
-185;370BAE56;HUD_AREA_3_PHASE_TITLE_202;157;1;1;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-186;400C9EC0;HUD_AREA_3_PHASE_TITLE_203;158;0;0;0;0;¡Derrota a todos los enemigos!;Derrote todos os inimigos!
-187;400C9EC0;HUD_AREA_3_PHASE_TITLE_203;158;0;0;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-188;400C9EC0;HUD_AREA_3_PHASE_TITLE_203;158;1;1;0;0;¡Derrota a todos los enemigos!;Derrote todos os inimigos!
-189;400C9EC0;HUD_AREA_3_PHASE_TITLE_203;158;1;1;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-190;5E680B63;HUD_AREA_3_PHASE_TITLE_204;159;0;0;0;0;¡Proteged el Great Fox!;Protejam a Great Fox!
-191;5E680B63;HUD_AREA_3_PHASE_TITLE_204;159;1;1;0;0;¡Proteged el Great Fox!;Protejam a Great Fox!
-192;209C4468;HUD_ZONESS_PHASE_TITLE_001;160;0;0;0;0;¡Desactiva el escudo!;Desativem o escudo!
-193;209C4468;HUD_ZONESS_PHASE_TITLE_001;160;1;1;0;0;¡Desactiva el escudo!;Desativem o escudo!
-194;23189006;HUD_ZONESS_PHASE_TITLE_201;161;0;0;0;0;¡Escapa de la base!;Fujam da base!
-195;23189006;HUD_ZONESS_PHASE_TITLE_201;161;0;0;1;1;(Tiempo límite: 7 minutos);(Limite de tempo: 7 minutos)
-196;23189006;HUD_ZONESS_PHASE_TITLE_201;161;1;1;0;0;¡Escapa de la base!;Fuja da base!
-197;23189006;HUD_ZONESS_PHASE_TITLE_201;161;1;1;1;1;(Tiempo límite: 7 minutos);(Limite de tempo: 7 minutos)
-198;3A6E3CAB;HUD_SECTOR_B_PHASE_TITLE_001;162;0;0;0;0;¡Ayudad a los aliados!;Ajudem os aliados!
-199;3A6E3CAB;HUD_SECTOR_B_PHASE_TITLE_001;162;1;1;0;0;¡Ayudad a los aliados!;Ajudem os aliados!
+160;66B59046;HUD_CORNERIA_PHASE_TITLE_201;149;0;0;0;0;ï¿½Protege la torre!;Proteja a torre!
+161;66B59046;HUD_CORNERIA_PHASE_TITLE_201;149;0;0;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+162;66B59046;HUD_CORNERIA_PHASE_TITLE_201;149;1;1;0;0;ï¿½Protege la torre!;Proteja a torre!
+163;66B59046;HUD_CORNERIA_PHASE_TITLE_201;149;1;1;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+164;7FBCC1FC;HUD_CORNERIA_PHASE_TITLE_202;150;0;0;0;0;ï¿½Destruye la fortaleza armada!;Destrua a fortaleza armada!
+165;7FBCC1FC;HUD_CORNERIA_PHASE_TITLE_202;150;0;0;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+166;7FBCC1FC;HUD_CORNERIA_PHASE_TITLE_202;150;1;1;0;0;ï¿½Destruye la fortaleza armada!;Destrua a fortaleza armada!
+167;7FBCC1FC;HUD_CORNERIA_PHASE_TITLE_202;150;1;1;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+168;69F4672F;HUD_SECTOR_A_PHASE_TITLE_001;151;0;0;0;0;ï¿½Destruid la flota enemiga!;Destruam a frota inimiga!
+169;69F4672F;HUD_SECTOR_A_PHASE_TITLE_001;151;1;1;0;0;ï¿½Destruid la flota enemiga!;Destruam a frota inimiga!
+170;70FD3695;HUD_SECTOR_A_PHASE_TITLE_002;152;0;0;0;0;ï¿½Infiltraciï¿½n en la fragata!;Infiltraï¿½ï¿½o na fragata!
+171;70FD3695;HUD_SECTOR_A_PHASE_TITLE_002;152;1;1;0;0;ï¿½Infiltraciï¿½n en la fragata!;Infiltraï¿½ï¿½o na fragata!
+172;6A70B341;HUD_SECTOR_A_PHASE_TITLE_201;153;0;0;0;0;ï¿½Derrota a todos los enemigos!;Derrote todos os inimigos!
+173;6A70B341;HUD_SECTOR_A_PHASE_TITLE_201;153;0;0;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+174;6A70B341;HUD_SECTOR_A_PHASE_TITLE_201;153;1;1;0;0;ï¿½Derrota a todos los enemigos!;Derrote todos os inimigos!
+175;6A70B341;HUD_SECTOR_A_PHASE_TITLE_201;153;1;1;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+176;2D862B82;HUD_AREA_3_PHASE_TITLE_001;154;0;0;0;0;ï¿½Proteged la colonia!;Protejam a colï¿½nia!
+177;2D862B82;HUD_AREA_3_PHASE_TITLE_001;154;1;1;0;0;ï¿½Proteged la colonia!;Protejam a colï¿½nia!
+178;348F7A38;HUD_AREA_3_PHASE_TITLE_002;155;0;0;0;0;ï¿½Activad el Gigarila!;Ativem o Gigarila!
+179;348F7A38;HUD_AREA_3_PHASE_TITLE_002;155;1;1;0;0;ï¿½Activad el Gigarila!;Ativem o Gigarila!
+180;2E02FFEC;HUD_AREA_3_PHASE_TITLE_201;156;0;0;0;0;ï¿½Escapa de la colonia!;Fujam da colï¿½nia!
+181;2E02FFEC;HUD_AREA_3_PHASE_TITLE_201;156;1;1;0;0;ï¿½Escapa de la colonia!;Fujam da colï¿½nia!
+182;370BAE56;HUD_AREA_3_PHASE_TITLE_202;157;0;0;0;0;ï¿½Derrota a todos los enemigos!;Derrote todos os inimigos!
+183;370BAE56;HUD_AREA_3_PHASE_TITLE_202;157;0;0;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+184;370BAE56;HUD_AREA_3_PHASE_TITLE_202;157;1;1;0;0;ï¿½Derrota a todos los enemigos!;Derrote todos os inimigos!
+185;370BAE56;HUD_AREA_3_PHASE_TITLE_202;157;1;1;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+186;400C9EC0;HUD_AREA_3_PHASE_TITLE_203;158;0;0;0;0;ï¿½Derrota a todos los enemigos!;Derrote todos os inimigos!
+187;400C9EC0;HUD_AREA_3_PHASE_TITLE_203;158;0;0;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+188;400C9EC0;HUD_AREA_3_PHASE_TITLE_203;158;1;1;0;0;ï¿½Derrota a todos los enemigos!;Derrote todos os inimigos!
+189;400C9EC0;HUD_AREA_3_PHASE_TITLE_203;158;1;1;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+190;5E680B63;HUD_AREA_3_PHASE_TITLE_204;159;0;0;0;0;ï¿½Proteged el Great Fox!;Protejam a Great Fox!
+191;5E680B63;HUD_AREA_3_PHASE_TITLE_204;159;1;1;0;0;ï¿½Proteged el Great Fox!;Protejam a Great Fox!
+192;209C4468;HUD_ZONESS_PHASE_TITLE_001;160;0;0;0;0;ï¿½Desactiva el escudo!;Desativem o escudo!
+193;209C4468;HUD_ZONESS_PHASE_TITLE_001;160;1;1;0;0;ï¿½Desactiva el escudo!;Desativem o escudo!
+194;23189006;HUD_ZONESS_PHASE_TITLE_201;161;0;0;0;0;ï¿½Escapa de la base!;Fujam da base!
+195;23189006;HUD_ZONESS_PHASE_TITLE_201;161;0;0;1;1;(Tiempo lï¿½mite: 7 minutos);(Limite de tempo: 7 minutos)
+196;23189006;HUD_ZONESS_PHASE_TITLE_201;161;1;1;0;0;ï¿½Escapa de la base!;Fuja da base!
+197;23189006;HUD_ZONESS_PHASE_TITLE_201;161;1;1;1;1;(Tiempo lï¿½mite: 7 minutos);(Limite de tempo: 7 minutos)
+198;3A6E3CAB;HUD_SECTOR_B_PHASE_TITLE_001;162;0;0;0;0;ï¿½Ayudad a los aliados!;Ajudem os aliados!
+199;3A6E3CAB;HUD_SECTOR_B_PHASE_TITLE_001;162;1;1;0;0;ï¿½Ayudad a los aliados!;Ajudem os aliados!
 200;23676D11;HUD_SECTOR_B_PHASE_TITLE_002;163;0;0;0;0;Viejos rivales;Velhos rivais
 201;23676D11;HUD_SECTOR_B_PHASE_TITLE_002;163;1;1;0;0;Viejos rivales;Velhos rivais
-202;551F153B;HUD_TITANIA_PHASE_TITLE_001;164;0;0;0;0;¡Encontrad a Peppy!;Encontrem o Peppy!
-203;551F153B;HUD_TITANIA_PHASE_TITLE_001;164;1;1;0;0;¡Encontrad a Peppy!;Encontrem o Peppy!
+202;551F153B;HUD_TITANIA_PHASE_TITLE_001;164;0;0;0;0;ï¿½Encontrad a Peppy!;Encontrem o Peppy!
+203;551F153B;HUD_TITANIA_PHASE_TITLE_001;164;1;1;0;0;ï¿½Encontrad a Peppy!;Encontrem o Peppy!
 204;4C164481;HUD_TITANIA_PHASE_TITLE_002;165;0;0;0;0;El rey del desierto;O rei do deserto
 205;4C164481;HUD_TITANIA_PHASE_TITLE_002;165;1;1;0;0;El rey del desierto;O rei do deserto
-206;569BC155;HUD_TITANIA_PHASE_TITLE_201;166;0;0;0;0;¡Llega a la meta!;Alcancem a meta!
-207;569BC155;HUD_TITANIA_PHASE_TITLE_201;166;0;0;1;1;(Tiempo límite: 2 minutos);(Limite de tempo: 2 minutos)
-208;569BC155;HUD_TITANIA_PHASE_TITLE_201;166;1;1;0;0;¡Llega a la meta!;Alcancem a meta!
-209;569BC155;HUD_TITANIA_PHASE_TITLE_201;166;1;1;1;1;(Tiempo límite: 2 minutos);(Limite de tempo: 2 minutos)
-210;4EC0D027;HUD_SECTOR_G_PHASE_TITLE_001;167;0;0;0;0;¡Destruid los misiles!;Destruam os mísseis!
-211;4EC0D027;HUD_SECTOR_G_PHASE_TITLE_001;167;1;1;0;0;¡Destruid los misiles!;Destruam os mísseis!
-212;4D440449;HUD_SECTOR_G_PHASE_TITLE_201;168;0;0;0;0;¡Destruye el superacorazado!;Destruam o supercouraçado!
-213;4D440449;HUD_SECTOR_G_PHASE_TITLE_201;168;0;0;1;1;(Tiempo límite: 5 minutos);(Tempo limite: 5 minutos)
-214;4D440449;HUD_SECTOR_G_PHASE_TITLE_201;168;1;1;0;0;¡Destruye el superacorazado!;Destruam o supercouraçado!
-215;4D440449;HUD_SECTOR_G_PHASE_TITLE_201;168;1;1;1;1;(Tiempo límite: 5 minutos);(Tempo limite: 5 minutos)
-216;4854B8F1;HUD_FICHINA_PHASE_TITLE_001;169;0;0;0;0;¡Buscad el arma enemiga!;Encontrem a arma inimiga!
-217;4854B8F1;HUD_FICHINA_PHASE_TITLE_001;169;1;1;0;0;¡Buscad el arma enemiga!;Encontrem a arma inimiga!
-218;515DE94B;HUD_FICHINA_PHASE_TITLE_002;170;0;0;0;0;Plaga de arañas;Infestação de aranhas
-219;515DE94B;HUD_FICHINA_PHASE_TITLE_002;170;1;1;0;0;Plaga de arañas;Infestação de aranhas
-220;4BD06C9F;HUD_FICHINA_PHASE_TITLE_201;171;0;0;0;0;¡Recoge todas la monedas!;Peguem todas as moedas!
-221;4BD06C9F;HUD_FICHINA_PHASE_TITLE_201;171;0;0;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-222;4BD06C9F;HUD_FICHINA_PHASE_TITLE_201;171;1;1;0;0;¡Recoge todas la monedas!;Peguem todas as moedas!
-223;4BD06C9F;HUD_FICHINA_PHASE_TITLE_201;171;1;1;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-224;52D93D25;HUD_FICHINA_PHASE_TITLE_202;172;0;0;0;0;¡Gana el duelo contra Wolf!;Vença o duelo contra o Wolf!
-225;52D93D25;HUD_FICHINA_PHASE_TITLE_202;172;0;0;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-226;52D93D25;HUD_FICHINA_PHASE_TITLE_202;172;1;1;0;0;¡Gana el duelo contra Wolf!;Vença o duelo contra Wolf!
-227;52D93D25;HUD_FICHINA_PHASE_TITLE_202;172;1;1;1;1;(Tiempo límite: 5 minutos);(Limite de tempo: 5 minutos)
-228;2EE0CEA0;HUD_FORTUNA_PHASE_TITLE_001;173;0;0;0;0;¡Seguid al pájaro mecánico!;Siga o pássaro mecânico!
-229;2EE0CEA0;HUD_FORTUNA_PHASE_TITLE_001;173;1;1;0;0;¡Seguid al pájaro mecánico!;Siga o pássaro mecânico!
+206;569BC155;HUD_TITANIA_PHASE_TITLE_201;166;0;0;0;0;ï¿½Llega a la meta!;Alcancem a meta!
+207;569BC155;HUD_TITANIA_PHASE_TITLE_201;166;0;0;1;1;(Tiempo lï¿½mite: 2 minutos);(Limite de tempo: 2 minutos)
+208;569BC155;HUD_TITANIA_PHASE_TITLE_201;166;1;1;0;0;ï¿½Llega a la meta!;Alcancem a meta!
+209;569BC155;HUD_TITANIA_PHASE_TITLE_201;166;1;1;1;1;(Tiempo lï¿½mite: 2 minutos);(Limite de tempo: 2 minutos)
+210;4EC0D027;HUD_SECTOR_G_PHASE_TITLE_001;167;0;0;0;0;ï¿½Destruid los misiles!;Destruam os mï¿½sseis!
+211;4EC0D027;HUD_SECTOR_G_PHASE_TITLE_001;167;1;1;0;0;ï¿½Destruid los misiles!;Destruam os mï¿½sseis!
+212;4D440449;HUD_SECTOR_G_PHASE_TITLE_201;168;0;0;0;0;ï¿½Destruye el superacorazado!;Destruam o supercouraï¿½ado!
+213;4D440449;HUD_SECTOR_G_PHASE_TITLE_201;168;0;0;1;1;(Tiempo lï¿½mite: 5 minutos);(Tempo limite: 5 minutos)
+214;4D440449;HUD_SECTOR_G_PHASE_TITLE_201;168;1;1;0;0;ï¿½Destruye el superacorazado!;Destruam o supercouraï¿½ado!
+215;4D440449;HUD_SECTOR_G_PHASE_TITLE_201;168;1;1;1;1;(Tiempo lï¿½mite: 5 minutos);(Tempo limite: 5 minutos)
+216;4854B8F1;HUD_FICHINA_PHASE_TITLE_001;169;0;0;0;0;ï¿½Buscad el arma enemiga!;Encontrem a arma inimiga!
+217;4854B8F1;HUD_FICHINA_PHASE_TITLE_001;169;1;1;0;0;ï¿½Buscad el arma enemiga!;Encontrem a arma inimiga!
+218;515DE94B;HUD_FICHINA_PHASE_TITLE_002;170;0;0;0;0;Plaga de araï¿½as;Infestaï¿½ï¿½o de aranhas
+219;515DE94B;HUD_FICHINA_PHASE_TITLE_002;170;1;1;0;0;Plaga de araï¿½as;Infestaï¿½ï¿½o de aranhas
+220;4BD06C9F;HUD_FICHINA_PHASE_TITLE_201;171;0;0;0;0;ï¿½Recoge todas la monedas!;Peguem todas as moedas!
+221;4BD06C9F;HUD_FICHINA_PHASE_TITLE_201;171;0;0;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+222;4BD06C9F;HUD_FICHINA_PHASE_TITLE_201;171;1;1;0;0;ï¿½Recoge todas la monedas!;Peguem todas as moedas!
+223;4BD06C9F;HUD_FICHINA_PHASE_TITLE_201;171;1;1;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+224;52D93D25;HUD_FICHINA_PHASE_TITLE_202;172;0;0;0;0;ï¿½Gana el duelo contra Wolf!;Venï¿½a o duelo contra o Wolf!
+225;52D93D25;HUD_FICHINA_PHASE_TITLE_202;172;0;0;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+226;52D93D25;HUD_FICHINA_PHASE_TITLE_202;172;1;1;0;0;ï¿½Gana el duelo contra Wolf!;Venï¿½a o duelo contra Wolf!
+227;52D93D25;HUD_FICHINA_PHASE_TITLE_202;172;1;1;1;1;(Tiempo lï¿½mite: 5 minutos);(Limite de tempo: 5 minutos)
+228;2EE0CEA0;HUD_FORTUNA_PHASE_TITLE_001;173;0;0;0;0;ï¿½Seguid al pï¿½jaro mecï¿½nico!;Siga o pï¿½ssaro mecï¿½nico!
+229;2EE0CEA0;HUD_FORTUNA_PHASE_TITLE_001;173;1;1;0;0;ï¿½Seguid al pï¿½jaro mecï¿½nico!;Siga o pï¿½ssaro mecï¿½nico!
 230;37E99F1A;HUD_FORTUNA_PHASE_TITLE_002;174;0;0;0;0;Monarch Dodora ataca;Monarca Dodra ataca
 231;37E99F1A;HUD_FORTUNA_PHASE_TITLE_002;174;1;1;0;0;Monarch Dodora ataca;Monarca Dodra ataca
 232;28D09FB9;HUD_SECTOR_O_PHASE_TITLE_001;175;0;0;0;0;Atajo hacia Venom;Atalho para Venom
 233;28D09FB9;HUD_SECTOR_O_PHASE_TITLE_001;175;1;1;0;0;Atajo hacia Venom;Atalho para Venom
-234;31D9CE03;HUD_SECTOR_O_PHASE_TITLE_002;176;0;0;0;0;El último escollo;O último obstáculo
-235;31D9CE03;HUD_SECTOR_O_PHASE_TITLE_002;176;1;1;0;0;El último escollo;O último obstáculo
+234;31D9CE03;HUD_SECTOR_O_PHASE_TITLE_002;176;0;0;0;0;El ï¿½ltimo escollo;O ï¿½ltimo obstï¿½culo
+235;31D9CE03;HUD_SECTOR_O_PHASE_TITLE_002;176;1;1;0;0;El ï¿½ltimo escollo;O ï¿½ltimo obstï¿½culo
 236;2B544BD7;HUD_SECTOR_O_PHASE_TITLE_201;177;0;0;0;0;Un viaje casi sin fin;Uma jornada quase sem fim
 237;2B544BD7;HUD_SECTOR_O_PHASE_TITLE_201;177;1;1;0;0;Un viaje casi sin fin;Uma jornada quase sem fim
-238;174633A8;HUD_VENOM_PHASE_TITLE_001;178;0;0;0;0;¡A por Andross!;Vamos atrás de Andross!
-239;174633A8;HUD_VENOM_PHASE_TITLE_001;178;1;1;0;0;¡A por Andross!;Vamos atrás de Andross!
-240;0E4F6212;HUD_VENOM_PHASE_TITLE_002;179;0;0;0;0;La dimensión ilusoria;A dimensão ilusória
-241;0E4F6212;HUD_VENOM_PHASE_TITLE_002;179;1;1;0;0;La dimensión ilusoria;A dimensão ilusória
+238;174633A8;HUD_VENOM_PHASE_TITLE_001;178;0;0;0;0;ï¿½A por Andross!;Vamos atrï¿½s de Andross!
+239;174633A8;HUD_VENOM_PHASE_TITLE_001;178;1;1;0;0;ï¿½A por Andross!;Vamos atrï¿½s de Andross!
+240;0E4F6212;HUD_VENOM_PHASE_TITLE_002;179;0;0;0;0;La dimensiï¿½n ilusoria;A dimensï¿½o ilusï¿½ria
+241;0E4F6212;HUD_VENOM_PHASE_TITLE_002;179;1;1;0;0;La dimensiï¿½n ilusoria;A dimensï¿½o ilusï¿½ria
 242;79485284;HUD_VENOM_PHASE_TITLE_003;180;0;0;0;0;La batalla final;A batalha final
 243;79485284;HUD_VENOM_PHASE_TITLE_003;180;1;1;0;0;La batalla final;A batalha final
-244;05136524;HUD_TRAINING_PHASE_TITLE_001;181;0;0;0;0;Simulación;Simulação
-245;05136524;HUD_TRAINING_PHASE_TITLE_001;181;1;1;0;0;Simulación;Simulação
-246;1C1A349E;HUD_TRAINING_PHASE_TITLE_002;182;0;0;0;0;Atraviesa los aros;Passe pelos anéis
-247;1C1A349E;HUD_TRAINING_PHASE_TITLE_002;182;1;1;0;0;Atraviesa los aros;Passe pelos anéis
+244;05136524;HUD_TRAINING_PHASE_TITLE_001;181;0;0;0;0;Simulaciï¿½n;Simulaï¿½ï¿½o
+245;05136524;HUD_TRAINING_PHASE_TITLE_001;181;1;1;0;0;Simulaciï¿½n;Simulaï¿½ï¿½o
+246;1C1A349E;HUD_TRAINING_PHASE_TITLE_002;182;0;0;0;0;Atraviesa los aros;Passe pelos anï¿½is
+247;1C1A349E;HUD_TRAINING_PHASE_TITLE_002;182;1;1;0;0;Atraviesa los aros;Passe pelos anï¿½is
 248;6B1D0408;HUD_TRAINING_PHASE_TITLE_003;183;0;0;0;0;Recoge las monedas;Colete as moedas
 249;6B1D0408;HUD_TRAINING_PHASE_TITLE_003;183;1;1;0;0;Recoge las monedas;Colete as moedas
 250;1293CD15;HUD_CLEAR_COMPLETE_001;184;0;0;0;0;;
@@ -255,24 +255,24 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 253;62F9399A;HUD_CLEAR_COMPLETE_004;187;0;0;0;0;;
 254;1351A722;HUD_CLEAR_COMPLETE_101;188;0;0;0;0;;
 255;0A58F698;HUD_CLEAR_COMPLETE_102;189;0;0;0;0;;
-256;7D5FC60E;HUD_CLEAR_COMPLETE_103;190;0;0;0;0;SIMULACIÓN;SIMULAÇÃO
-257;15FE090C;HUD_CLEAR_COMPLETE_005;191;0;0;0;0;MISIÓN;MISSÃO
+256;7D5FC60E;HUD_CLEAR_COMPLETE_103;190;0;0;0;0;SIMULACIï¿½N;SIMULAï¿½ï¿½O
+257;15FE090C;HUD_CLEAR_COMPLETE_005;191;0;0;0;0;MISIï¿½N;MISSï¿½O
 258;0CF758B6;HUD_CLEAR_COMPLETE_006;192;0;0;0;0;CUM;COM
-259;7BF06820;HUD_CLEAR_COMPLETE_007;193;0;0;0;0;PLIDA;CLUÍDA
+259;7BF06820;HUD_CLEAR_COMPLETE_007;193;0;0;0;0;PLIDA;CLUï¿½DA
 260;70C756D5;HUD_CLEAR_FINISH_003;194;0;0;0;0;;
 261;00ADA25A;HUD_CLEAR_FINISH_006;195;0;0;0;0;CONC;CONC
-262;77AA92CC;HUD_CLEAR_FINISH_007;196;0;0;0;0;LUIDA;LUÍDA
+262;77AA92CC;HUD_CLEAR_FINISH_007;196;0;0;0;0;LUIDA;LUï¿½DA
 263;30F68FB7;HUD_FAIL_003;197;0;0;0;0;;
 264;2E921A14;HUD_FAIL_004;198;0;0;0;0;;
 265;409C7B38;HUD_FAIL_006;199;0;0;0;0;FAL;FRACA
 266;379B4BAE;HUD_FAIL_007;200;0;0;0;0;LIDA;SSADA
-267;4AD98094;HUD_BREAK_INFO_001;201;0;0;0;0;¿Comenzar la siguiente misión?;Deseja iniciar a próxima missão?
+267;4AD98094;HUD_BREAK_INFO_001;201;0;0;0;0;ï¿½Comenzar la siguiente misiï¿½n?;Deseja iniciar a prï¿½xima missï¿½o?
 268;53D0D12E;HUD_BREAK_INFO_002;202;0;0;0;0;Hacer una pausa;Fazer uma pausa
-269;24D7E1B8;HUD_BREAK_INFO_003;203;0;0;0;0;¿Quieres interrumpir la partida?;Deseja interromper o jogo? 
-270;24D7E1B8;HUD_BREAK_INFO_003;203;0;0;1;1;(Se crearán datos de suspensión;(Serão criados dados de suspensão
-271;24D7E1B8;HUD_BREAK_INFO_003;203;0;0;2;2;para que puedas retomarla desde;para que você possa retomá-lo
-272;24D7E1B8;HUD_BREAK_INFO_003;203;0;0;3;3;este punto más adelante.);de onde parou.)
-273;7ACB4192;HUD_NEXT_INFO_001;204;0;0;0;0;¿Quieres utilizar el teleportador;Deseja usar o teletransportador
-274;7ACB4192;HUD_NEXT_INFO_001;204;0;0;1;1;que conduce a Zoness?;que leva até Zoness?
-275;63C21028;HUD_NEXT_INFO_002;205;0;0;0;0;¿Quieres utilizar el teleportador;Deseja usar o teletransportador
-276;63C21028;HUD_NEXT_INFO_002;205;0;0;1;1;que conduce a Venom?;que leva até Venom?
+269;24D7E1B8;HUD_BREAK_INFO_003;203;0;0;0;0;ï¿½Quieres interrumpir la partida?;Deseja interromper o jogo? 
+270;24D7E1B8;HUD_BREAK_INFO_003;203;0;0;1;1;(Se crearï¿½n datos de suspensiï¿½n;(Serï¿½o criados dados de suspensï¿½o
+271;24D7E1B8;HUD_BREAK_INFO_003;203;0;0;2;2;para que puedas retomarla desde;para que vocï¿½ possa retomï¿½-lo
+272;24D7E1B8;HUD_BREAK_INFO_003;203;0;0;3;3;este punto mï¿½s adelante.);de onde parou.)
+273;7ACB4192;HUD_NEXT_INFO_001;204;0;0;0;0;ï¿½Quieres utilizar el teleportador;Deseja usar o teletransportador
+274;7ACB4192;HUD_NEXT_INFO_001;204;0;0;1;1;que conduce a Zoness?;que leva atï¿½ Zoness?
+275;63C21028;HUD_NEXT_INFO_002;205;0;0;0;0;ï¿½Quieres utilizar el teleportador;Deseja usar o teletransportador
+276;63C21028;HUD_NEXT_INFO_002;205;0;0;1;1;que conduce a Venom?;que leva atï¿½ Venom?

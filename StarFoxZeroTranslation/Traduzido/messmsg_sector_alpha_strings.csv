@@ -1,68 +1,68 @@
 INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
-0;3E60651D;FOX_SECTOR_ALPHA_001;0;0;0;0;0;¡Proteged la flota de Corneria!;Protejam a frota de Corneria!
-1;276934A7;FOX_SECTOR_ALPHA_002;1;0;0;0;0;Aquí Fox. ¡Voy a entrar en la fragata!;Aqui é o Fox. Vou entrar na fragata!
-2;4E0A9192;FOX_SECTOR_ALPHA_004;2;0;0;0;0;¡Nos acercamos a la fragata;Estamos nos aproximando da fragata
+0;3E60651D;FOX_SECTOR_ALPHA_001;0;0;0;0;0;ï¿½Proteged la flota de Corneria!;Protejam a frota de Corneria!
+1;276934A7;FOX_SECTOR_ALPHA_002;1;0;0;0;0;Aquï¿½ Fox. ï¿½Voy a entrar en la fragata!;Aqui ï¿½ o Fox. Vou entrar na fragata!
+2;4E0A9192;FOX_SECTOR_ALPHA_004;2;0;0;0;0;ï¿½Nos acercamos a la fragata;Estamos nos aproximando da fragata
 3;4E0A9192;FOX_SECTOR_ALPHA_004;2;0;0;1;1;de la flota enemiga!;da frota inimiga!
-4;390DA104;FOX_SECTOR_ALPHA_005;3;0;0;0;0;¡Mis sensores detectan;Meus sensores estão detectando
-5;390DA104;FOX_SECTOR_ALPHA_005;3;0;0;1;1;niveles muy altos de energía!;níveis muito altos de energia!
-6;2004F0BE;FOX_SECTOR_ALPHA_006;4;0;0;0;0;¡He localizado la fuente de energía!;Localizei a fonte de energia!
-7;5703C028;FOX_SECTOR_ALPHA_007;5;0;0;0;0;¡Vamos! ¡A por ellos!;Vamos lá! Vamos atrás deles!
-8;47BCDDB9;FOX_SECTOR_ALPHA_008;6;0;0;0;0;¡Informad de vuestro estado!;Informem a sua situação!
-9;2D1EA966;FALCO_SECTOR_ALPHA_001;7;0;0;0;0;¡Fox! ¡Nos atacan desde arriba!;Fox! Estão nos atacando por cima!
+4;390DA104;FOX_SECTOR_ALPHA_005;3;0;0;0;0;ï¿½Mis sensores detectan;Meus sensores estï¿½o detectando
+5;390DA104;FOX_SECTOR_ALPHA_005;3;0;0;1;1;niveles muy altos de energï¿½a!;nï¿½veis muito altos de energia!
+6;2004F0BE;FOX_SECTOR_ALPHA_006;4;0;0;0;0;ï¿½He localizado la fuente de energï¿½a!;Localizei a fonte de energia!
+7;5703C028;FOX_SECTOR_ALPHA_007;5;0;0;0;0;ï¿½Vamos! ï¿½A por ellos!;Vamos lï¿½! Vamos atrï¿½s deles!
+8;47BCDDB9;FOX_SECTOR_ALPHA_008;6;0;0;0;0;ï¿½Informad de vuestro estado!;Informem a sua situaï¿½ï¿½o!
+9;2D1EA966;FALCO_SECTOR_ALPHA_001;7;0;0;0;0;ï¿½Fox! ï¿½Nos atacan desde arriba!;Fox! Estï¿½o nos atacando por cima!
 10;3417F8DC;FALCO_SECTOR_ALPHA_002;8;0;0;0;0;Aunque casi no sepa volar,;Ainda que mal consiga voar, dou a minha
-11;3417F8DC;FALCO_SECTOR_ALPHA_002;8;0;0;1;1;le doy el visto bueno al pajarito.;aprovação ao pequeno pássaro.
-12;4310C84A;FALCO_SECTOR_ALPHA_003;9;0;0;0;0;¡Es hora de dar un poco de caña!;É hora de acelerar um pouco!
-13;54C211C2;FALCO_SECTOR_ALPHA_008;10;0;0;0;0;¡Casi no lo cuentan!;Por pouco não se safaram!
+11;3417F8DC;FALCO_SECTOR_ALPHA_002;8;0;0;1;1;le doy el visto bueno al pajarito.;aprovaï¿½ï¿½o ao pequeno pï¿½ssaro.
+12;4310C84A;FALCO_SECTOR_ALPHA_003;9;0;0;0;0;ï¿½Es hora de dar un poco de caï¿½a!;ï¿½ hora de acelerar um pouco!
+13;54C211C2;FALCO_SECTOR_ALPHA_008;10;0;0;0;0;ï¿½Casi no lo cuentan!;Por pouco nï¿½o se safaram!
 14;4302A8B1;FALCO_SECTOR_ALPHA_010;11;0;0;0;0;Hemos dejado el sector bien limpito;Deixamos o setor bem limpo
-15;4302A8B1;FALCO_SECTOR_ALPHA_010;11;0;0;1;1;en tu ausencia.;na sua ausência.
-16;34059827;FALCO_SECTOR_ALPHA_011;12;0;0;0;0;Casi no sales vivo...;Você quase não saiu vivo...
-17;47DA76EC;PEPPY_SECTOR_ALPHA_001;13;0;0;0;0;¡Me he despistado! ¡Ayúdame!;Me distraí! Me ajude!
+15;4302A8B1;FALCO_SECTOR_ALPHA_010;11;0;0;1;1;en tu ausencia.;na sua ausï¿½ncia.
+16;34059827;FALCO_SECTOR_ALPHA_011;12;0;0;0;0;Casi no sales vivo...;Vocï¿½ quase nï¿½o saiu vivo...
+17;47DA76EC;PEPPY_SECTOR_ALPHA_001;13;0;0;0;0;ï¿½Me he despistado! ï¿½Ayï¿½dame!;Me distraï¿½! Me ajude!
 18;5ED32756;PEPPY_SECTOR_ALPHA_002;14;0;0;0;0;Recibido. Nosotros haremos limpieza;Recebido. Vamos limpar
-19;5ED32756;PEPPY_SECTOR_ALPHA_002;14;0;0;1;1;por aquí.;esta área.
-20;40B7B2F5;PEPPY_SECTOR_ALPHA_005;15;0;0;0;0;¡Oh, no! ¡Ese destructor tiene;Ah, não! Aquele destruidor está
+19;5ED32756;PEPPY_SECTOR_ALPHA_002;14;0;0;1;1;por aquï¿½.;esta ï¿½rea.
+20;40B7B2F5;PEPPY_SECTOR_ALPHA_005;15;0;0;0;0;ï¿½Oh, no! ï¿½Ese destructor tiene;Ah, nï¿½o! Aquele destruidor estï¿½
 21;40B7B2F5;PEPPY_SECTOR_ALPHA_005;15;0;0;1;1;la mira puesta en la flota de Corneria!;mirando na frota de Corneria!
-22;59BEE34F;PEPPY_SECTOR_ALPHA_006;16;0;0;0;0;¡Destruye sus cañones;Destrua os canhões dele
+22;59BEE34F;PEPPY_SECTOR_ALPHA_006;16;0;0;0;0;ï¿½Destruye sus caï¿½ones;Destrua os canhï¿½es dele
 23;59BEE34F;PEPPY_SECTOR_ALPHA_006;16;0;0;1;1;antes de que disparen!;antes que disparem!
 24;3E06CE48;PEPPY_SECTOR_ALPHA_008;17;0;0;0;0;Tengo que regresar al Great Fox;Tenho que voltar para a Great Fox
-25;3E06CE48;PEPPY_SECTOR_ALPHA_008;17;0;0;1;1;o no saldré de esta.;ou não vou me safar dessa.
-26;4901FEDE;PEPPY_SECTOR_ALPHA_009;18;0;0;0;0;Has hecho grandes progresos, Fox.;Você fez um grande progresso, Fox.
-27;4901FEDE;PEPPY_SECTOR_ALPHA_009;18;0;0;1;1;¡Así me gusta!;É assim que eu gosto!
-28;29C6773B;PEPPY_SECTOR_ALPHA_010;19;0;0;0;0;¡Destruye la fuente de energía!;Destrua a fonte de energia!
-29;5EC147AD;PEPPY_SECTOR_ALPHA_011;20;0;0;0;0;¡Así se hace, Fox!;É isso aí, Fox!
-30;5EC147AD;PEPPY_SECTOR_ALPHA_011;20;0;0;1;1;¡Eres igualito que tu padre!;Você é igualzinho ao seu pai!
-31;47C81617;PEPPY_SECTOR_ALPHA_012;21;0;0;0;0;¡Usa el turbo para acelerar!;Use o turbo para acelerar!
-32;59AC83B4;PEPPY_SECTOR_ALPHA_015;22;0;0;0;0;¡Has estado genial, Fox!;Você foi ótimo, Fox!
-33;40A5D20E;PEPPY_SECTOR_ALPHA_016;23;0;0;0;0;¡Haz un tonel!;Faça uma manobra de barril!
-34;37A2E298;PEPPY_SECTOR_ALPHA_017;24;0;0;0;0;¡Fija el objetivo para orientarte mejor!;Fixe o alvo para se orientar melhor!
-35;16F5BB1D;SLIPPY_SECTOR_ALPHA_001;25;0;0;0;0;¡Suerte, Fox!;Boa sorte, Fox!
-36;669F4F92;SLIPPY_SECTOR_ALPHA_004;26;0;0;0;0;¡Bien! ¡Yo estaba tan asustado;Muito bem! Eu estava tão asustado
-37;669F4F92;SLIPPY_SECTOR_ALPHA_004;26;0;0;1;1;que no podía ni moverme!;que não podia me mover!
-38;11987F04;SLIPPY_SECTOR_ALPHA_005;27;0;0;0;0;¡Se acercan más destructores!;Mais destróieres estão se aproximando!
-39;08912EBE;SLIPPY_SECTOR_ALPHA_006;28;0;0;0;0;¡No escaparéis!;Vocês não vão escapar!
-40;7F961E28;SLIPPY_SECTOR_ALPHA_007;29;0;0;0;0;¡Ja, ja! ¡Os he dado para el pelo!;Ha, ha! Eu dei um baile em vocês!
-41;6F2903B9;SLIPPY_SECTOR_ALPHA_008;30;0;0;0;0;¡Jo, Fox, podía yo solito!;Nossa, Fox, eu conseguia sozinho!
-42;182E332F;SLIPPY_SECTOR_ALPHA_009;31;0;0;0;0;¡Ha sido una pasada!;Foi demais!
+25;3E06CE48;PEPPY_SECTOR_ALPHA_008;17;0;0;1;1;o no saldrï¿½ de esta.;ou nï¿½o vou me safar dessa.
+26;4901FEDE;PEPPY_SECTOR_ALPHA_009;18;0;0;0;0;Has hecho grandes progresos, Fox.;Vocï¿½ fez um grande progresso, Fox.
+27;4901FEDE;PEPPY_SECTOR_ALPHA_009;18;0;0;1;1;ï¿½Asï¿½ me gusta!;ï¿½ assim que eu gosto!
+28;29C6773B;PEPPY_SECTOR_ALPHA_010;19;0;0;0;0;ï¿½Destruye la fuente de energï¿½a!;Destrua a fonte de energia!
+29;5EC147AD;PEPPY_SECTOR_ALPHA_011;20;0;0;0;0;ï¿½Asï¿½ se hace, Fox!;ï¿½ isso aï¿½, Fox!
+30;5EC147AD;PEPPY_SECTOR_ALPHA_011;20;0;0;1;1;ï¿½Eres igualito que tu padre!;Vocï¿½ ï¿½ igualzinho ao seu pai!
+31;47C81617;PEPPY_SECTOR_ALPHA_012;21;0;0;0;0;ï¿½Usa el turbo para acelerar!;Use o turbo para acelerar!
+32;59AC83B4;PEPPY_SECTOR_ALPHA_015;22;0;0;0;0;ï¿½Has estado genial, Fox!;Vocï¿½ foi ï¿½timo, Fox!
+33;40A5D20E;PEPPY_SECTOR_ALPHA_016;23;0;0;0;0;ï¿½Haz un tonel!;Faï¿½a uma manobra de giro!
+34;37A2E298;PEPPY_SECTOR_ALPHA_017;24;0;0;0;0;ï¿½Fija el objetivo para orientarte mejor!;Fixe o alvo para se orientar melhor!
+35;16F5BB1D;SLIPPY_SECTOR_ALPHA_001;25;0;0;0;0;ï¿½Suerte, Fox!;Boa sorte, Fox!
+36;669F4F92;SLIPPY_SECTOR_ALPHA_004;26;0;0;0;0;ï¿½Bien! ï¿½Yo estaba tan asustado;Muito bem! Eu estava tï¿½o asustado
+37;669F4F92;SLIPPY_SECTOR_ALPHA_004;26;0;0;1;1;que no podï¿½a ni moverme!;que nï¿½o podia me mover!
+38;11987F04;SLIPPY_SECTOR_ALPHA_005;27;0;0;0;0;ï¿½Se acercan mï¿½s destructores!;Mais destrï¿½ieres estï¿½o se aproximando!
+39;08912EBE;SLIPPY_SECTOR_ALPHA_006;28;0;0;0;0;ï¿½No escaparï¿½is!;Vocï¿½s nï¿½o vï¿½o escapar!
+40;7F961E28;SLIPPY_SECTOR_ALPHA_007;29;0;0;0;0;ï¿½Ja, ja! ï¿½Os he dado para el pelo!;Ha, ha! Eu dei um baile em vocï¿½s!
+41;6F2903B9;SLIPPY_SECTOR_ALPHA_008;30;0;0;0;0;ï¿½Jo, Fox, podï¿½a yo solito!;Nossa, Fox, eu conseguia sozinho!
+42;182E332F;SLIPPY_SECTOR_ALPHA_009;31;0;0;0;0;ï¿½Ha sido una pasada!;Foi demais!
 43;3293AA01;NAUS_SECTOR_ALPHA_001;32;0;0;0;0;Modo Walker activado.;Modo Walker ativado.
-44;2B9AFBBB;NAUS_SECTOR_ALPHA_002;33;0;0;0;0;El Walker es óptimo para espacios;O Walker é ótimo para espaços
+44;2B9AFBBB;NAUS_SECTOR_ALPHA_002;33;0;0;0;0;El Walker es ï¿½ptimo para espacios;O Walker ï¿½ ï¿½timo para espaï¿½os
 45;2B9AFBBB;NAUS_SECTOR_ALPHA_002;33;0;0;1;1;cerrados.;fechados.
 46;35FE6E18;NAUS_SECTOR_ALPHA_005;34;0;0;0;0;Inclina {button:21} hacia arriba para correr.;Incline {button:21} para cima para correr.
 47;2CF73FA2;NAUS_SECTOR_ALPHA_006;35;0;0;0;0;Inclina {button:21} hacia abajo para volar.;Incline {button:21} para baixo para voar.
-48;6DDC73F6;C_SOLDIER_SECTOR_ALPHA_001;36;0;0;0;0;¡Gracias, Star Fox!;Obrigado, Star Fox!
-49;03D212DA;C_SOLDIER_SECTOR_ALPHA_003;37;0;0;0;0;¡Os debo una, Star Fox!;Estou em dívida com vocês, Star Fox!
-50;74D5224C;C_SOLDIER_SECTOR_ALPHA_002;38;0;0;0;0;¡Aaaahhh!;Aaaahhh!
-51;6AB1B7EF;C_SOLDIER_SECTOR_ALPHA_005;39;0;0;0;0;¡Nooo!;Nãooo!
-52;73B8E655;C_SOLDIER_SECTOR_ALPHA_006;40;0;0;0;0;¡Aarrggghhh!;Aarrggghhh!
-53;59C8EE06;SOLDIER_SECTOR_ALPHA_001;41;0;0;0;0;¡Comandante!;Comandante!
-54;59C8EE06;SOLDIER_SECTOR_ALPHA_001;41;0;0;1;1;¡Hay un intruso en la nave!;Tem um intruso na nave!
+48;6DDC73F6;C_SOLDIER_SECTOR_ALPHA_001;36;0;0;0;0;ï¿½Gracias, Star Fox!;Obrigado, Star Fox!
+49;03D212DA;C_SOLDIER_SECTOR_ALPHA_003;37;0;0;0;0;ï¿½Os debo una, Star Fox!;Estou em dï¿½vida com vocï¿½s, Star Fox!
+50;74D5224C;C_SOLDIER_SECTOR_ALPHA_002;38;0;0;0;0;ï¿½Aaaahhh!;Aaaahhh!
+51;6AB1B7EF;C_SOLDIER_SECTOR_ALPHA_005;39;0;0;0;0;ï¿½Nooo!;Nï¿½ooo!
+52;73B8E655;C_SOLDIER_SECTOR_ALPHA_006;40;0;0;0;0;ï¿½Aarrggghhh!;Aarrggghhh!
+53;59C8EE06;SOLDIER_SECTOR_ALPHA_001;41;0;0;0;0;ï¿½Comandante!;Comandante!
+54;59C8EE06;SOLDIER_SECTOR_ALPHA_001;41;0;0;1;1;ï¿½Hay un intruso en la nave!;Tem um intruso na nave!
 55;40C1BFBC;SOLDIER_SECTOR_ALPHA_002;42;0;0;0;0;Si tantas ganas tiene de morir,;Se ele tem tanta vontade de morrer,
-56;40C1BFBC;SOLDIER_SECTOR_ALPHA_002;42;0;0;1;1;¡nuestros robots se encargarán de él!;nossos robôs vão cuidar dele!
-57;37C68F2A;SOLDIER_SECTOR_ALPHA_003;43;0;0;0;0;¿Cómo? ¿¡Aún sigue vivo!?;Como assim? Ele ainda está vivo!?
-58;37C68F2A;SOLDIER_SECTOR_ALPHA_003;43;0;0;1;1;¡Enviad refuerzos!;Mandem reforços!
-59;29A21A89;SOLDIER_SECTOR_ALPHA_004;44;0;0;0;0;¡Cerradle el paso!;Bloqueiem o caminho dele!
-60;29A21A89;SOLDIER_SECTOR_ALPHA_004;44;0;0;1;1;¡Que no llegue a la sala del reactor!;Não permitam que ele alcance a sala do reator
-61;5EA52A1F;SOLDIER_SECTOR_ALPHA_005;45;0;0;0;0;Nos has puesto tu cabeza;Você nos entregou sua cabeça
+56;40C1BFBC;SOLDIER_SECTOR_ALPHA_002;42;0;0;1;1;ï¿½nuestros robots se encargarï¿½n de ï¿½l!;nossos robï¿½s vï¿½o cuidar dele!
+57;37C68F2A;SOLDIER_SECTOR_ALPHA_003;43;0;0;0;0;ï¿½Cï¿½mo? ï¿½ï¿½Aï¿½n sigue vivo!?;Como assim? Ele ainda estï¿½ vivo!?
+58;37C68F2A;SOLDIER_SECTOR_ALPHA_003;43;0;0;1;1;ï¿½Enviad refuerzos!;Mandem reforï¿½os!
+59;29A21A89;SOLDIER_SECTOR_ALPHA_004;44;0;0;0;0;ï¿½Cerradle el paso!;Bloqueiem o caminho dele!
+60;29A21A89;SOLDIER_SECTOR_ALPHA_004;44;0;0;1;1;ï¿½Que no llegue a la sala del reactor!;Nï¿½o permitam que ele alcance a sala do reator
+61;5EA52A1F;SOLDIER_SECTOR_ALPHA_005;45;0;0;0;0;Nos has puesto tu cabeza;Vocï¿½ nos entregou sua cabeï¿½a
 62;5EA52A1F;SOLDIER_SECTOR_ALPHA_005;45;0;0;1;1;en bandeja.;em uma bandeja.
-63;47AC7BA5;SOLDIER_SECTOR_ALPHA_006;46;0;0;0;0;¡No saldrás de esta con vida!;Você não vai sair vivo dessa!
-64;30AB4B33;SOLDIER_SECTOR_ALPHA_007;47;0;0;0;0;¡Te has metido en la boca del lobo!;Você se meteu na boca do lobo!
-65;201456A2;SOLDIER_SECTOR_ALPHA_008;48;0;0;0;0;¡¿Cómo?!;Como assim?!
-66;57136634;SOLDIER_SECTOR_ALPHA_009;49;0;0;0;0;Grrr... ¡Cargáoslo de una vez, ineptos!;Grrr... Acabem com ele logo, seus incompetentes!
+63;47AC7BA5;SOLDIER_SECTOR_ALPHA_006;46;0;0;0;0;ï¿½No saldrï¿½s de esta con vida!;Vocï¿½ nï¿½o vai sair vivo dessa!
+64;30AB4B33;SOLDIER_SECTOR_ALPHA_007;47;0;0;0;0;ï¿½Te has metido en la boca del lobo!;Vocï¿½ se meteu na boca do lobo!
+65;201456A2;SOLDIER_SECTOR_ALPHA_008;48;0;0;0;0;ï¿½ï¿½Cï¿½mo?!;Como assim?!
+66;57136634;SOLDIER_SECTOR_ALPHA_009;49;0;0;0;0;Grrr... ï¿½Cargï¿½oslo de una vez, ineptos!;Grrr... Acabem com ele logo, seus incompetentes!

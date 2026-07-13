@@ -1,210 +1,210 @@
 INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STRING_INDEX;TEXT_ORIGINAL;TEXT_TRADUZIDO
-0;3B9FBD9C;FOX_COMMON_001;0;0;0;0;0;¡Modo abierto!;Modo livre!
-1;5591DCB0;FOX_COMMON_003;1;0;0;0;0;¡¡Uaaaaah!!;Uaaaaah!!
-2;4BF54913;FOX_COMMON_004;2;0;0;0;0;¡Nadie me da esquinazo!;Ninguém me engana!
-3;3CF27985;FOX_COMMON_005;3;0;0;0;0;¡Blanco a la vista!;Estou vendo o alvo!
-4;25FB283F;FOX_COMMON_006;4;0;0;0;0;¡A por todas!;Vamos nessa!
-5;3E8EC3CF;FALCO_COMMON_002;5;0;0;0;0;¡Oye, listillo! ¡Que estoy de tu lado!;Ei, espertinho! Estou do seu lado!
-6;4989F359;FALCO_COMMON_003;6;0;0;0;0;¡Nooo!;Nãooo!
-7;57ED66FA;FALCO_COMMON_004;7;0;0;0;0;¡Estaría bien que me echaras un cable, Fox!;Seria legal se você me desse uma mãozinha, Fox!
+0;3B9FBD9C;FOX_COMMON_001;0;0;0;0;0;ï¿½Modo abierto!;Modo livre!
+1;5591DCB0;FOX_COMMON_003;1;0;0;0;0;ï¿½ï¿½Uaaaaah!!;Uaaaaah!!
+2;4BF54913;FOX_COMMON_004;2;0;0;0;0;ï¿½Nadie me da esquinazo!;Ninguï¿½m me engana!
+3;3CF27985;FOX_COMMON_005;3;0;0;0;0;ï¿½Blanco a la vista!;Estou vendo o alvo!
+4;25FB283F;FOX_COMMON_006;4;0;0;0;0;ï¿½A por todas!;Vamos nessa!
+5;3E8EC3CF;FALCO_COMMON_002;5;0;0;0;0;ï¿½Oye, listillo! ï¿½Que estoy de tu lado!;Ei, espertinho! Estou do seu lado!
+6;4989F359;FALCO_COMMON_003;6;0;0;0;0;ï¿½Nooo!;Nï¿½ooo!
+7;57ED66FA;FALCO_COMMON_004;7;0;0;0;0;ï¿½Estarï¿½a bien que me echaras un cable, Fox!;Seria legal se vocï¿½ me desse uma mï¿½ozinha, Fox!
 8;20EA566C;FALCO_COMMON_005;8;0;0;0;0;Supongo que te debo una.;Acho que te devo uma.
-9;39E307D6;FALCO_COMMON_006;9;0;0;0;0;¡Uno menos!;Um a menos!
-10;4EE43740;FALCO_COMMON_007;10;0;0;0;0;¡Te pisan los talones, Fox!;Estão perseguindo você! 
-11;4EE43740;FALCO_COMMON_007;10;0;0;1;1;¡Haz un rizo!;Faça um looping!
-12;5E5B2AD1;FALCO_COMMON_008;11;0;0;0;0;¡No hacía falta que te entrometieras, Fox!;Não precisava ter se metido nisso, Fox!
-13;295C1A47;FALCO_COMMON_009;12;0;0;0;0;¡Maldición! ¡Tengo que retirarme!;Droga! Tenho que me retirar!
-14;3E9CA334;FALCO_COMMON_011;13;0;0;0;0;¡Deprisa, Fox!;Rápido, Fox!
-15;3E9CA334;FALCO_COMMON_011;13;0;0;1;1;¡Se nos echa el tiempo encima!;O tempo está se esgotando!
-16;2795F28E;FALCO_COMMON_012;14;0;0;0;0;¿A qué juegas, Fox?;O que você está fazendo, Fox?
-17;2795F28E;FALCO_COMMON_012;14;0;0;1;1;¡Ponte las pilas!;Se apresse!
-18;5092C218;FALCO_COMMON_013;15;0;0;0;0;¿Pasa algo?;Tem algo acontecendo?
-19;4EF657BB;FALCO_COMMON_014;16;0;0;0;0;¿Mmm?;Hmm?
-20;39F1672D;FALCO_COMMON_015;17;0;0;0;0;¿Qué quieres, Fox?;O que você quer, Fox?
-21;20F83697;FALCO_COMMON_016;18;0;0;0;0;¡Apunta a otro lado!;Mira para outro lado!
-22;57FF0601;FALCO_COMMON_017;19;0;0;0;0;¿Qué estás mirando?;O que você está olhando?
-23;499B93A2;FALCO_COMMON_010;20;0;0;0;0;¡Quítate de en medio!;Sai do caminho!
-24;47401B90;FALCO_COMMON_018;21;0;0;0;0;¡Has salido de otras peores!;Você já se safou de situações piores!
-25;30472B06;FALCO_COMMON_019;22;0;0;0;0;¡Aguanta!;Aguenta firme!
-26;00692F44;FALCO_SPARE_001;23;0;0;0;0;¡Voy por arriba!;Vou por cima!
-27;19607EFE;FALCO_SPARE_002;24;0;0;0;0;¡Yo iré por abajo!;Eu vou por baixo!
-28;6E674E68;FALCO_SPARE_003;25;0;0;0;0;¡Me quedo el lado izquierdo!;Fico com o lado esquerdo!
-29;7003DBCB;FALCO_SPARE_004;26;0;0;0;0;¡Yo cubriré el flanco derecho!;Vou passar pela direita!
-30;27EBDE9F;PEPPY_COMMON_002;27;0;0;0;0;¡Ten cuidado, Fox!;Cuidado, Fox!
-31;50ECEE09;PEPPY_COMMON_003;28;0;0;0;0;¡Nooo!;Nãooo!
-32;4E887BAA;PEPPY_COMMON_004;29;0;0;0;0;¡Fox! ¡Necesito ayuda urgente!;Fox! Preciso de ajuda urgente!
-33;398F4B3C;PEPPY_COMMON_005;30;0;0;0;0;¡Gracias , Fox!;Obrigado, Fox!
-34;398F4B3C;PEPPY_COMMON_005;30;0;0;1;1;¡Tu padre estaría orgulloso de ti!;Seu pai ficaria orgulhoso de você!
-35;20861A86;PEPPY_COMMON_006;31;0;0;0;0;¡Un enemigo menos!;Mais um inimigo a menos!
-36;57812A10;PEPPY_COMMON_007;32;0;0;0;0;¡Detrás de ti, Fox!;Atrás de você, Fox!
-37;57812A10;PEPPY_COMMON_007;32;0;0;1;1;¡Frena!;Freia!
-38;473E3781;PEPPY_COMMON_008;33;0;0;0;0;¡No seas egoísta, Fox!;Não seja egoísta, Fox!
+9;39E307D6;FALCO_COMMON_006;9;0;0;0;0;ï¿½Uno menos!;Um a menos!
+10;4EE43740;FALCO_COMMON_007;10;0;0;0;0;ï¿½Te pisan los talones, Fox!;Estï¿½o perseguindo vocï¿½! 
+11;4EE43740;FALCO_COMMON_007;10;0;0;1;1;ï¿½Haz un rizo!;Faï¿½a um looping!
+12;5E5B2AD1;FALCO_COMMON_008;11;0;0;0;0;ï¿½No hacï¿½a falta que te entrometieras, Fox!;Nï¿½o precisava ter se metido nisso, Fox!
+13;295C1A47;FALCO_COMMON_009;12;0;0;0;0;ï¿½Maldiciï¿½n! ï¿½Tengo que retirarme!;Droga! Tenho que me retirar!
+14;3E9CA334;FALCO_COMMON_011;13;0;0;0;0;ï¿½Deprisa, Fox!;Rï¿½pido, Fox!
+15;3E9CA334;FALCO_COMMON_011;13;0;0;1;1;ï¿½Se nos echa el tiempo encima!;O tempo estï¿½ se esgotando!
+16;2795F28E;FALCO_COMMON_012;14;0;0;0;0;ï¿½A quï¿½ juegas, Fox?;O que vocï¿½ estï¿½ fazendo, Fox?
+17;2795F28E;FALCO_COMMON_012;14;0;0;1;1;ï¿½Ponte las pilas!;Se apresse!
+18;5092C218;FALCO_COMMON_013;15;0;0;0;0;ï¿½Pasa algo?;Tem algo acontecendo?
+19;4EF657BB;FALCO_COMMON_014;16;0;0;0;0;ï¿½Mmm?;Hmm?
+20;39F1672D;FALCO_COMMON_015;17;0;0;0;0;ï¿½Quï¿½ quieres, Fox?;O que vocï¿½ quer, Fox?
+21;20F83697;FALCO_COMMON_016;18;0;0;0;0;ï¿½Apunta a otro lado!;Mira para outro lado!
+22;57FF0601;FALCO_COMMON_017;19;0;0;0;0;ï¿½Quï¿½ estï¿½s mirando?;O que vocï¿½ estï¿½ olhando?
+23;499B93A2;FALCO_COMMON_010;20;0;0;0;0;ï¿½Quï¿½tate de en medio!;Sai do caminho!
+24;47401B90;FALCO_COMMON_018;21;0;0;0;0;ï¿½Has salido de otras peores!;Vocï¿½ jï¿½ se safou de situaï¿½ï¿½es piores!
+25;30472B06;FALCO_COMMON_019;22;0;0;0;0;ï¿½Aguanta!;Aguenta firme!
+26;00692F44;FALCO_SPARE_001;23;0;0;0;0;ï¿½Voy por arriba!;Vou por cima!
+27;19607EFE;FALCO_SPARE_002;24;0;0;0;0;ï¿½Yo irï¿½ por abajo!;Eu vou por baixo!
+28;6E674E68;FALCO_SPARE_003;25;0;0;0;0;ï¿½Me quedo el lado izquierdo!;Fico com o lado esquerdo!
+29;7003DBCB;FALCO_SPARE_004;26;0;0;0;0;ï¿½Yo cubrirï¿½ el flanco derecho!;Vou passar pela direita!
+30;27EBDE9F;PEPPY_COMMON_002;27;0;0;0;0;ï¿½Ten cuidado, Fox!;Cuidado, Fox!
+31;50ECEE09;PEPPY_COMMON_003;28;0;0;0;0;ï¿½Nooo!;Nï¿½ooo!
+32;4E887BAA;PEPPY_COMMON_004;29;0;0;0;0;ï¿½Fox! ï¿½Necesito ayuda urgente!;Fox! Preciso de ajuda urgente!
+33;398F4B3C;PEPPY_COMMON_005;30;0;0;0;0;ï¿½Gracias , Fox!;Obrigado, Fox!
+34;398F4B3C;PEPPY_COMMON_005;30;0;0;1;1;ï¿½Tu padre estarï¿½a orgulloso de ti!;Seu pai ficaria orgulhoso de vocï¿½!
+35;20861A86;PEPPY_COMMON_006;31;0;0;0;0;ï¿½Un enemigo menos!;Mais um inimigo a menos!
+36;57812A10;PEPPY_COMMON_007;32;0;0;0;0;ï¿½Detrï¿½s de ti, Fox!;Atrï¿½s de vocï¿½, Fox!
+37;57812A10;PEPPY_COMMON_007;32;0;0;1;1;ï¿½Frena!;Freia!
+38;473E3781;PEPPY_COMMON_008;33;0;0;0;0;ï¿½No seas egoï¿½sta, Fox!;Nï¿½o seja egoï¿½sta, Fox!
 39;30390717;PEPPY_COMMON_009;34;0;0;0;0;Tengo que regresar al Great Fox;Tenho que voltar para o Great Fox
-40;30390717;PEPPY_COMMON_009;34;0;0;1;1;o no saldré de esta.;ou não vou conseguir sair dessa.
-41;50FE8EF2;PEPPY_COMMON_010;35;0;0;0;0;¡No bajes la guardia, Fox!;Não baixe a guarda, Fox!
-42;27F9BE64;PEPPY_COMMON_011;36;0;0;0;0;¡Fox, la cosa pinta mal!;Fox, a situação está feia!
-43;3EF0EFDE;PEPPY_COMMON_012;37;0;0;0;0;¡Haz algo, Fox!;Faça alguma coisa, Fox!
-44;3EF0EFDE;PEPPY_COMMON_012;37;0;0;1;1;¡Queda poco tiempo!;Está acabando o tempo!
-45;49F7DF48;PEPPY_COMMON_013;38;0;0;0;0;¡Aprovecha bien las bombas!;Aproveita bem as bombas!
-46;20947A7D;PEPPY_COMMON_015;39;0;0;0;0;¿Querías algo?;Você queria alguma coisa?
-47;399D2BC7;PEPPY_COMMON_016;40;0;0;0;0;¿Todo en orden?;Tudo em ordem?
-48;4E9A1B51;PEPPY_COMMON_017;41;0;0;0;0;¿Necesitas ayuda?;Precisa de ajuda?
-49;5E2506C0;PEPPY_COMMON_018;42;0;0;0;0;¡No te despistes, Fox!;Não se distraia, Fox!
-50;29223656;PEPPY_COMMON_019;43;0;0;0;0;¡Céntrate, Fox!;Concentre-se, Fox!
-51;7BD3DD31;PEPPY_COMMON_020;44;0;0;0;0;¿Va todo bien, Fox?;Está tudo bem, Fox?
-52;0CD4EDA7;PEPPY_COMMON_021;45;0;0;0;0;¡Fox! ¿Estás bien?;Fox! Você está bem?
-53;15DDBC1D;PEPPY_COMMON_022;46;0;0;0;0;¡No te rindas, Fox!;Não desista, Fox!
-54;15DDBC1D;PEPPY_COMMON_022;46;0;0;1;1;¡Confía en tu instinto!;Confie no seu instinto!
-55;62DA8C8B;PEPPY_COMMON_023;47;0;0;0;0;¡Ahí va un tonel!;Um barrilzinho!
-56;7CBE1928;PEPPY_COMMON_024;48;0;0;0;0;¡Hurra!;Viva!
-57;0BB929BE;PEPPY_COMMON_025;49;0;0;0;0;¡Haz un tonel!;Dá loop!
-58;6C25C547;PEPPY_SPARE_001;50;0;0;0;0;¡De arriba me encargo yo!;Eu cuido da parte de cima!
-59;752C94FD;PEPPY_SPARE_002;51;0;0;0;0;¡Yo voy por abajo!;Eu vou pela parte de baixo!
-60;022BA46B;PEPPY_SPARE_003;52;0;0;0;0;Dejadme a mí la izquierda.;Deixem a esquerda comigo.
-61;1C4F31C8;PEPPY_SPARE_004;53;0;0;0;0;Os cubriré por la derecha.;Vou dar cobertura pela direita.
-62;466685A4;SLIPPY_COMMON_003;54;0;0;0;0;¡Nooo!;Nãooo!
-63;58021007;SLIPPY_COMMON_004;55;0;0;0;0;¡Ay! ¡¿A qué viene eso, Fox?!;Ai! Por que você fez isso, Fox?!
+40;30390717;PEPPY_COMMON_009;34;0;0;1;1;o no saldrï¿½ de esta.;ou nï¿½o vou conseguir sair dessa.
+41;50FE8EF2;PEPPY_COMMON_010;35;0;0;0;0;ï¿½No bajes la guardia, Fox!;Nï¿½o baixe a guarda, Fox!
+42;27F9BE64;PEPPY_COMMON_011;36;0;0;0;0;ï¿½Fox, la cosa pinta mal!;Fox, a situaï¿½ï¿½o estï¿½ feia!
+43;3EF0EFDE;PEPPY_COMMON_012;37;0;0;0;0;ï¿½Haz algo, Fox!;Faï¿½a alguma coisa, Fox!
+44;3EF0EFDE;PEPPY_COMMON_012;37;0;0;1;1;ï¿½Queda poco tiempo!;Estï¿½ acabando o tempo!
+45;49F7DF48;PEPPY_COMMON_013;38;0;0;0;0;ï¿½Aprovecha bien las bombas!;Aproveita bem as bombas!
+46;20947A7D;PEPPY_COMMON_015;39;0;0;0;0;ï¿½Querï¿½as algo?;Vocï¿½ queria alguma coisa?
+47;399D2BC7;PEPPY_COMMON_016;40;0;0;0;0;ï¿½Todo en orden?;Tudo em ordem?
+48;4E9A1B51;PEPPY_COMMON_017;41;0;0;0;0;ï¿½Necesitas ayuda?;Precisa de ajuda?
+49;5E2506C0;PEPPY_COMMON_018;42;0;0;0;0;ï¿½No te despistes, Fox!;Nï¿½o se distraia, Fox!
+50;29223656;PEPPY_COMMON_019;43;0;0;0;0;ï¿½Cï¿½ntrate, Fox!;Concentre-se, Fox!
+51;7BD3DD31;PEPPY_COMMON_020;44;0;0;0;0;ï¿½Va todo bien, Fox?;Estï¿½ tudo bem, Fox?
+52;0CD4EDA7;PEPPY_COMMON_021;45;0;0;0;0;ï¿½Fox! ï¿½Estï¿½s bien?;Fox! Vocï¿½ estï¿½ bem?
+53;15DDBC1D;PEPPY_COMMON_022;46;0;0;0;0;ï¿½No te rindas, Fox!;Nï¿½o desista, Fox!
+54;15DDBC1D;PEPPY_COMMON_022;46;0;0;1;1;ï¿½Confï¿½a en tu instinto!;Confie no seu instinto!
+55;62DA8C8B;PEPPY_COMMON_023;47;0;0;0;0;ï¿½Ahï¿½ va un tonel!;Um girozinho!
+56;7CBE1928;PEPPY_COMMON_024;48;0;0;0;0;ï¿½Hurra!;Viva!
+57;0BB929BE;PEPPY_COMMON_025;49;0;0;0;0;ï¿½Haz un tonel!;DÃª um giro!
+58;6C25C547;PEPPY_SPARE_001;50;0;0;0;0;ï¿½De arriba me encargo yo!;Eu cuido da parte de cima!
+59;752C94FD;PEPPY_SPARE_002;51;0;0;0;0;ï¿½Yo voy por abajo!;Eu vou pela parte de baixo!
+60;022BA46B;PEPPY_SPARE_003;52;0;0;0;0;Dejadme a mï¿½ la izquierda.;Deixem a esquerda comigo.
+61;1C4F31C8;PEPPY_SPARE_004;53;0;0;0;0;Os cubrirï¿½ por la derecha.;Vou dar cobertura pela direita.
+62;466685A4;SLIPPY_COMMON_003;54;0;0;0;0;ï¿½Nooo!;Nï¿½ooo!
+63;58021007;SLIPPY_COMMON_004;55;0;0;0;0;ï¿½Ay! ï¿½ï¿½A quï¿½ viene eso, Fox?!;Ai! Por que vocï¿½ fez isso, Fox?!
 64;2F052091;SLIPPY_COMMON_005;56;0;0;0;0;Escudo enemigo analizado.;Escudo inimigo analisado.
-65;360C712B;SLIPPY_COMMON_006;57;0;0;0;0;Tengo al enemigo encima. ¡Ayúdame, Fox!;O inimigo está em cima de mim. Me ajude, Fox!
-66;410B41BD;SLIPPY_COMMON_007;58;0;0;0;0;¡Fox, no dejan de perseguirme! ¡Haz algo!;Fox, estão me perseguir! Faça alguma coisa!
-67;51B45C2C;SLIPPY_COMMON_008;59;0;0;0;0;¡Gracias, Fox! Pensé que no lo contaba...;Obrigado, Fox! Achei que não ia sobreviver...
-68;4674E55F;SLIPPY_COMMON_010;60;0;0;0;0;¡Detrás de ti, Fox!;Atrás de você, Fox!
-69;4674E55F;SLIPPY_COMMON_010;60;0;0;1;1;¡Rápido, haz un rizo!;Rápido, faça um loop!
-70;3173D5C9;SLIPPY_COMMON_011;61;0;0;0;0;¡Eh! ¡Esa presa era mía!;Ei! Aquela presa era minha!
-71;287A8473;SLIPPY_COMMON_012;62;0;0;0;0;¡Si no me retiro ahora,;Se eu não recuar agora, serei 
-72;287A8473;SLIPPY_COMMON_012;62;0;0;1;1;seré pasto de los monos!;comida para os macacos!
-73;5F7DB4E5;SLIPPY_COMMON_013;63;0;0;0;0;¿Estás bien, Fox?;Você está bem, Fox?
-74;41192146;SLIPPY_COMMON_014;64;0;0;0;0;¡Le he dado a uno!;Acertei um!
-75;361E11D0;SLIPPY_COMMON_015;65;0;0;0;0;¡Deprisa! ¡Ya casi no queda tiempo!;Depressa! Quase não resta tempo!
-76;2F17406A;SLIPPY_COMMON_016;66;0;0;0;0;Me da a mí que no lo;Tenho a impressão de que não
+65;360C712B;SLIPPY_COMMON_006;57;0;0;0;0;Tengo al enemigo encima. ï¿½Ayï¿½dame, Fox!;O inimigo estï¿½ em cima de mim. Me ajude, Fox!
+66;410B41BD;SLIPPY_COMMON_007;58;0;0;0;0;ï¿½Fox, no dejan de perseguirme! ï¿½Haz algo!;Fox, estï¿½o me perseguir! Faï¿½a alguma coisa!
+67;51B45C2C;SLIPPY_COMMON_008;59;0;0;0;0;ï¿½Gracias, Fox! Pensï¿½ que no lo contaba...;Obrigado, Fox! Achei que nï¿½o ia sobreviver...
+68;4674E55F;SLIPPY_COMMON_010;60;0;0;0;0;ï¿½Detrï¿½s de ti, Fox!;Atrï¿½s de vocï¿½, Fox!
+69;4674E55F;SLIPPY_COMMON_010;60;0;0;1;1;ï¿½Rï¿½pido, haz un rizo!;Rï¿½pido, faï¿½a um loop!
+70;3173D5C9;SLIPPY_COMMON_011;61;0;0;0;0;ï¿½Eh! ï¿½Esa presa era mï¿½a!;Ei! Aquela presa era minha!
+71;287A8473;SLIPPY_COMMON_012;62;0;0;0;0;ï¿½Si no me retiro ahora,;Se eu nï¿½o recuar agora, serei 
+72;287A8473;SLIPPY_COMMON_012;62;0;0;1;1;serï¿½ pasto de los monos!;comida para os macacos!
+73;5F7DB4E5;SLIPPY_COMMON_013;63;0;0;0;0;ï¿½Estï¿½s bien, Fox?;Vocï¿½ estï¿½ bem, Fox?
+74;41192146;SLIPPY_COMMON_014;64;0;0;0;0;ï¿½Le he dado a uno!;Acertei um!
+75;361E11D0;SLIPPY_COMMON_015;65;0;0;0;0;ï¿½Deprisa! ï¿½Ya casi no queda tiempo!;Depressa! Quase nï¿½o resta tempo!
+76;2F17406A;SLIPPY_COMMON_016;66;0;0;0;0;Me da a mï¿½ que no lo;Tenho a impressï¿½o de que nï¿½o
 77;2F17406A;SLIPPY_COMMON_016;66;0;0;1;1;vamos a conseguir...;vamos conseguir...
-78;48AF6D6D;SLIPPY_COMMON_018;67;0;0;0;0;¿Cómo va todo?;Como estão as coisas?
-79;3FA85DFB;SLIPPY_COMMON_019;68;0;0;0;0;¡Ey, Fox!;Ei, Fox!
-80;6D59B69C;SLIPPY_COMMON_020;69;0;0;0;0;¿He hecho algo malo?;Fiz alguma coisa errada?
-81;1A5E860A;SLIPPY_COMMON_021;70;0;0;0;0;No irás a dispararme...;Você não vai atirar em mim, né...
-82;0357D7B0;SLIPPY_COMMON_022;71;0;0;0;0;¿Todo bien?;Tudo bem?
-83;7450E726;SLIPPY_COMMON_023;72;0;0;0;0;¡Fox! ¿Estás bien?;Fox! Você está bem?
-84;6A347285;SLIPPY_COMMON_024;73;0;0;0;0;¡Menos mal que estás bien!;Ainda bem que você está bem!
-85;1D334213;SLIPPY_COMMON_025;74;0;0;0;0;¡Cuidado! ¡Haz un tonel!;Cuidado! Faça um loop!
-86;0A812D98;SLIPPY_SPARE_001;75;0;0;0;0;¡Me pido ir por arriba!;Vou pela parte de cima!
-87;13887C22;SLIPPY_SPARE_002;76;0;0;0;0;Voy por abajo, ¿vale?;Vou pela parte de baixo, tá?
-88;648F4CB4;SLIPPY_SPARE_003;77;0;0;0;0;¡Me pido ir por la derecha!;Vou pela direita!
-89;7AEBD917;SLIPPY_SPARE_004;78;0;0;0;0;¡Me pido ir por la izquierda!;Vou pela esquerda!
-90;08BD5418;NAUS_COMMON_001;79;0;0;0;0;La nave de Falco está reparada;A nave de Falco está reparada
+78;48AF6D6D;SLIPPY_COMMON_018;67;0;0;0;0;ï¿½Cï¿½mo va todo?;Como estï¿½o as coisas?
+79;3FA85DFB;SLIPPY_COMMON_019;68;0;0;0;0;ï¿½Ey, Fox!;Ei, Fox!
+80;6D59B69C;SLIPPY_COMMON_020;69;0;0;0;0;ï¿½He hecho algo malo?;Fiz alguma coisa errada?
+81;1A5E860A;SLIPPY_COMMON_021;70;0;0;0;0;No irï¿½s a dispararme...;Vocï¿½ nï¿½o vai atirar em mim, nï¿½...
+82;0357D7B0;SLIPPY_COMMON_022;71;0;0;0;0;ï¿½Todo bien?;Tudo bem?
+83;7450E726;SLIPPY_COMMON_023;72;0;0;0;0;ï¿½Fox! ï¿½Estï¿½s bien?;Fox! Vocï¿½ estï¿½ bem?
+84;6A347285;SLIPPY_COMMON_024;73;0;0;0;0;ï¿½Menos mal que estï¿½s bien!;Ainda bem que vocï¿½ estï¿½ bem!
+85;1D334213;SLIPPY_COMMON_025;74;0;0;0;0;ï¿½Cuidado! ï¿½Haz un tonel!;Cuidado! DÃª um giro!
+86;0A812D98;SLIPPY_SPARE_001;75;0;0;0;0;ï¿½Me pido ir por arriba!;Vou pela parte de cima!
+87;13887C22;SLIPPY_SPARE_002;76;0;0;0;0;Voy por abajo, ï¿½vale?;Vou pela parte de baixo, tï¿½?
+88;648F4CB4;SLIPPY_SPARE_003;77;0;0;0;0;ï¿½Me pido ir por la derecha!;Vou pela direita!
+89;7AEBD917;SLIPPY_SPARE_004;78;0;0;0;0;ï¿½Me pido ir por la izquierda!;Vou pela esquerda!
+90;08BD5418;NAUS_COMMON_001;79;0;0;0;0;La nave de Falco estï¿½ reparada;A nave de Falco estï¿½ reparada
 91;08BD5418;NAUS_COMMON_001;79;0;0;1;1;y lista para el combate.; e pronta para o combate.
-92;11B405A2;NAUS_COMMON_002;80;0;0;0;0;La nave de Peppy está reparada;A nave do Peppy está reparada
+92;11B405A2;NAUS_COMMON_002;80;0;0;0;0;La nave de Peppy estï¿½ reparada;A nave do Peppy estï¿½ reparada
 93;11B405A2;NAUS_COMMON_002;80;0;0;1;1;y lista para el combate.;e pronta para o combate.
-94;66B33534;NAUS_COMMON_003;81;0;0;0;0;La nave de Slippy está reparada;A nave do Slippy está reparada
+94;66B33534;NAUS_COMMON_003;81;0;0;0;0;La nave de Slippy estï¿½ reparada;A nave do Slippy estï¿½ reparada
 95;66B33534;NAUS_COMMON_003;81;0;0;1;1;y lista para el combate.;e pronta para o combate.
 96;0FD09001;NAUS_COMMON_005;82;0;0;0;0;Queda poco tiempo.;Falta pouco tempo.
-97;16D9C1BB;NAUS_COMMON_006;83;0;0;0;0;Se está agotando el tiempo;O tempo está se esgotando
-98;16D9C1BB;NAUS_COMMON_006;83;0;0;1;1;para cumplir la misión.;para cumprir a missão.
-99;61DEF12D;NAUS_COMMON_007;84;0;0;0;0;Posición confirmada.;Posição confirmada.
+97;16D9C1BB;NAUS_COMMON_006;83;0;0;0;0;Se estï¿½ agotando el tiempo;O tempo estï¿½ se esgotando
+98;16D9C1BB;NAUS_COMMON_006;83;0;0;1;1;para cumplir la misiï¿½n.;para cumprir a missï¿½o.
+99;61DEF12D;NAUS_COMMON_007;84;0;0;0;0;Posiciï¿½n confirmada.;Posiï¿½ï¿½o confirmada.
 100;61DEF12D;NAUS_COMMON_007;84;0;0;1;1;Enviando suministros.;Enviando suprimentos.
 101;7161ECBC;NAUS_COMMON_008;85;0;0;0;0;Buen trabajo.;Bom trabalho.
-102;0666DC2A;NAUS_COMMON_009;86;0;0;0;0;Bien. Sigue así.;Ótimo. Continue assim.
-103;66A155CF;NAUS_COMMON_010;87;0;0;0;0;Felicidades. Has conseguido un nuevo récord.;Parabéns. Você bateu um novo recorde.
-104;11A66559;NAUS_COMMON_011;88;0;0;0;0;Slippy y yo hemos diseñado;Slippy e eu projetamos este veículo
-105;11A66559;NAUS_COMMON_011;88;0;0;1;1;este vehículo todoterreno acorazado.;blindado para todo terreno.
-106;08AF34E3;NAUS_COMMON_012;89;0;0;0;0;Su nombre es Roadmaster.;O nome dele é Roadmaster.
-107;7FA80475;NAUS_COMMON_013;90;0;0;0;0;Pruébalo. Es fácil de manejar.;Experimente. É fácil de dirigir.
-108;61CC91D6;NAUS_COMMON_014;91;0;0;0;0;Nave dañada.;Nave danificada.
-109;4C238835;PEPPER_COMMON_001;92;0;0;0;0;¡El tiempo apremia!;O tempo está se esgotando!
-110;552AD98F;PEPPER_COMMON_002;93;0;0;0;0;Date prisa. ¡No queda tiempo!;Depressa. Não dá mais tempo!
-111;25402D00;PEPPER_COMMON_007;94;0;0;0;0;¡¿Quéee?!;O quêêê?!
+102;0666DC2A;NAUS_COMMON_009;86;0;0;0;0;Bien. Sigue asï¿½.;ï¿½timo. Continue assim.
+103;66A155CF;NAUS_COMMON_010;87;0;0;0;0;Felicidades. Has conseguido un nuevo rï¿½cord.;Parabï¿½ns. Vocï¿½ bateu um novo recorde.
+104;11A66559;NAUS_COMMON_011;88;0;0;0;0;Slippy y yo hemos diseï¿½ado;Slippy e eu projetamos este veï¿½culo
+105;11A66559;NAUS_COMMON_011;88;0;0;1;1;este vehï¿½culo todoterreno acorazado.;blindado para todo terreno.
+106;08AF34E3;NAUS_COMMON_012;89;0;0;0;0;Su nombre es Roadmaster.;O nome dele ï¿½ Roadmaster.
+107;7FA80475;NAUS_COMMON_013;90;0;0;0;0;Pruï¿½balo. Es fï¿½cil de manejar.;Experimente. ï¿½ fï¿½cil de dirigir.
+108;61CC91D6;NAUS_COMMON_014;91;0;0;0;0;Nave daï¿½ada.;Nave danificada.
+109;4C238835;PEPPER_COMMON_001;92;0;0;0;0;ï¿½El tiempo apremia!;O tempo estï¿½ se esgotando!
+110;552AD98F;PEPPER_COMMON_002;93;0;0;0;0;Date prisa. ï¿½No queda tiempo!;Depressa. Nï¿½o dï¿½ mais tempo!
+111;25402D00;PEPPER_COMMON_007;94;0;0;0;0;ï¿½ï¿½Quï¿½ee?!;O quï¿½ï¿½ï¿½?!
 112;35FF3091;PEPPER_COMMON_008;95;0;0;0;0;Me ha salido por un ojo de la cara,;Me custou os olhos da cara,
 113;35FF3091;PEPPER_COMMON_008;95;0;0;1;1;pero ha merecido la pena.;mas valeu a pena.
-114;561FBF66;WOLF_COMMON_001;96;0;0;0;0;¡Rayo eléctrico!;Raio elétrico!
-115;4F16EEDC;WOLF_COMMON_002;97;0;0;0;0;¡Tornado relámpago!;Tornado relâmpago!
-116;3811DE4A;WOLF_COMMON_003;98;0;0;0;0;¡Filo de las sombras!;Lâmina das sombras!
-117;26754BE9;WOLF_COMMON_004;99;0;0;0;0;¡Te estás poniendo gallito!;Você tá ficando arrogante!
-118;51727B7F;WOLF_COMMON_005;100;0;0;0;0;¡Orbital Wolf!;Orbital Wolf!
-119;487B2AC5;WOLF_COMMON_006;101;0;0;0;0;¡Toma esto!;Toma isso!
-120;3F7C1A53;WOLF_COMMON_007;102;0;0;0;0;¡Venga ya!...;Qual é!...
-121;2FC307C2;WOLF_COMMON_008;103;0;0;0;0;Demasiado fácil...;Fácil demais...
-122;58C43754;WOLF_COMMON_009;104;0;0;0;0;¿Eso es todo lo que sabes hacer?;É só isso que você sabe fazer?
-123;3803BEB1;WOLF_COMMON_010;105;0;0;0;0;¡Adelante!;Venha!
-124;4F048E27;WOLF_COMMON_011;106;0;0;0;0;Qué patético...;Que patético...
-125;560DDF9D;WOLF_COMMON_012;107;0;0;0;0;¡Demasiado lento!;Lento demais!
-126;210AEF0B;WOLF_COMMON_013;108;0;0;0;0;¡Ja, ja, ja, ja!;Ha, ha, ha, ha!
-127;3F6E7AA8;WOLF_COMMON_014;109;0;0;0;0;¡Me haces cosquillas!;Você tá me fazendo cócegas!
-128;48694A3E;WOLF_COMMON_015;110;0;0;0;0;¿Pero estás luchando en serio?;Mas você está lutando de verdade?
-129;51601B84;WOLF_COMMON_016;111;0;0;0;0;¡Voy a por ti, Fox!;Vou te pegar, Fox!
-130;26672B12;WOLF_COMMON_017;112;0;0;0;0;Vaya, combates tan bien como;Nossa, você luta tão bem quanto
-131;26672B12;WOLF_COMMON_017;112;0;0;1;1;tu padre... De tal palo, tal astilla, ¿no?;seu pai... Tal pai, tal filho, né?
-132;36D83683;WOLF_COMMON_018;113;0;0;0;0;¿A qué juegas?;O que você está tramando?
-133;36D83683;WOLF_COMMON_018;113;0;0;1;1;¡Tu padre me daba más guerra!;Seu pai me dava mais trabalho!
-134;41DF0615;WOLF_COMMON_019;114;0;0;0;0;No... ¡No puedo perder!;Não... Não posso perder!
-135;2578467C;LEON_COMMON_001;115;0;0;0;0;¡Rayo eléctrico!;Raio elétrico!
-136;3C7117C6;LEON_COMMON_002;116;0;0;0;0;¡Tornado relámpago!;Tornado relâmpago!
-137;4B762750;LEON_COMMON_003;117;0;0;0;0;¡Filo de las sombras!;Lâmina das sombras!
-138;5512B2F3;LEON_COMMON_004;118;0;0;0;0;¡Te arrepentirás de enfrentarte;Você vai se arrepender de ter mexido
-139;5512B2F3;LEON_COMMON_004;118;0;0;1;1;a mí!;comigo!
-140;22158265;LEON_COMMON_005;119;0;0;0;0;¡Camuflaje camaleónico!;Camuflagem camaleônica!
-141;3B1CD3DF;LEON_COMMON_006;120;0;0;0;0;¡Eres un blanco fácil!;Você é um alvo fácil!
-142;4C1BE349;LEON_COMMON_007;121;0;0;0;0;¡Aún no he dicho;Ainda não disse
-143;4C1BE349;LEON_COMMON_007;121;0;0;1;1;mi última palabra!;minha última palavra!
-144;5CA4FED8;LEON_COMMON_008;122;0;0;0;0;¡Qué triste!;Que triste!
-145;2BA3CE4E;LEON_COMMON_009;123;0;0;0;0;¡Ríndete de una vez!;Renda-se de uma vez!
-146;4B6447AB;LEON_COMMON_010;124;0;0;0;0;¡Ja, das pena!;Ha, você é patético!
-147;3C63773D;LEON_COMMON_011;125;0;0;0;0;¡Eres muy lento!;Você é muito lento!
-148;256A2687;LEON_COMMON_012;126;0;0;0;0;¡Ahí queda eso!;É só isso!
-149;526D1611;LEON_COMMON_013;127;0;0;0;0;¡Bah, solo es un rasguño!;Ah, é só um arranhão!
-150;4C0983B2;LEON_COMMON_014;128;0;0;0;0;¡Has fallado!;Você errou!
-151;3B0EB324;LEON_COMMON_015;129;0;0;0;0;Te tengo en el punto de mira,;Estou de olho em você, sua
-152;3B0EB324;LEON_COMMON_015;129;0;0;1;1;zorrito engreído...;raposinha convencida...
-153;2207E29E;LEON_COMMON_016;130;0;0;0;0;¡Rayos! ¡¿Cómo has podido verme?!;Caramba! Como você conseguiu me ver?!
-154;5500D208;LEON_COMMON_017;131;0;0;0;0;¡No puede ser!;Não pode ser!
-155;0157EDCB;PIGMA_COMMON_001;132;0;0;0;0;¡Rayo eléctrico!;Raio elétrico!
-156;185EBC71;PIGMA_COMMON_002;133;0;0;0;0;¡Tornado relámpago!;Tornado relâmpago!
-157;6F598CE7;PIGMA_COMMON_003;134;0;0;0;0;¡Filo de las sombras!;Lâmina das sombras!
-158;713D1944;PIGMA_COMMON_004;135;0;0;0;0;¡Bombas Pigma!;Bombas Pigma!
-159;063A29D2;PIGMA_COMMON_005;136;0;0;0;0;¡Voy a por todas!;Vou dar tudo de mim!
-160;1F337868;PIGMA_COMMON_006;137;0;0;0;0;¡Esto está chupado!;Isso é moleza!
-161;683448FE;PIGMA_COMMON_007;138;0;0;0;0;¡Ya estoy harto de ti!;Já estou de saco cheio de você!
-162;788B556F;PIGMA_COMMON_008;139;0;0;0;0;¡Ahí va un regalito!;Aí vai um presentinho!
-163;0F8C65F9;PIGMA_COMMON_009;140;0;0;0;0;¡Basta de tonterías!;Chega de bobagem!
-164;6F4BEC1C;PIGMA_COMMON_010;141;0;0;0;0;¡Eres una tortuga! Ji, ji, ji.;Você é uma tartaruga! Hi, hi, hi.
-165;184CDC8A;PIGMA_COMMON_011;142;0;0;0;0;¡A ver si me pillas!;Tenta me pegar!
-166;01458D30;PIGMA_COMMON_012;143;0;0;0;0;¡No me haces ni cosquillas!;Você nem me faz cócegas!
-167;7642BDA6;PIGMA_COMMON_013;144;0;0;0;0;¡No me atraparás!;Você não vai me pegar!
-168;68262805;PIGMA_COMMON_014;145;0;0;0;0;Te vas a enterar. ¡Soy el piloto;Você vai ver. Eu sou o piloto mais
-169;68262805;PIGMA_COMMON_014;145;0;0;1;1;más temible de Star Wolf!;temido da Star Wolf!
-170;1F211893;PIGMA_COMMON_015;146;0;0;0;0;¡No! ¡Mi recompensa! ¡Aaaah!;Não! Minha recompensa! Aaaah!
-171;31DCB827;ANDREW_COMMON_001;147;0;0;0;0;¡Rayo eléctrico!;Raio elétrico!
-172;28D5E99D;ANDREW_COMMON_002;148;0;0;0;0;¡Tornado relámpago!;Tornado relâmpago!
-173;5FD2D90B;ANDREW_COMMON_003;149;0;0;0;0;¡Filo de las sombras!;Lâmina das sombras!
-174;41B64CA8;ANDREW_COMMON_004;150;0;0;0;0;¡Módulos de plasma!;Módulos de plasma!
-175;36B17C3E;ANDREW_COMMON_005;151;0;0;0;0;¡No tendré piedad!;Não terei piedade!
-176;2FB82D84;ANDREW_COMMON_006;152;0;0;0;0;¡Te voy a machacar!;Vou te esmagar!
-177;58BF1D12;ANDREW_COMMON_007;153;0;0;0;0;¡Te haré sufrir!;Vou te fazer sofrer!
-178;48000083;ANDREW_COMMON_008;154;0;0;0;0;¿Algún último deseo?;Algum último desejo?
-179;3F073015;ANDREW_COMMON_009;155;0;0;0;0;¡No me das ningún miedo!;Você não me assusta nem um pouco!
-180;5FC0B9F0;ANDREW_COMMON_010;156;0;0;0;0;¡Nunca me alcanzarás!;Você nunca vai me alcançar!
-181;28C78966;ANDREW_COMMON_011;157;0;0;0;0;¡Te tengo a tiro!;Você está na minha mira!
-182;31CED8DC;ANDREW_COMMON_012;158;0;0;0;0;¡Acabaré contigo!;Vou acabar com você!
-183;46C9E84A;ANDREW_COMMON_013;159;0;0;0;0;¡Me tienes harto!;Estou farto de você!
-184;58AD7DE9;ANDREW_COMMON_014;160;0;0;0;0;¡No te escaparás, comadreja!;Você não vai escapar de min
-185;2FAA4D7F;ANDREW_COMMON_015;161;0;0;0;0;¡Te vas a enterar!;Você vai pagar por isso!
-186;36A31CC5;ANDREW_COMMON_016;162;0;0;0;0;¡Tío Andross!;Tio Andross!
-187;1234DA99;KATT_COMMON_001;163;0;0;0;0;¡Ay! ¿Así tratas a una señorita?;Ai! É assim que se trata uma moça?
+114;561FBF66;WOLF_COMMON_001;96;0;0;0;0;ï¿½Rayo elï¿½ctrico!;Raio elï¿½trico!
+115;4F16EEDC;WOLF_COMMON_002;97;0;0;0;0;ï¿½Tornado relï¿½mpago!;Tornado relï¿½mpago!
+116;3811DE4A;WOLF_COMMON_003;98;0;0;0;0;ï¿½Filo de las sombras!;Lï¿½mina das sombras!
+117;26754BE9;WOLF_COMMON_004;99;0;0;0;0;ï¿½Te estï¿½s poniendo gallito!;Vocï¿½ tï¿½ ficando arrogante!
+118;51727B7F;WOLF_COMMON_005;100;0;0;0;0;ï¿½Orbital Wolf!;Orbital Wolf!
+119;487B2AC5;WOLF_COMMON_006;101;0;0;0;0;ï¿½Toma esto!;Toma isso!
+120;3F7C1A53;WOLF_COMMON_007;102;0;0;0;0;ï¿½Venga ya!...;Qual ï¿½!...
+121;2FC307C2;WOLF_COMMON_008;103;0;0;0;0;Demasiado fï¿½cil...;Fï¿½cil demais...
+122;58C43754;WOLF_COMMON_009;104;0;0;0;0;ï¿½Eso es todo lo que sabes hacer?;ï¿½ sï¿½ isso que vocï¿½ sabe fazer?
+123;3803BEB1;WOLF_COMMON_010;105;0;0;0;0;ï¿½Adelante!;Venha!
+124;4F048E27;WOLF_COMMON_011;106;0;0;0;0;Quï¿½ patï¿½tico...;Que patï¿½tico...
+125;560DDF9D;WOLF_COMMON_012;107;0;0;0;0;ï¿½Demasiado lento!;Lento demais!
+126;210AEF0B;WOLF_COMMON_013;108;0;0;0;0;ï¿½Ja, ja, ja, ja!;Ha, ha, ha, ha!
+127;3F6E7AA8;WOLF_COMMON_014;109;0;0;0;0;ï¿½Me haces cosquillas!;Vocï¿½ tï¿½ me fazendo cï¿½cegas!
+128;48694A3E;WOLF_COMMON_015;110;0;0;0;0;ï¿½Pero estï¿½s luchando en serio?;Mas vocï¿½ estï¿½ lutando de verdade?
+129;51601B84;WOLF_COMMON_016;111;0;0;0;0;ï¿½Voy a por ti, Fox!;Vou te pegar, Fox!
+130;26672B12;WOLF_COMMON_017;112;0;0;0;0;Vaya, combates tan bien como;Nossa, vocï¿½ luta tï¿½o bem quanto
+131;26672B12;WOLF_COMMON_017;112;0;0;1;1;tu padre... De tal palo, tal astilla, ï¿½no?;seu pai... Tal pai, tal filho, nï¿½?
+132;36D83683;WOLF_COMMON_018;113;0;0;0;0;ï¿½A quï¿½ juegas?;O que vocï¿½ estï¿½ tramando?
+133;36D83683;WOLF_COMMON_018;113;0;0;1;1;ï¿½Tu padre me daba mï¿½s guerra!;Seu pai me dava mais trabalho!
+134;41DF0615;WOLF_COMMON_019;114;0;0;0;0;No... ï¿½No puedo perder!;Nï¿½o... Nï¿½o posso perder!
+135;2578467C;LEON_COMMON_001;115;0;0;0;0;ï¿½Rayo elï¿½ctrico!;Raio elï¿½trico!
+136;3C7117C6;LEON_COMMON_002;116;0;0;0;0;ï¿½Tornado relï¿½mpago!;Tornado relï¿½mpago!
+137;4B762750;LEON_COMMON_003;117;0;0;0;0;ï¿½Filo de las sombras!;Lï¿½mina das sombras!
+138;5512B2F3;LEON_COMMON_004;118;0;0;0;0;ï¿½Te arrepentirï¿½s de enfrentarte;Vocï¿½ vai se arrepender de ter mexido
+139;5512B2F3;LEON_COMMON_004;118;0;0;1;1;a mï¿½!;comigo!
+140;22158265;LEON_COMMON_005;119;0;0;0;0;ï¿½Camuflaje camaleï¿½nico!;Camuflagem camaleï¿½nica!
+141;3B1CD3DF;LEON_COMMON_006;120;0;0;0;0;ï¿½Eres un blanco fï¿½cil!;Vocï¿½ ï¿½ um alvo fï¿½cil!
+142;4C1BE349;LEON_COMMON_007;121;0;0;0;0;ï¿½Aï¿½n no he dicho;Ainda nï¿½o disse
+143;4C1BE349;LEON_COMMON_007;121;0;0;1;1;mi ï¿½ltima palabra!;minha ï¿½ltima palavra!
+144;5CA4FED8;LEON_COMMON_008;122;0;0;0;0;ï¿½Quï¿½ triste!;Que triste!
+145;2BA3CE4E;LEON_COMMON_009;123;0;0;0;0;ï¿½Rï¿½ndete de una vez!;Renda-se de uma vez!
+146;4B6447AB;LEON_COMMON_010;124;0;0;0;0;ï¿½Ja, das pena!;Ha, vocï¿½ ï¿½ patï¿½tico!
+147;3C63773D;LEON_COMMON_011;125;0;0;0;0;ï¿½Eres muy lento!;Vocï¿½ ï¿½ muito lento!
+148;256A2687;LEON_COMMON_012;126;0;0;0;0;ï¿½Ahï¿½ queda eso!;ï¿½ sï¿½ isso!
+149;526D1611;LEON_COMMON_013;127;0;0;0;0;ï¿½Bah, solo es un rasguï¿½o!;Ah, ï¿½ sï¿½ um arranhï¿½o!
+150;4C0983B2;LEON_COMMON_014;128;0;0;0;0;ï¿½Has fallado!;Vocï¿½ errou!
+151;3B0EB324;LEON_COMMON_015;129;0;0;0;0;Te tengo en el punto de mira,;Estou de olho em vocï¿½, sua
+152;3B0EB324;LEON_COMMON_015;129;0;0;1;1;zorrito engreï¿½do...;raposinha convencida...
+153;2207E29E;LEON_COMMON_016;130;0;0;0;0;ï¿½Rayos! ï¿½ï¿½Cï¿½mo has podido verme?!;Caramba! Como vocï¿½ conseguiu me ver?!
+154;5500D208;LEON_COMMON_017;131;0;0;0;0;ï¿½No puede ser!;Nï¿½o pode ser!
+155;0157EDCB;PIGMA_COMMON_001;132;0;0;0;0;ï¿½Rayo elï¿½ctrico!;Raio elï¿½trico!
+156;185EBC71;PIGMA_COMMON_002;133;0;0;0;0;ï¿½Tornado relï¿½mpago!;Tornado relï¿½mpago!
+157;6F598CE7;PIGMA_COMMON_003;134;0;0;0;0;ï¿½Filo de las sombras!;Lï¿½mina das sombras!
+158;713D1944;PIGMA_COMMON_004;135;0;0;0;0;ï¿½Bombas Pigma!;Bombas Pigma!
+159;063A29D2;PIGMA_COMMON_005;136;0;0;0;0;ï¿½Voy a por todas!;Vou dar tudo de mim!
+160;1F337868;PIGMA_COMMON_006;137;0;0;0;0;ï¿½Esto estï¿½ chupado!;Isso ï¿½ moleza!
+161;683448FE;PIGMA_COMMON_007;138;0;0;0;0;ï¿½Ya estoy harto de ti!;Jï¿½ estou de saco cheio de vocï¿½!
+162;788B556F;PIGMA_COMMON_008;139;0;0;0;0;ï¿½Ahï¿½ va un regalito!;Aï¿½ vai um presentinho!
+163;0F8C65F9;PIGMA_COMMON_009;140;0;0;0;0;ï¿½Basta de tonterï¿½as!;Chega de bobagem!
+164;6F4BEC1C;PIGMA_COMMON_010;141;0;0;0;0;ï¿½Eres una tortuga! Ji, ji, ji.;Vocï¿½ ï¿½ uma tartaruga! Hi, hi, hi.
+165;184CDC8A;PIGMA_COMMON_011;142;0;0;0;0;ï¿½A ver si me pillas!;Tenta me pegar!
+166;01458D30;PIGMA_COMMON_012;143;0;0;0;0;ï¿½No me haces ni cosquillas!;Vocï¿½ nem me faz cï¿½cegas!
+167;7642BDA6;PIGMA_COMMON_013;144;0;0;0;0;ï¿½No me atraparï¿½s!;Vocï¿½ nï¿½o vai me pegar!
+168;68262805;PIGMA_COMMON_014;145;0;0;0;0;Te vas a enterar. ï¿½Soy el piloto;Vocï¿½ vai ver. Eu sou o piloto mais
+169;68262805;PIGMA_COMMON_014;145;0;0;1;1;mï¿½s temible de Star Wolf!;temido da Star Wolf!
+170;1F211893;PIGMA_COMMON_015;146;0;0;0;0;ï¿½No! ï¿½Mi recompensa! ï¿½Aaaah!;Nï¿½o! Minha recompensa! Aaaah!
+171;31DCB827;ANDREW_COMMON_001;147;0;0;0;0;ï¿½Rayo elï¿½ctrico!;Raio elï¿½trico!
+172;28D5E99D;ANDREW_COMMON_002;148;0;0;0;0;ï¿½Tornado relï¿½mpago!;Tornado relï¿½mpago!
+173;5FD2D90B;ANDREW_COMMON_003;149;0;0;0;0;ï¿½Filo de las sombras!;Lï¿½mina das sombras!
+174;41B64CA8;ANDREW_COMMON_004;150;0;0;0;0;ï¿½Mï¿½dulos de plasma!;Mï¿½dulos de plasma!
+175;36B17C3E;ANDREW_COMMON_005;151;0;0;0;0;ï¿½No tendrï¿½ piedad!;Nï¿½o terei piedade!
+176;2FB82D84;ANDREW_COMMON_006;152;0;0;0;0;ï¿½Te voy a machacar!;Vou te esmagar!
+177;58BF1D12;ANDREW_COMMON_007;153;0;0;0;0;ï¿½Te harï¿½ sufrir!;Vou te fazer sofrer!
+178;48000083;ANDREW_COMMON_008;154;0;0;0;0;ï¿½Algï¿½n ï¿½ltimo deseo?;Algum ï¿½ltimo desejo?
+179;3F073015;ANDREW_COMMON_009;155;0;0;0;0;ï¿½No me das ningï¿½n miedo!;Vocï¿½ nï¿½o me assusta nem um pouco!
+180;5FC0B9F0;ANDREW_COMMON_010;156;0;0;0;0;ï¿½Nunca me alcanzarï¿½s!;Vocï¿½ nunca vai me alcanï¿½ar!
+181;28C78966;ANDREW_COMMON_011;157;0;0;0;0;ï¿½Te tengo a tiro!;Vocï¿½ estï¿½ na minha mira!
+182;31CED8DC;ANDREW_COMMON_012;158;0;0;0;0;ï¿½Acabarï¿½ contigo!;Vou acabar com vocï¿½!
+183;46C9E84A;ANDREW_COMMON_013;159;0;0;0;0;ï¿½Me tienes harto!;Estou farto de vocï¿½!
+184;58AD7DE9;ANDREW_COMMON_014;160;0;0;0;0;ï¿½No te escaparï¿½s, comadreja!;Vocï¿½ nï¿½o vai escapar de min
+185;2FAA4D7F;ANDREW_COMMON_015;161;0;0;0;0;ï¿½Te vas a enterar!;Vocï¿½ vai pagar por isso!
+186;36A31CC5;ANDREW_COMMON_016;162;0;0;0;0;ï¿½Tï¿½o Andross!;Tio Andross!
+187;1234DA99;KATT_COMMON_001;163;0;0;0;0;ï¿½Ay! ï¿½Asï¿½ tratas a una seï¿½orita?;Ai! ï¿½ assim que se trata uma moï¿½a?
 188;0A177CE2;DIRECT_COMMON_001;164;0;0;0;0;Accediendo al sistema...;Acessando o sistema...
-189;131E2D58;DIRECT_COMMON_002;165;0;0;0;0;Análisis en curso...;Análise em andamento...
+189;131E2D58;DIRECT_COMMON_002;165;0;0;0;0;Anï¿½lisis en curso...;Anï¿½lise em andamento...
 190;64191DCE;DIRECT_COMMON_003;166;0;0;0;0;Sistema reprogramado.;Sistema reprogramado.
 191;7A7D886D;DIRECT_COMMON_004;167;0;0;0;0;Se han apagado todos los sistemas.;Todos os sistemas foram desligados.
 192;0D7AB8FB;DIRECT_COMMON_005;168;0;0;0;0;Cierre desactivado.;Bloqueio desativado.
-193;1473E941;DIRECT_COMMON_006;169;0;0;0;0;¿Eh?;Hã?
+193;1473E941;DIRECT_COMMON_006;169;0;0;0;0;ï¿½Eh?;Hï¿½?
 194;6374D9D7;DIRECT_COMMON_007;170;0;0;0;0;Mmm...;Mmm...
 195;73CBC446;DIRECT_COMMON_008;171;0;0;0;0;Error.;Erro.
-196;04CCF4D0;DIRECT_COMMON_009;172;0;0;0;0;¡Ay!;Ai!
-197;640B7D35;DIRECT_COMMON_010;173;0;0;0;0;¡Peligro! ¡Agua!;Perigo! Água!
-198;130C4DA3;DIRECT_COMMON_011;174;0;0;0;0;¡Ah!;Ah!
-199;0A051C19;DIRECT_COMMON_012;175;0;0;0;0;¡Peligro! ¡Quema!;Superaquecendo! Superaquecendo!
-200;7D022C8F;DIRECT_COMMON_013;176;0;0;0;0;¡Listo!;Pronto!
+196;04CCF4D0;DIRECT_COMMON_009;172;0;0;0;0;ï¿½Ay!;Ai!
+197;640B7D35;DIRECT_COMMON_010;173;0;0;0;0;ï¿½Peligro! ï¿½Agua!;Perigo! ï¿½gua!
+198;130C4DA3;DIRECT_COMMON_011;174;0;0;0;0;ï¿½Ah!;Ah!
+199;0A051C19;DIRECT_COMMON_012;175;0;0;0;0;ï¿½Peligro! ï¿½Quema!;Superaquecendo! Superaquecendo!
+200;7D022C8F;DIRECT_COMMON_013;176;0;0;0;0;ï¿½Listo!;Pronto!
 201;6366B92C;DIRECT_COMMON_014;177;0;0;0;0;Soltando...;Soltando...
-202;146189BA;DIRECT_COMMON_015;178;0;0;0;0;¡Uy!;Opa!
-203;7A6FE896;DIRECT_COMMON_017;179;0;0;0;0;¡Vamos allá!;Vamos lá!
-204;6AD0F507;DIRECT_COMMON_018;180;0;0;0;0;¡Es mi turno!;É a minha vez!
-205;1DD7C591;DIRECT_COMMON_019;181;0;0;0;0;¡Yo me ocupo!;Deixa comigo!
+202;146189BA;DIRECT_COMMON_015;178;0;0;0;0;ï¿½Uy!;Opa!
+203;7A6FE896;DIRECT_COMMON_017;179;0;0;0;0;ï¿½Vamos allï¿½!;Vamos lï¿½!
+204;6AD0F507;DIRECT_COMMON_018;180;0;0;0;0;ï¿½Es mi turno!;ï¿½ a minha vez!
+205;1DD7C591;DIRECT_COMMON_019;181;0;0;0;0;ï¿½Yo me ocupo!;Deixa comigo!
 206;0D68D800;DIRECT_COMMON_016;182;0;0;0;0;Sistema operativo activado.;Sistema operacional ativado.
-207;4F262EF6;DIRECT_COMMON_020;183;0;0;0;0;Tarea completada.;Tarefa concluída.
-208;38211E60;DIRECT_COMMON_021;184;0;0;0;0;¡Listo!;Pronto!
+207;4F262EF6;DIRECT_COMMON_020;183;0;0;0;0;Tarea completada.;Tarefa concluï¿½da.
+208;38211E60;DIRECT_COMMON_021;184;0;0;0;0;ï¿½Listo!;Pronto!
