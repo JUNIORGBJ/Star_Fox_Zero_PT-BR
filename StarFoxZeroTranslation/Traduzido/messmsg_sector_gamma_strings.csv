@@ -61,7 +61,7 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 59;4B371488;PEPPY_SECTOR_GAMMA_021;46;0;0;1;1;Uf, menos mal...;Ufa, que bom...
 60;523E4532;PEPPY_SECTOR_GAMMA_022;47;0;0;0;0;¡Aaaaaah!;Aaaaaah!
 61;253975A4;PEPPY_SECTOR_GAMMA_023;48;0;0;0;0;¡Ja! ¡Nunca subestimes a Star Fox!;Ha! Nunca subestime o Star Fox!
-62;3B5DE007;PEPPY_SECTOR_GAMMA_024;49;0;0;0;0;Je, je. Aún me queda para jubilarme.;He, he. Ainda tenho um tempinho até me aposentar.
+62;3B5DE007;PEPPY_SECTOR_GAMMA_024;49;0;0;0;0;Je, je. Aún me queda para jubilarme.;Ainda tenho um tempinho até me aposentar.
 63;3B5DE007;PEPPY_SECTOR_GAMMA_024;49;0;0;1;1;¡Vámonos de aquí, Fox!;Vamos dar o fora daqui, Fox!
 64;4C5AD091;PEPPY_SECTOR_GAMMA_025;50;0;0;0;0;¡Usa el turbo para acelerar!;Usa o turbo para acelerar!
 65;5553812B;PEPPY_SECTOR_GAMMA_026;51;0;0;0;0;¡No!;Não!
@@ -109,6 +109,6 @@ INDEX;EVENT_ID;EVENT_NAME;EVENT_INDEX;PARAGRAPH_ID;PARAGRAPH_INDEX;STRING_ID;STR
 107;51739DDC;PEPPER_SECTOR_GAMMA_001;82;0;0;1;1;un portal en ese sector!;um portal nesse setor!
 108;487ACC66;PEPPER_SECTOR_GAMMA_002;83;0;0;0;0;¡Planean usarlo para atacar Corneria!;Eles planejam usá-lo para atacar Corneria!
 109;6713EEE0;SOLDIER_SECTOR_GAMMA_001;84;0;0;0;0;¿Una sola nave contra nosotros?;Uma única nave contra nós?
-110;6713EEE0;SOLDIER_SECTOR_GAMMA_001;84;0;0;1;1;¡Qué insulto! ¡Derribadla de un cañonazo!;Que insulto! Derrubem-na com um tiro de canhão!
+110;6713EEE0;SOLDIER_SECTOR_GAMMA_001;84;0;0;1;1;¡Qué insulto! ¡Derribadla de un cañonazo!;Que insulto! Fogo de canhão!
 111;7E1ABF5A;SOLDIER_SECTOR_GAMMA_002;85;0;0;0;0;¡¿Cómo ha podido vencernos;Como essa velharia
 112;7E1ABF5A;SOLDIER_SECTOR_GAMMA_002;85;0;0;1;1;este vejestorio?!;conseguiu nos derrotar?!
