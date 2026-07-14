@@ -40,11 +40,37 @@ Caso encontre erros de tradução, ortografia ou inconsistências durante o jogo
 
 ## 🔹 Instalação
 
-### ...
+1. Abra o **Cemu**.
+2. Clique com o **botão direito** sobre o jogo **Star Fox Zero**.
+3. Selecione **Pasta do Jogo**.
+4. Extraia o conteúdo do arquivo **Star.Fox.Zero.PT-BR.zip** para essa pasta.
+5. Quando solicitado, **substitua os arquivos existentes**.
+
+> **Importante:** Após a extração, a pasta do jogo deverá conter as seguintes pastas:
+
+```text
+code/
+content/
+meta/
+```
+
+Se essa estrutura estiver correta, a tradução será carregada normalmente.
+
+### 🌐 Idioma do jogo
+
+Antes de iniciar o jogo, configure o idioma para uma das opções abaixo:
+
+- 🇬🇧 **GB (English - United Kingdom)**
+- 🇪🇸 **ES (Español)**
+
+> A tradução em português utiliza um desses idiomas como base.
 
 ## 🔹 Ferramentas Utilizadas
 
 * Visual Studio Code
+* Microsoft Excel
+* DeepL API (ByGBJ)
+* StarFox Zero Localization Tool (ByGBJ)
 
 ## 🔹 Apoie o Projeto
 
