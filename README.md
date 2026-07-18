@@ -38,12 +38,12 @@ Caso encontre erros de tradução, ortografia ou inconsistências durante o jogo
 * Nintendo Wii U
 * Emulador Cemu
 
-## 🔹 Instalação
+## 📥 Instalação
 
 1. Abra o **Cemu**.
 2. Clique com o **botão direito** sobre o jogo **Star Fox Zero**.
 3. Selecione **Pasta do Jogo**.
-4. Extraia o conteúdo do arquivo **Star.Fox.Zero.PT-BR.zip** para essa pasta.
+4. Extraia o conteúdo do arquivo **Star.Fox.Zero.EUR.Traducao.zip** ou **Star.Fox.Zero.USA.Traducao.zip**  para essa pasta.
 5. Quando solicitado, **substitua os arquivos existentes**.
 
 > **Importante:** Após a extração, a pasta do jogo deverá conter as seguintes pastas:
@@ -60,8 +60,13 @@ Se essa estrutura estiver correta, a tradução será carregada normalmente.
 
 Antes de iniciar o jogo, configure o idioma para uma das opções abaixo:
 
-- 🇬🇧 **GB (English - United Kingdom)**
-- 🇪🇸 **ES (Español)**
+Versão Europeia
+- 🇬🇧 **GB (Inglês - Britânico)**
+- 🇪🇸 **ES (Espanhol)**
+
+Versão Americana
+- 🇺🇸 **US (Inglês - Estados Unidos)**
+- 🇪🇸 **ES (Espanhol)**
 
 > A tradução em português utiliza um desses idiomas como base.
 
